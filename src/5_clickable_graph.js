@@ -8,7 +8,6 @@ let point_size = 10;
 
 // something similar to a hash table that makes lookup really fast
 let data_coords = {};
-
 let matchCoords = [];
 
 // asynchronous data loading
@@ -106,6 +105,6 @@ function draw() {
 
   noStroke();
   textSize(50);
-  text("Click the dots! And check the console.", width / 2, height - 100);
+  text("Click the dots!", width / 2, height - 100);
   textAlign(CENTER);
 }
