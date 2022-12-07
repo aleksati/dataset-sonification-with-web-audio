@@ -43,10 +43,6 @@ function setup() {
   loadData();
   setXandYfactor();
   storeDataCoords();
-
-  textFont(50);
-  textSize(50);
-  textAlign(CENTER, CENTER);
 }
 
 function isMatch(mouseX, mouseY, targetCoords) {
