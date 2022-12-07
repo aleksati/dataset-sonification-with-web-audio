@@ -43,6 +43,10 @@ function setup() {
   loadData();
   setXandYfactor();
   storeDataCoords();
+
+  textFont(50);
+  textSize(50);
+  textAlign(CENTER, CENTER);
 }
 
 function isMatch(mouseX, mouseY, targetCoords) {
@@ -78,9 +82,9 @@ function isMatch(mouseX, mouseY, targetCoords) {
 // this function fires after the mouse has been clicked anywhere
 function mouseClicked(mouse) {
   const { match, vals } = isMatch(mouse.x, mouse.y, data_coords);
-  console.log("Did you click a dot?: ", match);
   if (match) {
-    console.log("At coordinate (x, y): ", vals);
+    console.log("You clicked a dot!");
+    console.log("Coordinate:", vals);
     matchCoords = vals;
   } else {
     matchCoords = [];
@@ -88,7 +92,7 @@ function mouseClicked(mouse) {
 }
 
 function draw() {
-  background(220);
+  background(225, 255, 255, 255);
   strokeWeight(point_size);
 
   for (i = 1; i < data_cleaned.length; i++) {
@@ -103,4 +107,9 @@ function draw() {
 
     point(x, y);
   }
+
+  noStroke();
+  textSize(50);
+  text("Click the dots! And check the console.", width / 2, height - 100);
+  textAlign(CENTER);
 }
