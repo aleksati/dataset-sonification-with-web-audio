@@ -1,18 +1,15 @@
-// graph_acidity
-// Make a simple XY plot where the harvest year is on the X-axis and the acidity score of the coffee is on the Y-axis.
+// 5_clickable_graph
 
 let data;
 let data_cleaned;
 let y_factor;
 let x_factor;
-let point_size = 8;
+let point_size = 10;
 
-// something similar to a hash table
-// makes lookup really fast
+// something similar to a hash table that makes lookup really fast
 let data_coords = {};
 
-// the area around each dot we accept as a "hit"
-let wiggle_room = 5;
+let matchCoords = [];
 
 // asynchronous data loading
 function preload() {
@@ -25,29 +22,33 @@ function loadData() {
   data_cleaned = data_cleaned.slice(0, 50);
 }
 
-function storeDataCoords() {
+function setXandYfactor() {
   y_factor = height / 10;
   x_factor = width / data_cleaned.length;
+}
 
+function storeDataCoords() {
   for (i = 1; i < data_cleaned.length; i++) {
     x = Math.floor(x_factor * i);
     y = Math.floor(height - data_cleaned[i] * y_factor);
 
     // we know that X will always be different. for every i
-    data_coords[x] = y;
+    data_coords[x] = {};
+    data_coords[x][y] = true;
   }
 }
 
 function setup() {
   createCanvas(800, 600);
   loadData();
+  setXandYfactor();
   storeDataCoords();
 }
 
 function isMatch(mouseX, mouseY, targetCoords) {
-  // we do mouse value + and - the wiggle_room.
-  let mouseX_filtered = mouseX - wiggle_room;
-  let mouseY_filtered = mouseY - wiggle_room;
+  // we take mouse value + and - the point_size to increase chances of hitting a dot.
+  let mouseX_filtered = mouseX - point_size;
+  let mouseY_filtered = mouseY - point_size;
   let match = false;
   let vals = [];
 
@@ -55,13 +56,13 @@ function isMatch(mouseX, mouseY, targetCoords) {
   //   console.log("first coord:", targetCoords);
 
   // check for x matches
-  for (let x = 0; x < wiggle_room * 2; x++) {
+  for (let x = 0; x < point_size * 2; x++) {
     if (targetCoords[mouseX_filtered + x]) {
       let correctX = mouseX_filtered + x;
 
       // if X matches, check for Y matches
-      for (let y = 0; y < wiggle_room * 2; y++) {
-        if (targetCoords[correctX] == mouseY_filtered + y) {
+      for (let y = 0; y < point_size * 2; y++) {
+        if (targetCoords[correctX][mouseY_filtered + y]) {
           let correctY = mouseY_filtered + y;
           match = true;
           vals = [correctX, correctY];
@@ -76,22 +77,30 @@ function isMatch(mouseX, mouseY, targetCoords) {
 
 // this function fires after the mouse has been clicked anywhere
 function mouseClicked(mouse) {
-  //   console.log(data_coords);
-  //   console.log("mouse:", mouse.x, mouse.y);
-
   const { match, vals } = isMatch(mouse.x, mouse.y, data_coords);
-  console.log(match, vals);
+  console.log("Did you click a dot?: ", match);
+  if (match) {
+    console.log("At coordinate (x, y): ", vals);
+    matchCoords = vals;
+  } else {
+    matchCoords = [];
+  }
 }
 
 function draw() {
   background(220);
-
-  stroke(255, 0, 255);
   strokeWeight(point_size);
 
-  // for every column entry, create a point.
-  // all points should together strech the length of the graph.
   for (i = 1; i < data_cleaned.length; i++) {
-    point(x_factor * i, height - data_cleaned[i] * y_factor);
+    let x = Math.floor(x_factor * i);
+    let y = Math.floor(height - data_cleaned[i] * y_factor);
+
+    if (x == matchCoords[0] && y == matchCoords[1]) {
+      stroke(0, 255, 0);
+    } else {
+      stroke(255, 0, 0);
+    }
+
+    point(x, y);
   }
 }
