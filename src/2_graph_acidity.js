@@ -2,7 +2,9 @@
 // Make a simple XY plot where the harvest year is on the X-axis and the acidity score of the coffee is on the Y-axis.
 
 let data;
+// for dots
 let data_cleaned;
+
 let y_factor;
 let x_factor;
 let point_size = 3;

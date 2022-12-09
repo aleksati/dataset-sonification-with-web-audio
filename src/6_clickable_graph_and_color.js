@@ -2,10 +2,13 @@
 // only the color of the clicekd point is based on the "number of bags" that year.
 
 let data;
-let data_cleaned;
+let data_size = 50;
 
-// for the color data
+// for dots
+let data_cleaned;
+// for the color
 let data_cleaned_1;
+
 let y_factor;
 let x_factor;
 let point_size = 10;
@@ -21,11 +24,11 @@ function preload() {
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  data_cleaned = data_cleaned.slice(0, 50);
+  data_cleaned = data_cleaned.slice(0, data_size);
 
   // add another column which we will use for color.
   data_cleaned_1 = data.getColumn("Number.of.Bags");
-  data_cleaned_1 = data_cleaned_1.slice(0, 50);
+  data_cleaned_1 = data_cleaned_1.slice(0, data_size);
 }
 
 function setXandYfactor() {

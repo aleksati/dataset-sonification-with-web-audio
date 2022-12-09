@@ -4,6 +4,7 @@
 
 let data;
 let data_cleaned;
+
 let y_factor;
 let x_factor;
 let point_size = 10;

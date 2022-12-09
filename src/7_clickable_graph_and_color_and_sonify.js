@@ -124,7 +124,6 @@ function playAudio() {
 
   // apply some simple scaling
   let scaledAudio = (1 / 10) * audio;
-
   // set attackTime, decayTime, sustainRatio, releaseTime
   env.setADSR(0.001, 0.1, scaledAudio, scaledAudio);
   // play it
