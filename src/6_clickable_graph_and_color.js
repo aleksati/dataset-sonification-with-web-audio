@@ -1,9 +1,11 @@
-// 5_clickable_graph
-// plot the data and interact with it by clicking the dots-
-// we also implement a simple matching algorithm
+// exact same as nr.5,
+// only the color of the clicekd point is based on the "number of bags" that year.
 
 let data;
 let data_cleaned;
+
+// for the color data
+let data_cleaned_1;
 let y_factor;
 let x_factor;
 let point_size = 10;
@@ -19,8 +21,11 @@ function preload() {
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  // limit our dataset a little bbit
   data_cleaned = data_cleaned.slice(0, 50);
+
+  // add another column which we will use for color.
+  data_cleaned_1 = data.getColumn("Number.of.Bags");
+  data_cleaned_1 = data_cleaned_1.slice(0, 50);
 }
 
 function setXandYfactor() {
@@ -37,8 +42,6 @@ function getXandYFromIndex(i) {
 function storeDataCoords() {
   for (i = 1; i < data_cleaned.length; i++) {
     let { x, y } = getXandYFromIndex(i);
-
-    // we know that X will always be different. for every i
     data_coords[x] = {};
     data_coords[x][y] = true;
   }
@@ -57,9 +60,6 @@ function isMatch(mouseX, mouseY, targetCoords) {
   let mouseY_filtered = mouseY - point_size;
   let match = false;
   let coords = [];
-
-  //   console.log("org x and y: ", mouseX, mouseY);
-  //   console.log("first coord:", targetCoords);
 
   // check for x matches
   for (let x = 0; x < point_size * 2; x++) {
@@ -81,13 +81,21 @@ function isMatch(mouseX, mouseY, targetCoords) {
   return { match, coords };
 }
 
+function getAlphaFromIndex(i) {
+  // find the heightest value for normalization.
+  // now i just hard code the value:
+  let max = 300;
+
+  // normalize value;
+  let alpha = (1 / max) * data_cleaned_1[i];
+  return { alpha };
+}
+
 // this function fires after the mouse has been clicked anywhere
 function mouseClicked(mouse) {
-  const { match, vals } = isMatch(mouse.x, mouse.y, data_coords);
+  const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
-    console.log("You clicked a dot!");
-    console.log("Coordinate:", vals);
-    matchCoords = vals;
+    matchCoords = coords;
   } else {
     matchCoords = [];
   }
@@ -101,16 +109,24 @@ function draw() {
     let { x, y } = getXandYFromIndex(i);
 
     if (x == matchCoords[0] && y == matchCoords[1]) {
-      stroke(0, 255, 0);
+      // new alphagetting function
+      let { alpha } = getAlphaFromIndex(i);
+
+      stroke(0, 0, 0);
+      stroke(`rgba(0,0,0,${alpha})`);
     } else {
-      stroke(255, 0, 0);
+      stroke(`rgba(255,0,0,1)`);
     }
 
     point(x, y);
   }
 
   noStroke();
-  textSize(50);
-  text("Click the dots!", width / 2, height - 100);
+  textSize(30);
+  text(
+    "The dot opacity equals the number of bags that year",
+    width / 2,
+    height - 100
+  );
   textAlign(CENTER);
 }

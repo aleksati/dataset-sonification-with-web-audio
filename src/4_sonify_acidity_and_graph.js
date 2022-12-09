@@ -37,29 +37,41 @@ function loadAudio() {
   //carrier.amp(modulator);
 }
 
-function setup() {
-  createCanvas(800, 600);
-  loadData();
-  loadAudio();
+function setXandYfactor() {
   y_factor = height / 10;
   x_factor = width / data_cleaned.length;
 }
 
+function getXandYFromIndex(i) {
+  let x = Math.floor(x_factor * i);
+  let y = Math.floor(height - data_cleaned[i] * y_factor);
+  return { x, y };
+}
+
+function setup() {
+  createCanvas(800, 600);
+  loadData();
+  loadAudio();
+  setXandYfactor();
+}
+
 function draw() {
-  background(255);
+  background("white");
 
   // use the acidity data to control the frequecy of our oscillator.
   carrier.freq(data_cleaned[accumulator] * data_scale_factor);
 
   stroke(255, 0, 255);
+  strokeWeight(point_size);
 
   // draw single point
-  strokeWeight(point_size);
-  point(x_factor * accumulator, height - data_cleaned[accumulator] * y_factor);
+  let { x, y } = getXandYFromIndex(accumulator);
+  point(x, y);
 
   // draw a consecutive line
   //for (let i=0; i<accumulator; i++) {
-  //  point(x_factor*i, height - (data_cleaned[i]*y_factor));
+  //  let { x, y } = getXandYFromIndex(i);
+  //  point(x, y);
   //}
 
   // make sure we dont exceed the length of our data.

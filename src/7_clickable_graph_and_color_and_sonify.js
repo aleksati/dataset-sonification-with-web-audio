@@ -1,9 +1,15 @@
-// 5_clickable_graph
-// plot the data and interact with it by clicking the dots-
-// we also implement a simple matching algorithm
+// exact same as nr.5,
+// only the color of the clicekd point is based on the "number of bags" that year.
 
 let data;
+
+// for dots
 let data_cleaned;
+// for the color
+let data_cleaned_1;
+// for audio
+let data_cleaned_2;
+
 let y_factor;
 let x_factor;
 let point_size = 10;
@@ -12,6 +18,10 @@ let point_size = 10;
 let data_coords = {};
 let matchCoords = [];
 
+// audio
+let sine;
+let env;
+
 // asynchronous data loading
 function preload() {
   data = loadTable("./assets/arabica_data_cleaned_year.csv", "header");
@@ -19,8 +29,25 @@ function preload() {
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  // limit our dataset a little bbit
-  data_cleaned = data_cleaned.slice(0, 50);
+  data_cleaned = data_cleaned.slice(0, 100);
+
+  // add another column which we will use for color.
+  data_cleaned_1 = data.getColumn("Number.of.Bags");
+  data_cleaned_1 = data_cleaned_1.slice(0, 100);
+
+  // add another column which we will use for the "length" of the audio
+  data_cleaned_2 = data.getColumn("Flavor");
+  data_cleaned_2 = data_cleaned_2.slice(0, 100);
+}
+
+function loadAudio() {
+  sine = new p5.Oscillator("sine");
+  sine.freq(440);
+  sine.amp(0);
+  sine.start();
+
+  // envolope!
+  env = new p5.Env();
 }
 
 function setXandYfactor() {
@@ -37,16 +64,18 @@ function getXandYFromIndex(i) {
 function storeDataCoords() {
   for (i = 1; i < data_cleaned.length; i++) {
     let { x, y } = getXandYFromIndex(i);
-
-    // we know that X will always be different. for every i
     data_coords[x] = {};
-    data_coords[x][y] = true;
+    data_coords[x][y] = {};
+
+    // I add audio paramters to this index to be retrieved when clicking
+    data_coords[x][y] = { audio: data_cleaned_2[i] };
   }
 }
 
 function setup() {
   createCanvas(800, 600);
   loadData();
+  loadAudio();
   setXandYfactor();
   storeDataCoords();
 }
@@ -57,9 +86,6 @@ function isMatch(mouseX, mouseY, targetCoords) {
   let mouseY_filtered = mouseY - point_size;
   let match = false;
   let coords = [];
-
-  //   console.log("org x and y: ", mouseX, mouseY);
-  //   console.log("first coord:", targetCoords);
 
   // check for x matches
   for (let x = 0; x < point_size * 2; x++) {
@@ -81,13 +107,35 @@ function isMatch(mouseX, mouseY, targetCoords) {
   return { match, coords };
 }
 
-// this function fires after the mouse has been clicked anywhere
+function getAlphaFromIndex(i) {
+  // find the heightest value for normalization.
+  // now i just hard code the value:
+  let max = 300;
+
+  // normalize value;
+  let alpha = (1 / max) * data_cleaned_1[i];
+  return { alpha };
+}
+
+// new function
+function playAudio() {
+  // get the machingCoords audio data
+  let { audio } = data_coords[matchCoords[0]][matchCoords[1]];
+
+  // apply some simple scaling
+  let scaledAudio = (1 / 10) * audio;
+
+  // set attackTime, decayTime, sustainRatio, releaseTime
+  env.setADSR(0.001, 0.1, scaledAudio, scaledAudio);
+  // play it
+  env.play(sine);
+}
+
 function mouseClicked(mouse) {
-  const { match, vals } = isMatch(mouse.x, mouse.y, data_coords);
+  const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
-    console.log("You clicked a dot!");
-    console.log("Coordinate:", vals);
-    matchCoords = vals;
+    matchCoords = coords;
+    playAudio();
   } else {
     matchCoords = [];
   }
@@ -101,16 +149,19 @@ function draw() {
     let { x, y } = getXandYFromIndex(i);
 
     if (x == matchCoords[0] && y == matchCoords[1]) {
-      stroke(0, 255, 0);
+      let { alpha } = getAlphaFromIndex(i);
+      stroke(0, 0, 0);
+      stroke(`rgba(0,0,0,${alpha})`);
     } else {
-      stroke(255, 0, 0);
+      stroke(`rgba(255,0,0,1)`);
     }
 
     point(x, y);
   }
 
   noStroke();
-  textSize(50);
-  text("Click the dots!", width / 2, height - 100);
+  textSize(30);
+  text("Length of tone equals the Flavor", width / 2, height - 100);
+
   textAlign(CENTER);
 }
