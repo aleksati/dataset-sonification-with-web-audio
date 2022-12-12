@@ -1,12 +1,11 @@
 # Creative Data Visualization and Sonification in the Browser (workshop)
 
-In collaboration with the Digital Scholarship Days at the University of Oslo
+Learn how to display multidimensional data using dynamic images and sound in the browser. In collaboration with the Digital Scholarship Days at the University of Oslo
 
 <div align="left">
  <img src="/fig/dsc-days.png" width=600>
 </div>
 </br>
-In this workshop you will learn how to display multidimensional data using dynamic images and sound in the browser.
 
 We will explore the use of visuals and sound in a creative way while still preserving coherence with the data bring rendered. Sonification refers to the use of non-speech audio to convey information or perceptualize data. Using the browser as a display tool drastically simplifies dissemination with peers and communication with the general public. As a bonus, we will show you how to embed this in your UiO personal page.
 
