@@ -2,7 +2,7 @@
 
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
-3. [Requirements](#requirementse)
+3. [Requirements](#requirements)
 4. [Setup](#setup)
 5. [Organizers](#organizers)
 
@@ -13,6 +13,7 @@ Learn how to display multidimensional data using dynamic images and sound in the
 <div align="left">
  <img src="/fig/dsc-days.png" width=600>
 </div>
+</br>
 
 We will explore the use of visuals and sound in a creative way while still preserving coherence with the data bring rendered. Sonification refers to the use of non-speech audio to convey information or perceptualize data. Using the browser as a display tool drastically simplifies dissemination with peers and communication with the general public. As a bonus, we will show you how to embed this in your UiO personal page.
 
