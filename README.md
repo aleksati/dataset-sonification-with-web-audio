@@ -33,6 +33,7 @@ For location and additional information, visit the [official event page](https:/
 
 ## Setup
 
+### Browser setup
 You can follow the entire workshop via the p5's web editor, just create an account on [p5.js Web Editor](https://editor.p5js.org/). No additional setup is required.
 
 **Load the files into p5js edior..ø.**
