@@ -40,42 +40,49 @@ You can follow the entire workshop via the p5's web editor, just create an accou
 If you prefer to work with coding locally, e.g with files on your machine instead of in the browser, you can follow these steps to setup a local environment with the Visual Studio Code text editor.
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/download).
+</br>
 
 2. Download a template sketch from the p5 web editor.
 
 <div align="left">
  <img src="/fig/local-1-download.png" width=600>
 </div>
+</br>
 
 3. Unzip the downloaded contents. Inside the folder, you will find these files:
 
 <div align="left">
  <img src="/fig/local-2-downloaded-content.png" width=600>
 </div>
+</br>
 
 4. Import the folder into Visual Studio Code.
 
 <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
+</br>
 
 5. Download the "Live Server" Extenstion in Visual Studio Code.
 
 <div align="left">
  <img src="/fig/local-4-liveserver.png" width=600>
 </div>
+</br>
 
 6. Right-click on the "index.html" file and select "open with Live Server".
 
 <div align="left">
  <img src="/fig/local-5-serve.png" width=600>
 </div>
+</br>
 
 7. Open your chromium browser on localhost address `127.0.0.1/5500`
 
 <div align="left">
  <img src="/fig/local-6-start.png" width=600>
 </div>
+</br>
 
 ## Organizers
 
