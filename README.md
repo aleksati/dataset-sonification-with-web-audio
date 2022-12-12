@@ -35,6 +35,8 @@ For location and additional information, visit the [official event page](https:/
 
 You can follow the entire workshop via the p5's web editor, just create an account on [p5.js Web Editor](https://editor.p5js.org/). No additional setup is required.
 
+**Load the files into p5js edior..ø.**
+
 ### Local setup
 
 If you prefer to work with coding locally, e.g with files on your machine instead of in the browser, you can follow these steps to setup a local environment with the Visual Studio Code text editor.
