@@ -1,8 +1,5 @@
-// 5_clickable_graph
-// plot the data and interact with it by clicking the dots-
-// we also implement a simple matching algorithm
-
 let data;
+//for dots
 let data_cleaned;
 
 let y_factor;
@@ -13,14 +10,39 @@ let point_size = 10;
 let data_coords = {};
 let matchCoords = [];
 
+function setup() {
+  createCanvas(800, 600);
+  loadData();
+  setXandYfactor();
+  storeDataCoords();
+}
+
+function draw() {
+  background("white");
+  strokeWeight(point_size);
+  drawText();
+
+  for (i = 1; i < data_cleaned.length; i++) {
+    let { x, y } = getXandYFromIndex(i);
+
+    if (x == matchCoords[0] && y == matchCoords[1]) {
+      stroke(0, 255, 0);
+    } else {
+      stroke(255, 0, 0);
+    }
+
+    point(x, y);
+  }
+}
+
 // asynchronous data loading
 function preload() {
-  data = loadTable("./assets/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
 }
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  // limit our dataset a little bbit
+  // limit our dataset a little bit
   data_cleaned = data_cleaned.slice(0, 50);
 }
 
@@ -43,13 +65,6 @@ function storeDataCoords() {
     data_coords[x] = {};
     data_coords[x][y] = true;
   }
-}
-
-function setup() {
-  createCanvas(800, 600);
-  loadData();
-  setXandYfactor();
-  storeDataCoords();
 }
 
 function isMatch(mouseX, mouseY, targetCoords) {
@@ -84,34 +99,24 @@ function isMatch(mouseX, mouseY, targetCoords) {
 
 // this function fires after the mouse has been clicked anywhere
 function mouseClicked(mouse) {
-  const { match, vals } = isMatch(mouse.x, mouse.y, data_coords);
+  const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
     console.log("You clicked a dot!");
-    console.log("Coordinate:", vals);
-    matchCoords = vals;
+    console.log("Coordinate:", coords);
+    matchCoords = coords;
   } else {
     matchCoords = [];
   }
 }
 
-function draw() {
-  background("white");
-  strokeWeight(point_size);
-
-  for (i = 1; i < data_cleaned.length; i++) {
-    let { x, y } = getXandYFromIndex(i);
-
-    if (x == matchCoords[0] && y == matchCoords[1]) {
-      stroke(0, 255, 0);
-    } else {
-      stroke(255, 0, 0);
-    }
-
-    point(x, y);
-  }
-
+function drawText() {
   noStroke();
-  textSize(50);
-  text("Click the dots!", width / 2, height - 100);
+  textSize(30);
+  text(
+    "Height of dot equals `Acidity` levels over time.",
+    width / 2,
+    height - 150
+  );
+  text("Click dots and check console", width / 2, height - 100);
   textAlign(CENTER);
 }

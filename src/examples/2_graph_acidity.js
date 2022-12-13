@@ -1,6 +1,3 @@
-// graph_acidity
-// Make a simple XY plot where the harvest year is on the X-axis and the acidity score of the coffee is on the Y-axis.
-
 let data;
 // for dots
 let data_cleaned;
@@ -9,9 +6,30 @@ let y_factor;
 let x_factor;
 let point_size = 3;
 
+function setup() {
+  createCanvas(800, 600);
+  loadData();
+  setXandYfactor();
+}
+
+function draw() {
+  background("white");
+  drawText();
+
+  stroke(255, 0, 255);
+  strokeWeight(point_size);
+
+  // for every column entry, create a point.
+  // all points should together strech the length of the graph.
+  for (i = 1; i < data_cleaned.length; i++) {
+    let { x, y } = getXandYFromIndex(i);
+    point(x, y);
+  }
+}
+
 // asynchronous data loading
 function preload() {
-  data = loadTable("./assets/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
 }
 
 function loadData() {
@@ -31,22 +49,13 @@ function getXandYFromIndex(i) {
   return { x, y };
 }
 
-function setup() {
-  createCanvas(800, 600);
-  loadData();
-  setXandYfactor();
-}
-
-function draw() {
-  background("white");
-
-  stroke(255, 0, 255);
-  strokeWeight(point_size);
-
-  // for every column entry, create a point.
-  // all points should together strech the length of the graph.
-  for (i = 1; i < data_cleaned.length; i++) {
-    let { x, y } = getXandYFromIndex(i);
-    point(x, y);
-  }
+function drawText() {
+  noStroke();
+  textSize(30);
+  text(
+    "Height of dots equals `Acidity` levels over time.",
+    width / 2,
+    height - 100
+  );
+  textAlign(CENTER);
 }

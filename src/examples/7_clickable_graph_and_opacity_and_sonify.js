@@ -1,13 +1,10 @@
-// exact same as nr.5,
-// only the color of the clicekd point is based on the "number of bags" that year.
-
 let data;
-let data_size = 50;
-
 // for dots
 let data_cleaned;
-// for the color
+// for the opcaity
 let data_cleaned_1;
+// for audio
+let data_cleaned_2;
 
 let y_factor;
 let x_factor;
@@ -17,18 +14,64 @@ let point_size = 10;
 let data_coords = {};
 let matchCoords = [];
 
+// audio
+let sine;
+let env;
+
+function setup() {
+  createCanvas(800, 600);
+  loadData();
+  loadAudio();
+  setXandYfactor();
+  storeDataCoords();
+}
+
+function draw() {
+  background("white");
+  strokeWeight(point_size);
+  drawText();
+
+  for (i = 1; i < data_cleaned.length; i++) {
+    let { x, y } = getXandYFromIndex(i);
+
+    if (x == matchCoords[0] && y == matchCoords[1]) {
+      let { alpha } = getAlphaFromIndex(i);
+      stroke(0, 0, 0);
+      stroke(`rgba(0,255,0,${alpha})`);
+    } else {
+      stroke(`rgba(255,0,0,1)`);
+    }
+
+    point(x, y);
+  }
+}
+
 // asynchronous data loading
 function preload() {
-  data = loadTable("./assets/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
 }
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  data_cleaned = data_cleaned.slice(0, data_size);
+  data_cleaned = data_cleaned.slice(0, 50);
 
   // add another column which we will use for color.
   data_cleaned_1 = data.getColumn("Number.of.Bags");
-  data_cleaned_1 = data_cleaned_1.slice(0, data_size);
+  data_cleaned_1 = data_cleaned_1.slice(0, 50);
+
+  // add another column which we will use for the "length" of the audio
+  data_cleaned_2 = data.getColumn("Flavor");
+  data_cleaned_2 = data_cleaned_2.slice(0, 50);
+}
+
+function loadAudio() {
+  sine = new p5.Oscillator("sine");
+  sine.freq(440);
+  sine.amp(0);
+  sine.start();
+
+  // envolope!
+  env = new p5.Env();
 }
 
 function setXandYfactor() {
@@ -46,15 +89,11 @@ function storeDataCoords() {
   for (i = 1; i < data_cleaned.length; i++) {
     let { x, y } = getXandYFromIndex(i);
     data_coords[x] = {};
-    data_coords[x][y] = true;
-  }
-}
+    data_coords[x][y] = {};
 
-function setup() {
-  createCanvas(800, 600);
-  loadData();
-  setXandYfactor();
-  storeDataCoords();
+    // I add audio paramters to this index to be retrieved when clicking
+    data_coords[x][y] = { audio: data_cleaned_2[i] };
+  }
 }
 
 function isMatch(mouseX, mouseY, targetCoords) {
@@ -94,42 +133,49 @@ function getAlphaFromIndex(i) {
   return { alpha };
 }
 
-// this function fires after the mouse has been clicked anywhere
+// new function
+function playAudio() {
+  // get the machingCoords audio data
+  let { audio } = data_coords[matchCoords[0]][matchCoords[1]];
+
+  // apply some simple scaling
+  let scaledAudio = (1 / 10) * audio;
+  // set attackTime, decayTime, sustainRatio, releaseTime
+  env.setADSR(0.001, 0.1, scaledAudio, scaledAudio);
+  // play it
+  env.play(sine);
+}
+
 function mouseClicked(mouse) {
   const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
     matchCoords = coords;
+    playAudio();
   } else {
     matchCoords = [];
   }
 }
 
-function draw() {
-  background("white");
-  strokeWeight(point_size);
-
-  for (i = 1; i < data_cleaned.length; i++) {
-    let { x, y } = getXandYFromIndex(i);
-
-    if (x == matchCoords[0] && y == matchCoords[1]) {
-      // new alphagetting function
-      let { alpha } = getAlphaFromIndex(i);
-
-      stroke(0, 0, 0);
-      stroke(`rgba(0,0,0,${alpha})`);
-    } else {
-      stroke(`rgba(255,0,0,1)`);
-    }
-
-    point(x, y);
-  }
-
+function drawText() {
   noStroke();
   textSize(30);
   text(
-    "The dot opacity equals the number of bags that year",
+    "Height of dot equals `Acidity` levels over time.",
+    width / 2,
+    height - 200
+  );
+
+  text(
+    "Dot opacity (when clicked) equals `number of coffee bags`.",
+    width / 2,
+    height - 150
+  );
+
+  text(
+    "Length of tone (when clicked) equals the `Flavor`.",
     width / 2,
     height - 100
   );
+
   textAlign(CENTER);
 }

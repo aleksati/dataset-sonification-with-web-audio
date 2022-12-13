@@ -1,7 +1,10 @@
 // let us do a combination of parts 2 and 3.
 
 let data;
+//for dots
 let data_cleaned;
+
+//for audio
 let carrier;
 let carrier_amp = 0.4;
 let carrier_waveform = "sine";
@@ -12,9 +15,44 @@ let y_factor;
 let x_factor;
 let point_size = 15;
 
+function setup() {
+  createCanvas(800, 600);
+  loadData();
+  loadAudio();
+  setXandYfactor();
+}
+
+function draw() {
+  background("white");
+  drawText();
+
+  // use the acidity data to control the frequecy of our oscillator.
+  carrier.freq(data_cleaned[accumulator] * data_scale_factor);
+
+  stroke(255, 0, 255);
+  strokeWeight(point_size);
+
+  // draw single point travelling across screen
+  // let { x, y } = getXandYFromIndex(accumulator);
+  // point(x, y);
+
+  // draw a consecutive line
+  for (let i = 0; i < accumulator; i++) {
+    let { x, y } = getXandYFromIndex(i);
+    point(x, y);
+  }
+
+  // make sure we dont exceed the length of our data.
+  if (accumulator >= data_cleaned.length) {
+    accumulator = 0;
+  } else {
+    accumulator += 1;
+  }
+}
+
 // asynchronous data loading
 function preload() {
-  data = loadTable("./assets/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
 }
 
 function loadData() {
@@ -27,14 +65,6 @@ function loadAudio() {
   carrier.amp(carrier_amp); // set amplitude
   carrier.freq(0); // set frequency
   carrier.start(); // start oscillating
-
-  // try changing the type to 'square', 'sine' or 'triangle'
-  //modulator = new p5.Oscillator('sawtooth');
-  //modulator.start();
-
-  // add the modulator's output to modulate the carrier's amplitude
-  //modulator.disconnect();
-  //carrier.amp(modulator);
 }
 
 function setXandYfactor() {
@@ -48,36 +78,21 @@ function getXandYFromIndex(i) {
   return { x, y };
 }
 
-function setup() {
-  createCanvas(800, 600);
-  loadData();
-  loadAudio();
-  setXandYfactor();
+function drawText() {
+  noStroke();
+  textSize(30);
+  text(
+    "Freq and height of dot equals `Acidity` levels over time.",
+    width / 2,
+    height - 100
+  );
+  textAlign(CENTER);
 }
 
-function draw() {
-  background("white");
+// try changing the type to 'square', 'sine' or 'triangle'
+//modulator = new p5.Oscillator('sawtooth');
+//modulator.start();
 
-  // use the acidity data to control the frequecy of our oscillator.
-  carrier.freq(data_cleaned[accumulator] * data_scale_factor);
-
-  stroke(255, 0, 255);
-  strokeWeight(point_size);
-
-  // draw single point
-  let { x, y } = getXandYFromIndex(accumulator);
-  point(x, y);
-
-  // draw a consecutive line
-  //for (let i=0; i<accumulator; i++) {
-  //  let { x, y } = getXandYFromIndex(i);
-  //  point(x, y);
-  //}
-
-  // make sure we dont exceed the length of our data.
-  if (accumulator >= data_cleaned.length) {
-    accumulator = 0;
-  } else {
-    accumulator += 1;
-  }
-}
+// add the modulator's output to modulate the carrier's amplitude
+//modulator.disconnect();
+//carrier.amp(modulator);
