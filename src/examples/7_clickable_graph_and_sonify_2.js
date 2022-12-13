@@ -1,9 +1,9 @@
 let data;
 // for dots
 let data_cleaned;
-// for the opcaity
+// for the frequency of our audio
 let data_cleaned_1;
-// for audio
+// for the freqyency of our LFO
 let data_cleaned_2;
 
 let y_factor;
@@ -16,6 +16,7 @@ let matchCoords = [];
 
 // audio
 let sine;
+let LFO;
 let env;
 
 function setup() {
@@ -33,13 +34,10 @@ function draw() {
 
   for (i = 1; i < data_cleaned.length; i++) {
     let { x, y } = getXandYFromIndex(i);
-
     if (x == matchCoords[0] && y == matchCoords[1]) {
-      let { alpha } = getAlphaFromIndex(i);
-      stroke(0, 0, 0);
-      stroke(`rgba(0,255,0,${alpha})`);
+      stroke(0, 255, 0);
     } else {
-      stroke(`rgba(255,0,0,1)`);
+      stroke(255, 0, 0);
     }
 
     point(x, y);
@@ -55,32 +53,51 @@ function loadData() {
   data_cleaned = data.getColumn("Acidity");
   data_cleaned = data_cleaned.slice(0, 50);
 
-  // add another column which we will use for color.
-  data_cleaned_1 = data.getColumn("Number.of.Bags");
+  // add another column which we will use for the sine.
+  data_cleaned_1 = data.getColumn("altitude_mean_meters");
   data_cleaned_1 = data_cleaned_1.slice(0, 50);
+  // clean the data a little. IF altitude is 0, the freq should be 100.
+  data_cleaned_1 = data_cleaned_1.map((number) => int(number) + 100);
 
-  // add another column which we will use for the "length" of the audio
-  data_cleaned_2 = data.getColumn("Flavor");
+  // add another column which we will use for the LFO.
+  data_cleaned_2 = data.getColumn("Number.of.Bags");
   data_cleaned_2 = data_cleaned_2.slice(0, 50);
+  // convert to number
+  data_cleaned_2 = data_cleaned_2.map((string) => int(string));
 }
 
 function loadAudio() {
+  // sine carrier
   sine = new p5.Oscillator("sine");
   sine.freq(100);
   sine.amp(0);
   sine.start();
 
-  // try changing the type to 'square', 'sine' or 'triangle'
-  modulator = new p5.Oscillator("sine");
-  modulator.start();
-  modulator.amp(0);
+  // LFO!
+  LFO = new p5.Oscillator("sine");
+  LFO.disconnect(); // disconnect the LFO from the master output
+  LFO.freq(10);
+  LFO.amp(0);
+  LFO.start();
 
-  // add the modulator's output to modulate the carrier's amplitude
-  modulator.disconnect();
-  sine.freq(modulator);
+  // control the amplitude of the sine with the LFO.
+  sine.amp(LFO);
 
-  // envolope!
+  // envolope to make it play as a note
+  // set attackTime, decayTime, sustainRatio, releaseTime
   env = new p5.Env();
+  env.setADSR(0.01, 0.1, 0.7, 0.7);
+}
+
+function playAudio() {
+  // same, we just add lfo_freq
+  const { sine_freq, lfo_freq } = data_coords[matchCoords[0]][matchCoords[1]];
+
+  sine.freq(sine_freq);
+  LFO.freq(lfo_freq);
+
+  env.play(sine);
+  env.play(LFO);
 }
 
 function setXandYfactor() {
@@ -101,7 +118,10 @@ function storeDataCoords() {
     data_coords[x][y] = {};
 
     // I add audio paramters to this index to be retrieved when clicking
-    data_coords[x][y] = { audio: data_cleaned_2[i] };
+    data_coords[x][y] = {
+      sine_freq: data_cleaned_1[i],
+      lfo_freq: data_cleaned_2[i],
+    };
   }
 }
 
@@ -132,31 +152,6 @@ function isMatch(mouseX, mouseY, targetCoords) {
   return { match, coords };
 }
 
-function getAlphaFromIndex(i) {
-  // find the heightest value for normalization.
-  // now i just hard code the value:
-  let max = 300;
-
-  // normalize value;
-  let alpha = (1 / max) * data_cleaned_1[i];
-  return { alpha };
-}
-
-function playAudio() {
-  // get the machingCoords audio data
-  let { audio } = data_coords[matchCoords[0]][matchCoords[1]];
-
-  // apply some simple scaling
-  let scaledAudio = (1 / 10) * audio;
-  // set attackTime, decayTime, sustainRatio, releaseTime
-  env.setADSR(0.001, 0.1, scaledAudio, scaledAudio);
-
-  modulator.freq(60);
-
-  // play it
-  env.play(sine);
-}
-
 function mouseClicked(mouse) {
   const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
@@ -171,19 +166,19 @@ function drawText() {
   noStroke();
   textSize(30);
   text(
-    "Height of dot equals `Acidity` levels over time.",
+    "Height of dot equals coffee `Acidity` levels over time.",
     width / 2,
     height - 200
   );
 
   text(
-    "Dot opacity (when clicked) equals `number of coffee bags`.",
+    "Freq of sine (when clicked) equals the farm `Altitude`.",
     width / 2,
     height - 150
   );
 
   text(
-    "Length of tone (when clicked) equals the `Flavor`.",
+    "Freq of LFO (when clicked) equals the `Number og bags`.",
     width / 2,
     height - 100
   );

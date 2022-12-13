@@ -42,7 +42,7 @@ function preload() {
 
 function loadData() {
   data_cleaned = data.getColumn("Acidity");
-  // limit our dataset a little bit
+  // limit our dataset a little bit with slice
   data_cleaned = data_cleaned.slice(0, 50);
 }
 
@@ -73,9 +73,6 @@ function isMatch(mouseX, mouseY, targetCoords) {
   let mouseY_filtered = mouseY - point_size;
   let match = false;
   let coords = [];
-
-  //   console.log("org x and y: ", mouseX, mouseY);
-  //   console.log("first coord:", targetCoords);
 
   // check for x matches
   for (let x = 0; x < point_size * 2; x++) {
