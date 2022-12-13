@@ -4,7 +4,7 @@
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
 4. [Setup](#setup)
-   4.1. [Browser](#browser)
+   4.1. [Browser](#browser-recommended)
    4.2. [Local](#local)
 5. [Organizers](#organizers)
 
@@ -35,9 +35,7 @@ For location and additional information, visit the [official event page](https:/
 
 ## Setup
 
-### Browser
-
-**Recommended**
+### Browser (Recommended)
 
 To follow the workshop from your browser, you can follow these steps:
 
