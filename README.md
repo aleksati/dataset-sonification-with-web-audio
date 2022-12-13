@@ -8,6 +8,7 @@
    4.1. [Browser](#browser-recommended)
 
    4.2. [Local](#local)
+
 5. [Organizers](#organizers)
 
 ## Intro
@@ -37,7 +38,9 @@ For location and additional information, visit the [official event page](https:/
 
 ## Setup
 
-### Browser (Recommended)
+The workshop materials requires a minimal setup. You can work from the browser via p5 own web editor or directly from your local machine using a text editor like Visual Studio Code.
+
+### Browser (recommended)
 
 To follow the workshop from your browser, you can follow these steps:
 
