@@ -4,7 +4,9 @@
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
 4. [Setup](#setup)
+
    4.1. [Browser](#browser-recommended)
+
    4.2. [Local](#local)
 5. [Organizers](#organizers)
 
