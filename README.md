@@ -4,6 +4,8 @@
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
 4. [Setup](#setup)
+   4.1. [Browser](#browser)
+   4.2. [Local](#local)
 5. [Organizers](#organizers)
 
 ## Intro
@@ -29,21 +31,44 @@ For location and additional information, visit the [official event page](https:/
 
 - Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, wheter it be PhDs, postdocs, other technical personnel and/or students.
 
-- Laptop with a [Chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>)
+- Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>)
 
 ## Setup
 
-### Browser setup
-You can follow the entire workshop via the p5's web editor, just create an account on [p5.js Web Editor](https://editor.p5js.org/). No additional setup is required.
+### Browser
 
-**Load the files into p5js edior..ø.**
+**Recommended**
 
-### Local setup
+To follow the workshop from your browser, you can follow these steps:
+
+1. Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
+
+2. Go to "My Sketches" and create a new sketch. This will be our project folder for the workshop.
+
+<div align="left">
+ <img src="/fig/browser-1-mysketches.jpg" width=600>
+</div>
+</br>
+
+3. In the web editor of your new sketch, open the sidebar to access your files.
+
+<div align="left">
+ <img src="/fig/browser-1-sidebar.jpg" width=600>
+</div>
+</br>
+
+4. Via the small dropdown menu, upload data and create folders.
+
+<div align="left">
+ <img src="/fig/browser-2-upload-files.jpg" width=600>
+</div>
+</br>
+
+### Local
 
 If you prefer to work with coding locally, e.g with files on your machine instead of in the browser, you can follow these steps to setup a local environment with the Visual Studio Code text editor.
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/download).
-</br>
 
 2. Download a template sketch from the p5 web editor.
 
@@ -52,7 +77,7 @@ If you prefer to work with coding locally, e.g with files on your machine instea
 </div>
 </br>
 
-3. Unzip the downloaded contents. Inside the folder, you will find these files:
+3. Unzip the downloaded contents. Inside the folder, you will find your index.html and sketch file together with other p5 library files that enable you to work with p5 locally, such as the "p5.sound.min" (important for anything audio-related).
 
 <div align="left">
  <img src="/fig/local-2-downloaded-content.png" width=600>
@@ -63,6 +88,13 @@ If you prefer to work with coding locally, e.g with files on your machine instea
 
 <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
+</div>
+</br>
+
+4.1. **(optional)** In your index.html file, change the path/url in the `<script>` tags from `src="https://cdnjs.cloudflare.com/ajax/libs..."` to point to your local p5 library files.
+
+<div align="left">
+ <img src="/fig/local-4.1-script.jpg" width=600>
 </div>
 </br>
 
