@@ -52,7 +52,7 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 5. Via the small dropdown menu, choose to "upload file" and drag and drop the "src -> browser" folder into the square.
 
-6. To make our enviornment a little cleaner, create a folder for the "examples" and "data" files.
+6. To make our enviornment a little cleaner, create folders for the "examples" and "data" files.
 
 ### Local
 
