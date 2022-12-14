@@ -1,5 +1,10 @@
 # Workshop in Creative Data Visualization and Sonification in the Browser
 
+<div align="left">
+ <img src="/fig/dsc-days.png" width=600>
+</div>
+</br>
+
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
@@ -14,11 +19,6 @@
 ## Intro
 
 Learn how to display multidimensional data using dynamic images and sound in the browser. In collaboration with the Digital Scholarship Days at the University of Oslo.
-
-<div align="left">
- <img src="/fig/dsc-days.png" width=600>
-</div>
-</br>
 
 We will explore the use of visuals and sound in a creative way while still preserving coherence with the data bring rendered. Sonification refers to the use of non-speech audio to convey information or perceptualize data. Using the browser as a display tool drastically simplifies dissemination with peers and communication with the general public. As a bonus, we will show you how to embed this in your UiO personal page.
 
@@ -38,65 +38,50 @@ For location and additional information, visit the [official event page](https:/
 
 ## Setup
 
-The workshop does not require alot of setup. Just download the "src" folder of this repo and upload it to you prefered environment. You can work directly from the browser, via p5's own web editor, or from your local machine.
+You can either work directly from the browser, via p5's own web editor, or from your local machine. Here is how you do it:
 
-### Browser (recommended) MÅ ENDRES PÅ....
+### Browser (recommended)
 
-To follow the workshop from the browser:
+1. Download this repository.
 
-1. Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
+2. Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
 
-2. Go to "My Sketches" and create a new sketch. This will be our project folder for the workshop.
+3. Go to "My Sketches" and create a new sketch.
 
-<div align="left">
- <img src="/fig/browser-1-mysketches.jpg" width=600>
-</div>
-</br>
+4. In the web editor of your new sketch, open the sidebar to access your files.
 
-3. In the web editor of your new sketch, open the sidebar to access your files.
+5. Via the small dropdown menu, choose to "upload file" and drag and drop the "src -> browser" folder into the square.
 
-<div align="left">
- <img src="/fig/browser-1-sidebar.jpg" width=600>
-</div>
-</br>
-
-4. Via the small dropdown menu, choose to upload the src folder.
-
-<div align="left">
- <img src="/fig/browser-2-upload-files.jpg" width=600>
-</div>
-</br>
-
-5. **something else maybe...**
+6. To make our enviornment a little cleaner, create a folder for the "examples" and "data" files.
 
 ### Local
 
-If you prefer to work locally, follow these steps:
+1. Download this repository.
 
-1. Download [Visual Studio Code](https://code.visualstudio.com/download).
+2. Download [Visual Studio Code](https://code.visualstudio.com/download).
 
-2. Import the src folder into Visual Studio Code. **Change picture**
+3. Import the "src -> local" folder into Visual Studio Code. **Change picture**
 
 <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
 </br>
 
-3. Install the "Live Server" extenstion in Visual Studio Code.
+4. Install the "Live Server" extenstion in Visual Studio Code.
 
 <div align="left">
  <img src="/fig/local-4-liveserver.png" width=600>
 </div>
 </br>
 
-4. Right-click on the "index.html" file and select "open with Live Server". **Change picture**
+5. Right-click on the "index.html" file and select "open with Live Server". **Change picture**
 
 <div align="left">
  <img src="/fig/local-5-serve.png" width=600>
 </div>
 </br>
 
-5. Open your chromium browser on localhost address `127.0.0.1/5500`
+6. Open your chromium browser on localhost address `127.0.0.1/5500` **Change picture**
 
 <div align="left">
  <img src="/fig/local-6-start.png" width=600>

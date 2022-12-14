@@ -2,6 +2,7 @@ let data; // table with the raw data, sorted after time (year)
 let data_size = 50; // the number of rows in our data table we want to use
 let data_cleaned; // array of a table column to use for the dots
 let data_cleaned_1; // array of a table column we use for the frequency of our sine
+let data_cleaned_2; // array of a table column we use for the frequency of our LFO
 
 let y_factor; // scale Y to fit canvas
 let x_factor; // scale X to fit canvas
@@ -12,6 +13,7 @@ let match_coords = []; // store the current x and y of the user mouse click
 
 let sine; // our sine wave oscillator
 let env; // our envelope so we can play the sine as a note
+let LFO; // our LFO that we use to control the amplitude of the sine
 
 function setup() {
   createCanvas(800, 600);
@@ -31,7 +33,7 @@ function draw() {
 
 /////////////// utils ////////////////
 
-/// new in "3_graph_data_sonify_click.js" ////
+//// new in "4_graph_data_amplitude_mod.js" ////
 
 function drawText() {
   noStroke();
@@ -39,17 +41,99 @@ function drawText() {
   text(
     "Height of dot equals coffee `Acidity` levels over time.",
     width / 2,
-    height - 150
+    height - 200
   );
 
   text(
     "Freq of sine (when clicked) equals the farm `Altitude`.",
+    width / 2,
+    height - 150
+  );
+
+  text(
+    "Freq of LFO (when clicked) equals the `Number og bags`.",
     width / 2,
     height - 100
   );
 
   textAlign(CENTER);
 }
+
+function playAudio() {
+  // when this function is called, we know there is a match. Therefore, we can
+  // get the frequency from my data_coords nested structure with the match_coords
+  // variable.
+
+  // Then, we can set the sine frequency with this value, and use the env to play the note.
+  // And, we set the lfo frequency,  and use the env to play the note.
+  const { sine_freq, lfo_freq } = data_coords[match_coords[0]][match_coords[1]];
+
+  sine.freq(sine_freq);
+  LFO.freq(lfo_freq);
+
+  env.play(sine);
+  env.play(LFO);
+}
+
+function loadAudio(sine_amp) {
+  // create an oscillator
+  sine = new p5.Oscillator("sine");
+  sine.amp(sine_amp);
+  sine.freq(0);
+  sine.start();
+
+  // create an lfo
+  LFO = new p5.Oscillator("sawtooth"); // experiment with "triangle", "square" and "sawtooth"
+  LFO.disconnect(); // disconnect the LFO from the master output
+  LFO.freq(0);
+  LFO.amp(0);
+  LFO.start();
+
+  // set is up so that the LFO controls the amplitude of the sine wave oscillator.
+  sine.amp(LFO);
+
+  // envolope to make it play as a note
+  // set attackTime, decayTime, sustainRatio, releaseTime
+  env = new p5.Env();
+  env.setADSR(0.01, 0.1, 0.7, 0.7);
+}
+
+function storeDataCoords() {
+  // Here we store every x and y coord of our data into an object table, a nested structure.
+  // later, in the isMatch function, we will use this nested object to quickly identify dots
+  // in the canvas.
+
+  // We also assign a frequency to every dot in this structure.
+
+  for (i = 1; i < data_cleaned.length; i++) {
+    let { x, y } = getXandYFromIndex(i);
+    data_coords[x] = {};
+    data_coords[x][y] = {};
+    data_coords[x][y] = {
+      sine_freq: data_cleaned_1[i],
+      lfo_freq: data_cleaned_2[i],
+    };
+  }
+}
+
+function loadData() {
+  data_cleaned = data.getColumn("Acidity");
+  data_cleaned = data_cleaned.slice(0, data_size);
+
+  // add another column to use for the freq of our sine.
+  data_cleaned_1 = data.getColumn("altitude_mean_meters");
+  data_cleaned_1 = data_cleaned_1.slice(0, data_size);
+  // clean the data a little. If altitude is 0, the freq should be 100.
+  data_cleaned_1 = data_cleaned_1.map((number) => int(number) + 100);
+
+  // add another column to use for the freq of our lfo.
+  data_cleaned_2 = data.getColumn("Number.of.Bags");
+  data_cleaned_2 = data_cleaned_2.slice(0, 50);
+  // clean the data a little. Convert to numbers from string
+  data_cleaned_2 = data_cleaned_2.map((string) => int(string));
+}
+
+/// new in "3_graph_data_sonify_click.js" ////
 
 function drawDots() {
   // if the user has clicked a dot, we color the dot a different color
@@ -62,30 +146,6 @@ function drawDots() {
     }
     point(x, y);
   }
-}
-
-function loadAudio(sine_amp) {
-  // create an oscillator
-  sine = new p5.Oscillator("sine");
-  sine.amp(sine_amp);
-  sine.freq(0);
-  sine.start();
-
-  // The envolope is used to make the sine play as a note
-  // set attackTime, decayTime, sustainRatio, releaseTime
-  env = new p5.Env();
-  env.setADSR(0.01, 0.1, 0.7, 0.7);
-}
-
-function playAudio() {
-  // when this function is called, we know there is a match. Therefore, we can
-  // get the frequency from my data_coords nested structure with the match_coords
-  // variable.
-
-  // Then, we can set the sine frequency with this value, and use the env to play the note
-  const { sine_freq } = data_coords[match_coords[0]][match_coords[1]];
-  sine.freq(sine_freq);
-  env.play(sine);
 }
 
 function isMatch(mouseX, mouseY, object_table) {
@@ -138,32 +198,6 @@ function mouseClicked(mouse) {
   }
 }
 
-function storeDataCoords() {
-  // Here we store every x and y coord of our data into an object table, a nested structure.
-  // later, in the isMatch function, we will use this nested object to quickly identify dots
-  // in the canvas.
-
-  // We also assign a frequency to every dot in this structure.
-
-  for (i = 1; i < data_cleaned.length; i++) {
-    let { x, y } = getXandYFromIndex(i);
-    data_coords[x] = {};
-    data_coords[x][y] = {};
-    data_coords[x][y] = { sine_freq: data_cleaned_1[i] };
-  }
-}
-
-function loadData() {
-  data_cleaned = data.getColumn("Acidity");
-  data_cleaned = data_cleaned.slice(0, data_size);
-
-  // add another column to use for the freq of our sine.
-  data_cleaned_1 = data.getColumn("altitude_mean_meters");
-  data_cleaned_1 = data_cleaned_1.slice(0, data_size);
-  // clean the data a little. If altitude is 0, the freq should be 100.
-  data_cleaned_1 = data_cleaned_1.map((number) => int(number) + 100);
-}
-
 //// new in "2_graph_data_sonify" ////
 
 function suspendAudioContext() {
@@ -191,5 +225,5 @@ function setXandYfactor() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./local/data/arabica_data_cleaned_year.csv", "header");
 }

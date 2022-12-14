@@ -109,5 +109,5 @@ function loadData() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./local/data/arabica_data_cleaned_year.csv", "header");
 }
