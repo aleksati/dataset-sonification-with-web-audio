@@ -15,6 +15,9 @@ let dot_size = 40;
 let slider;
 let slider_val;
 
+// More owner-specifc data graphing and sonification over time.
+// look at relationships between data and clustering
+
 let owner_1 = "Ethiopia Commodity Exchange";
 let owner_2 = "Kona Pacific Farmers Cooperative";
 let owner_3 = "Exportadora de Cafe Condor S.A";
@@ -50,7 +53,10 @@ function drawText() {
   textSize(12);
   textAlign(LEFT);
   text(
-    "" + data.getColumn("Year").slice(0, data_size)[slider_val],
+    "" +
+      data.getColumn("Year").slice(0, data_size)[slider_val] +
+      " - data index: " +
+      slider_val,
     10,
     height - 40
   );
