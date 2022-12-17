@@ -50,43 +50,28 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 4. In the web editor of your new sketch, open the sidebar to access your files.
 
-5. Via the small dropdown menu, choose to "upload file" and drag and drop the "src -> browser" folder into the square.
+5. Via the small dropdown menu to the left, choose to "upload file" and drag and drop the "src --> browser" folder into the square.
 
 6. To make our enviornment a little cleaner, create folders for the "examples" and "data" files.
 
 ### Local
 
-1. Download this repository.
+1. Download [Visual Studio Code](https://code.visualstudio.com/download).
 
-2. Download [Visual Studio Code](https://code.visualstudio.com/download).
+2. Download this repository.
 
-3. Import the "src -> local" folder into Visual Studio Code. **Change picture**
+3. Import the "src -> local" folder into Visual Studio Code.
 
-<div align="left">
+<!-- <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
-</br>
+</br> -->
 
 4. Install the "Live Server" extenstion in Visual Studio Code.
 
-<div align="left">
- <img src="/fig/local-4-liveserver.png" width=600>
-</div>
-</br>
+5. Right-click on the "index.html" file in the root directory and select "open with Live Server".
 
-5. Right-click on the "index.html" file and select "open with Live Server". **Change picture**
-
-<div align="left">
- <img src="/fig/local-5-serve.png" width=600>
-</div>
-</br>
-
-6. Open your chromium browser on localhost address `127.0.0.1/5500` **Change picture**
-
-<div align="left">
- <img src="/fig/local-6-start.png" width=600>
-</div>
-</br>
+6. Open your chromium browser on localhost address `127.0.0.1/5500`.
 
 ## Organizers
 

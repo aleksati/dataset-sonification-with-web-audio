@@ -173,11 +173,10 @@ class Dot {
     this.currPos = newPos;
   }
 
-  // simple interpolation algorithm
+  // simple interpolation algorithm for dot movement
   interpolate(prevPos, newPos) {
     let intX = [];
     let intY = [];
-    let steps;
 
     // x
     for (let i = 0; i < Math.abs(prevPos[0] - newPos[0]); i++) {
@@ -217,7 +216,12 @@ class Dot {
       // but the shortest route needs to be equally "long".
       // I covert the i in longest_range range to the shortest_range range.
       // i use "short i" to index the shortest axis.
-      let short_i = Math.round((i / longest_range) * shortest_range);
+      let short_i = Math.floor((i / longest_range) * shortest_range);
+
+      // console.log(
+      //   intX[longest_range_axis === "x" ? i : short_i],
+      //   intY[longest_range_axis === "y" ? i : short_i]
+      // );
 
       // draw the interpolation with varying indexes
       stroke(this.color);
