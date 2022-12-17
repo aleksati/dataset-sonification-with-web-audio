@@ -1,10 +1,5 @@
 # Workshop in Creative Data Visualization and Sonification in the Browser
 
-<div align="left">
- <img src="/fig/dsc-days.png" width=600>
-</div>
-</br>
-
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
@@ -19,6 +14,11 @@
 ## Intro
 
 Learn how to display multidimensional data using dynamic images and sound in the browser. In collaboration with the Digital Scholarship Days at the University of Oslo.
+
+<div align="left">
+ <img src="/fig/dsc-days.png" width=600>
+</div>
+</br>
 
 We will explore the use of visuals and sound in a creative way while still preserving coherence with the data bring rendered. Sonification refers to the use of non-speech audio to convey information or perceptualize data. Using the browser as a display tool drastically simplifies dissemination with peers and communication with the general public. As a bonus, we will show you how to embed this in your UiO personal page.
 
@@ -50,9 +50,9 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 4. In the web editor of your new sketch, open the sidebar to access your files.
 
-5. Via the small dropdown menu to the left, choose to "upload file" and drag and drop the "src --> browser" folder into the square.
+5. Via the small dropdown menu to the left in the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
 
-6. To make our enviornment a little cleaner, create folders for the "examples" and "data" files.
+6. To make the enviornment a little cleaner, create folders for the "examples" and "data" files.
 
 ### Local
 
@@ -60,7 +60,7 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 2. Download this repository.
 
-3. Import the "src -> local" folder into Visual Studio Code.
+3. Import the "local" folder into Visual Studio Code.
 
 <!-- <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
