@@ -1,4 +1,4 @@
-# Workshop in Creative Data Visualization and Sonification in the Browser
+# Workshop in Creative Data Visualization and Sonification in a Web Browser
 
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
@@ -35,7 +35,7 @@ For location and additional information, visit the [official event page](https:/
 
 - Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, wheter it be PhDs, postdocs, other technical personnel and/or students.
 
-- Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>)
+- Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>) (e.g Chrome, Firefox, Brave etc.).
 
 ## Setup
 
