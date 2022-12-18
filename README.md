@@ -9,7 +9,8 @@
 
    4.2. [Local](#local)
 
-5. [Organizers](#organizers)
+5. [p5 documentation](#p5-documentation)
+6. [Organizers](#organizers)
 
 ## Intro
 
@@ -72,6 +73,10 @@ You can either work directly from the browser, via p5's own web editor, or from 
 5. Right-click on the "index.html" file in the root directory and select "open with Live Server".
 
 6. Open your chromium browser on localhost address `127.0.0.1/5500`.
+
+## p5 Documentation
+
+In-depth examples, full code documentation and tutorials are avaliable on the [p5 official website](https://p5js.org/).
 
 ## Organizers
 
