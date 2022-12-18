@@ -1,3 +1,7 @@
+// Create a dot space that visualizes, compares and sonifes the body and
+// balance of different coffee dispaches over the years. Uses an object oriented
+// method to create dots from differ coffee owners/companies.
+
 let canvas_height = 600;
 let canvas_width = 800;
 let scaleFactor;

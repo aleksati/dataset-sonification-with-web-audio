@@ -1,3 +1,7 @@
+// Draw and listen to a continuos "Snake" that represents the balance and body
+// of a particular coffee dispacth over the years. Uses an object oriented
+// method to create dots from differ coffee owners/companies.
+
 let canvas_height = 600;
 let canvas_width = 800;
 let scaleFactor;
@@ -28,7 +32,7 @@ function setup() {
   data_x = scaleAxis(data_x, canvas_width);
   data_y = scaleAxis(data_y, canvas_height);
   loadSlider();
-  loadDots();
+  loadSnakes();
   suspendAudioContext();
 }
 
@@ -80,7 +84,7 @@ function loadSlider() {
   slider.style("width", "300px");
 }
 
-function loadDots() {
+function loadSnakes() {
   dot_snake_1 = new Snake(owner_1, dot_size, [255, 0, 0, 0.2], "sine");
 }
 
@@ -158,7 +162,7 @@ class Snake {
     this.addSound();
   }
 
-  // interpolation between new and old pos for snake body
+  // interpolate between new and old pos for snake body
   interpolate(prevPos, newPos) {
     let intX = [];
     let intY = [];
