@@ -50,6 +50,11 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 4. In the web editor of your new sketch, open the sidebar to access your files.
 
+<!-- <div align="left">
+ <img src="/fig/local-3-vsc.png" width=600>
+</div>
+</br> -->
+
 5. Via the small dropdown menu to the left in the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
 
 6. To make the enviornment a little cleaner, create folders for the "examples" and "data" files.
@@ -61,11 +66,6 @@ You can either work directly from the browser, via p5's own web editor, or from 
 2. Download this repository.
 
 3. Import the "local" folder into Visual Studio Code.
-
-<!-- <div align="left">
- <img src="/fig/local-3-vsc.png" width=600>
-</div>
-</br> -->
 
 4. Install the "Live Server" extenstion in Visual Studio Code.
 
