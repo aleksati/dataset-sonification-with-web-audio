@@ -17,7 +17,7 @@
 Learn how to display multidimensional data using dynamic images and sound in the browser. In collaboration with the Digital Scholarship Days at the University of Oslo.
 
 <div align="left">
- <img src="/fig/dsc-days.png" width=600>
+ <img src="/img/dsc-days.png" width=600>
 </div>
 </br>
 
