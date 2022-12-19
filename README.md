@@ -47,16 +47,16 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 2. Create an account on the [p5.js Web Editor](https://editor.p5js.org/).
 
-3. Go to "My Sketches" and create a new sketch.
+3. Go to "My Sketches" (click on "Hello, username!" on the top right) and create a new sketch.
 
-4. In the web editor of your new sketch, open the sidebar to access your files.
+4. In the web editor of your new sketch, open the sidebar (black arrow on gray backgroun) to access your files.
 
 <!-- <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
 </br> -->
 
-5. Via the small dropdown menu to the left in the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
+5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
 
 6. To make the enviornment a little cleaner, create folders for the "examples" and "data" files.
 
@@ -80,4 +80,4 @@ In-depth examples, full code documentation and tutorials are avaliable on the [p
 
 ## Organizers
 
-[Stefano Fasciani](https://github.com/stefanofasciani) and Aleksander Tidemann
+[Stefano Fasciani](https://github.com/stefanofasciani) and [Aleksander Tidemann] (https://github.com/aleksati)
