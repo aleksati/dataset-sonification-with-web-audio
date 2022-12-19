@@ -58,8 +58,6 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
 
-6. To make the enviornment a little cleaner, create folders for the "examples" and "data" files.
-
 ### Local (advanced)
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/download).
@@ -72,7 +70,7 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 5. Right-click on the "index.html" file in the root directory and select "open with Live Server".
 
-6. Open your chromium browser on localhost address `127.0.0.1/5500`.
+6. Open your browser on localhost address `127.0.0.1/5500`.
 
 ## p5 Documentation
 

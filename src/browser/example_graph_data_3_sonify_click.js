@@ -191,5 +191,5 @@ function setXandYfactor() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./local/data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./arabica_data_cleaned_year.csv", "header");
 }
