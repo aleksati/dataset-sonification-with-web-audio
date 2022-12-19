@@ -60,7 +60,7 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 6. To make the enviornment a little cleaner, create folders for the "examples" and "data" files.
 
-### Local
+### Local (advanced)
 
 1. Download [Visual Studio Code](https://code.visualstudio.com/download).
 
