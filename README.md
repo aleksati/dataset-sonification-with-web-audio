@@ -56,9 +56,9 @@ You can either work directly from the browser, via p5's own web editor, or from 
 </div>
 </br> -->
 
-5. In the dropdown menu for the default sketch files "index.html", "sketch.js", and "style.css" on the left column of the web editor, choose "Delete" to clear all sketch files.
+5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
 
-6. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
+6. In the "Sketch Files" menu, select the dropdown menu for the files "index.html", "sketch.js", and "style.css" and choose "Delete" to clear all default sketch files.
 
 ### Local (advanced)
 
