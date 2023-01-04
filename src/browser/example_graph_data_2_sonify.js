@@ -15,7 +15,6 @@ function setup() {
   loadData();
   setXandYfactor();
   loadAudio(0.5);
-  suspendAudioContext();
 }
 
 function draw() {
@@ -46,18 +45,6 @@ function drawText() {
     height - 100
   );
   textAlign(CENTER);
-}
-
-function mouseClicked() {
-  resumeAudioContext();
-}
-
-function suspendAudioContext() {
-  getAudioContext().state === "running" ? getAudioContext().suspend() : null;
-}
-
-function resumeAudioContext() {
-  getAudioContext().state === "suspended" ? getAudioContext().resume() : null;
 }
 
 function drawDots() {

@@ -21,7 +21,6 @@ function setup() {
   setXandYfactor();
   storeDataCoords();
   loadAudio(0.5, true);
-  suspendAudioContext();
 }
 
 function draw() {
@@ -126,7 +125,7 @@ function loadData() {
   // clean the data a little. If altitude is 0, the freq should be 100.
   data_cleaned_1 = data_cleaned_1.map((number) => int(number) + 100);
 
-  // add another column to use for the freq of our lfo.
+  // add another column to use for the freq of our LFO.
   data_cleaned_2 = data.getColumn("Number.of.Bags");
   data_cleaned_2 = data_cleaned_2.slice(0, 50);
   // clean the data a little. Convert to numbers from string
@@ -184,8 +183,6 @@ function isMatch(mouseX, mouseY, object_table) {
 }
 
 function mouseClicked(mouse) {
-  resumeAudioContext();
-
   // if the user clicks a dot, we update the match_coords variable.
   const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
   if (match) {
@@ -196,16 +193,6 @@ function mouseClicked(mouse) {
   } else {
     match_coords = [];
   }
-}
-
-//// new in "2_graph_data_sonify" ////
-
-function suspendAudioContext() {
-  getAudioContext().state === "running" ? getAudioContext().suspend() : null;
-}
-
-function resumeAudioContext() {
-  getAudioContext().state === "suspended" ? getAudioContext().resume() : null;
 }
 
 //// new in "1_graph_data.js" ////
