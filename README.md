@@ -1,6 +1,6 @@
 # Workshop in Creative Data Visualization and Sonification in a Web Browser
 
-Welcome! Here you will find files and necessary information to participate in a creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo, 2023. 
+Welcome! Here you will find all necessary files and information to join our workshop in creative data visualization and sonification, held in collaboration with the Digital Scholarship Days at the University of Oslo, January 2023. 
 
 ## Table of Contents 
 
