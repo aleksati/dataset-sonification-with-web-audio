@@ -1,0 +1,1302 @@
+﻿Species,Country.of.Origin,Number.of.Bags,Bag.Weight,Year,Month,Day,Owner.1,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Total.Cup.Points,Moisture,Category.One.Defects,Quakers,Category.Two.Defects,unit_of_measurement,altitude_low_meters,altitude_high_meters,altitude_mean_meters
+Arabica,Brazil,300,60 kg,2010,1,4,Jacques Pereira Carneiro,8.17,7.92,7.92,7.75,8.33,8,10,10,10,8.08,86.17,0.08,0,0,2,m,12,12,12
+Arabica,Brazil,300,60 kg,2010,1,4,Jacques Pereira Carneiro,8.42,7.92,8,7.75,7.92,8,10,10,10,8.17,86.17,0.01,0,0,3,m,12,12,12
+Arabica,United States (Hawaii),25,100 lbs,2010,1,28,Kona Pacific Farmers Cooperative,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,1,ft,0,0,0
+Arabica,Mexico,250,6,2010,4,9,Masamichi Hiroike,6.67,6.33,6.42,6.83,7,6.92,10,10,10,6.58,76.75,0,0,0,0,m,1200,1200,1200
+Arabica,Mexico,250,6,2010,4,9,Masamichi Hiroike,6.75,6.75,6.83,7.25,7.58,7.08,10,10,10,6.92,79.17,0.01,0,0,8,m,1200,1200,1200
+Arabica,ailand,5,1 lbs,2010,4,9,Doi Tung Development Project,7.17,7.17,7,7,7.25,6.92,10,10,10,7.17,79.67,0,1,0,0,m,0,0,0
+Arabica,ailand,1,1 lbs,2010,4,13,Doi Tung Development Project,7.5,7.25,7.42,7.75,8.17,7.5,10,10,10,7.42,83,0,0,0,0,m,0,0,0
+Arabica,ailand,2,1 lbs,2010,4,13,Doi Tung Development Project,7.42,7.58,7.5,7.17,7.5,8,10,10,10,7.75,82.92,0,0,0,0,m,0,0,0
+Arabica,ailand,4,1 lbs,2010,4,13,Doi Tung Development Project,7.58,7.25,7.5,7.92,7.92,7.42,10,10,10,7.83,83.42,0.11,0,0,0,m,0,0,0
+Arabica,ailand,3,1 lbs,2010,4,13,Doi Tung Development Project,7.67,7.58,7.33,7.33,7.17,7,10,10,10,6.83,80.92,0,0,0,0,m,0,0,0
+Arabica,Guatemala,250,1,2010,4,30,e Coffee Source Inc.,7.5,7.67,7.75,7.67,7.92,7.92,10,10,10,7.92,84.33,0.04,1,0,1,ft,1341.12,1432.56,1386.84
+Arabica,United States (Hawaii),27,0 lbs,2010,5,17,Kona Pacific Farmers Cooperative,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,0,ft,0,0,0
+Arabica,Nicaragua,275,6,2010,5,18,Nora Zeas,7.92,8.25,8,8.33,8,8.08,10,10,10,8,86.58,0.08,0,0,2,m,0,0,0
+Arabica,United States (Hawaii),30,0 lbs,2010,5,24,Kona Pacific Farmers Cooperative,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,7.33,81.83,0.02,3,0,12,ft,0,0,0
+Arabica,United States (Hawaii),27,0 lbs,2010,5,24,Kona Pacific Farmers Cooperative,7.83,7,7,7.58,7.58,7.5,10,10,10,6.92,81.42,0.01,0,0,10,ft,0,0,0
+Arabica,Mexico,6,6,2010,5,26,Grounds for Heal Admin,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,8,83.38,0.09,2,0,4,m,900,1200,1050
+Arabica,El Salvador,2,"1 kg,lbs",2010,5,31,Grounds for Heal Admin,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,7.92,85.42,0.01,0,0,0,m,1400,1400,1400
+Arabica,Nicaragua,2,6,2010,5,31,Grounds for Heal Admin,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,7.92,83,0.07,0,0,0,m,0,0,0
+Arabica,Nicaragua,2,6,2010,5,31,Grounds for Heal Admin,7.83,7.58,7.58,7.83,7.75,7.67,10,10,10,8.5,84.75,0.18,0,0,2,m,800,1050,925
+Arabica,United States (Hawaii),1,2,2010,5,31,Grounds for Heal Admin,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,0,ft,426.72,426.72,426.72
+Arabica,Indonesia,1,"2 kg,lbs",2010,5,31,Grounds for Heal Admin,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,8.33,87.42,0.03,0,0,0,m,1200,1800,1500
+Arabica,United States (Hawaii),1,1,2010,5,31,Grounds for Heal Admin,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,2,ft,609.6,609.6,609.6
+Arabica,Guatemala,5,1,2010,5,31,Grounds for Heal Admin,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,9.25,89.75,0,0,0,0,m,1600,1800,1700
+Arabica,Colombia,250,70 kg,2010,6,14,Exportadora de Cafe Condor S.A,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,7.33,81.83,0.05,0,0,0,m,1600,1800,1700
+Arabica,Colombia,250,70 kg,2010,6,14,Exportadora de Cafe Condor S.A,7.92,7.75,7.25,7.42,7.83,7.58,10,10,10,7.5,83.25,0.08,0,0,0,m,1600,1800,1700
+Arabica,Eiopia,300,6,2010,6,16,Eiopia Commodity Exchange,7.75,8,7.67,8.08,7.83,7.92,9.33,9.33,9.33,7.92,83.17,0.01,0,0,0,m,1850,1850,1850
+Arabica,Eiopia,150,6,2010,6,16,Eiopia Commodity Exchange,7.83,8.25,8.08,8.17,8.17,8.17,10,10,10,8.25,86.92,0.05,0,0,2,m,0,0,0
+Arabica,Eiopia,150,6,2010,6,16,Eiopia Commodity Exchange,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10,9.33,8.83,87.33,0.05,0,0,2,m,0,0,0
+Arabica,Eiopia,360,6 kg,2010,6,17,Eiopia Commodity Exchange,7.5,7.75,7.83,7.92,7.92,7.75,10,10,10,7.75,84.42,0.2,0,0,2,m,0,0,0
+Arabica,Eiopia,360,6,2010,6,17,Eiopia Commodity Exchange,7.25,7.25,7.25,7.33,7.5,8,9.33,9.33,10,7.08,80.33,0.1,0,0,1,m,0,0,0
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,7.75,80,0.05,0,0,2,m,0,0,0
+Arabica,Eiopia,300,6,2010,6,17,Philip Schluter,7.42,7.92,7.92,8,7.83,7.83,10,10,10,7.92,84.83,0.1,0,0,4,m,1500,2000,1750
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.42,7.75,7.75,8,8,7.92,10,10,10,7.83,84.67,0.2,0,0,3,m,1500,2000,1750
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.58,7.83,7.58,8,7.83,7.5,10,10,10,7.5,83.83,0.1,0,0,3,m,0,0,0
+Arabica,Eiopia,360,6,2010,6,17,Eiopia Commodity Exchange,7.67,8,7.83,8,7.92,7.83,10,10,10,7.83,85.08,0,0,0,5,m,0,0,0
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.75,8.08,8,8.25,8,8,10,10,10,7.92,86,0.01,0,0,4,m,1500,2000,1750
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.75,7.92,7.83,7.92,7.75,7.67,10,10,10,8,84.83,0.1,0,0,2,m,1500,2000,1750
+Arabica,Eiopia,360,6 kg,2010,6,17,Eiopia Commodity Exchange,7.83,7.83,7.92,8.08,7.75,7.83,10,10,10,8.08,85.33,0.05,0,0,2,m,0,0,0
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,8.17,86.25,0.1,0,0,2,m,0,0,0
+Arabica,Eiopia,300,6,2010,6,17,Eiopia Commodity Exchange,7.92,7.83,7.75,8.33,7.75,7.75,10,10,10,8,85.33,0.1,0,0,3,m,0,0,0
+Arabica,United States (Hawaii),16,1,2010,6,29,Kona Pacific Farmers Cooperative,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,7.33,81.5,0,0,0,17,ft,0,0,0
+Arabica,United States (Hawaii),14,1,2010,6,29,Kona Pacific Farmers Cooperative,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,7.42,82.75,0,0,0,2,ft,0,0,0
+Arabica,United States (Hawaii),4,1,2010,6,29,Kona Pacific Farmers Cooperative,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,7.75,83.75,0,0,0,0,ft,0,0,0
+Arabica,Guatemala,245,1,2010,7,23,Adam Kline,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,7.33,82.5,0.01,1,0,14,m,1600,1600,1600
+Arabica,Haiti,85,130 lbs,2010,8,23,Myriam Kaplan-Pasternak,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,6.42,72.33,0.08,1,0,0,m,640,1400,1020
+Arabica,Kenya,320,60 kg,2010,8,26,Brian Speckman,8,7.67,7.83,8.17,7.92,7.75,10,10,10,7.58,84.92,0.06,1,0,9,m,0,0,0
+Arabica,Eiopia,300,60 kg,2010,8,31,Eiopia Commodity Exchange,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,8.5,87.83,0.05,0,0,2,m,1570,1700,1635
+Arabica,Eiopia,300,60 kg,2010,9,2,Eiopia Commodity Exchange,8.25,8.33,8.5,8.42,8.33,8.5,10,10,9.33,9,88.67,0.03,0,0,0,m,1570,1700,1635
+Arabica,Eiopia,300,60 kg,2010,9,2,Eiopia Commodity Exchange,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10,9.33,8.67,88.42,0.03,0,0,0,m,1570,1700,1635
+Arabica,Colombia,270,70 kg,2010,9,3,Racafe & Cia S.C.A,7.5,7.42,7.33,7.33,7.67,7.83,10,10,10,7.58,82.67,0.21,0,0,2,m,0,0,0
+Arabica,Guatemala,275,69 kg,2010,9,7,Carl Walker,7.83,8.08,7.67,8,7.75,7.67,10,10,10,8,85,0.04,0,0,1,ft,1066.8,1584.96,1325.88
+Arabica,Guatemala,275,69 kg,2010,11,11,Chris Finch,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10,10,7.75,83.08,0.02,0,0,1,m,0,0,0
+Arabica,Indonesia,10,60 kg,2010,11,29,Specialty Coffee Association of Indonesia,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,7.5,83.08,0,0,0,0,m,1300,1400,1350
+Arabica,Indonesia,10,60 kg,2010,11,29,Specialty Coffee Association of Indonesia,7.83,7.58,7.58,7.58,7.75,7.58,10,10,10,7.58,83.5,0,0,0,0,m,1600,1600,1600
+Arabica,United States (Hawaii),12,60 kg,2010,12,27,Kona Pacific Farmers Cooperative,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,7.5,83.42,0.01,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),13,100 lbs,2010,12,27,Kona Pacific Farmers Cooperative,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,7,ft,0,0,0
+Arabica,Guatemala,223,69 kg,2011,1,13,Carl Walker,7.08,7,6.83,7.33,7.25,7,10,10,10,7.08,79.58,0.17,1,0,19,ft,1066.8,1584.96,1325.88
+Arabica,Colombia,250,70 kg,2011,1,17,Exportadora de Cafe Condor S.A,7.92,7.75,7.5,7.42,7.42,7.67,10,10,10,7.58,83.25,0.04,0,0,1,m,1800,1800,1800
+Arabica,Indonesia,15,2 kg,2011,1,18,William Ho,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,6.67,76.17,0.12,4,0,26,m,3500,3500,3500
+Arabica,Colombia,250,70 kg,2011,1,25,Exportadora de Cafe Condor S.A,7.33,7.33,7,6.83,7.33,7.67,10,10,10,7.33,80.83,0.01,0,0,1,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2011,2,1,Exportadora de Cafe Condor S.A,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,7.42,83,0.06,0,0,2,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2011,2,1,Federaci√≥n Nacional de Cafeteros,7.58,7.58,7.58,7.67,7.75,7.67,10,10,10,7.58,83.42,0.1,1,0,3,m,0,0,0
+Arabica,Colombia,250,70 kg,2011,2,1,Exportadora de Cafe Condor S.A,7.67,7.33,7.33,7.58,7.33,7.33,10,10,10,7.33,81.92,0.09,0,0,1,m,1600,1600,1600
+Arabica,Colombia,250,70 kg,2011,2,9,Exportadora de Cafe Condor S.A,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,7.42,82.67,0.08,0,0,3,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2011,2,9,Exportadora de Cafe Condor S.A,7.25,7.17,7,6.75,7.17,7.33,10,10,10,6.92,79.58,0.1,0,0,4,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2011,2,9,Exportadora de Cafe Condor S.A,7.58,7.67,7.42,7.17,7.17,7.75,10,10,10,7.42,82.17,0.08,0,0,0,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2011,2,9,Exportadora de Cafe Condor S.A,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,7.75,83.75,0.06,0,0,1,m,1600,1600,1600
+Arabica,Colombia,250,70 kg,2011,2,22,Exportadora de Cafe Condor S.A,8,7.67,7.67,7.25,7.67,7.5,10,10,10,7.5,83.25,0.13,0,0,1,m,1880,1880,1880
+Arabica,Colombia,250,70 kg,2011,2,22,Exportadora de Cafe Condor S.A,7.75,7.33,7.42,7,7.33,7.25,10,10,10,7.33,81.42,0.16,0,0,2,m,1880,1880,1880
+Arabica,Colombia,250,70 kg,2011,2,22,Exportadora de Cafe Condor S.A,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,7.58,83.08,0.08,1,0,3,m,1880,1880,1880
+Arabica,United States (Hawaii),25,100 lbs,2011,2,24,Kona Pacific Farmers Cooperative,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,7.5,83.33,0,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),15,100 lbs,2011,2,24,Kona Pacific Farmers Cooperative,7.75,7.92,7.75,7.75,8,8,10,10,10,7.83,85,0,0,0,1,ft,0,0,0
+Arabica,,149,70 kg,2011,3,1,Racafe & Cia S.C.A,6.75,6.75,6.42,6.83,7.58,7.5,10,10,10,7.25,79.08,0.1,0,0,3,m,0,0,0
+Arabica,Colombia,149,70 kg,2011,3,1,Racafe & Cia S.C.A,7.17,7.25,7.58,7.25,7.58,7.67,10,10,10,7.75,82.25,0.22,0,0,2,m,0,0,0
+Arabica,United States (Hawaii),14,100 lbs,2011,3,8,Kona Pacific Farmers Cooperative,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,7.58,83.5,0.01,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),5,100 lbs,2011,3,9,Kona Pacific Farmers Cooperative,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,7.67,83,0,0,0,1,ft,0,0,0
+Arabica,Colombia,149,70 kg,2011,3,15,Racafe & Cia S.C.A,7.08,7.25,7,7.5,7.08,7.33,10,10,10,7.33,80.58,0,0,0,2,m,0,0,0
+Arabica,Colombia,149,70 kg,2011,3,15,Racafe & Cia S.C.A,7.17,7.25,7.08,7.42,7.08,7.42,10,10,10,7.25,80.67,0.18,0,0,2,m,0,0,0
+Arabica,Brazil,320,60 kg,2011,3,22,Alexandra Katona-Carroll,8.17,7.67,7.75,7.75,7.67,7.75,10,10,10,7.75,84.5,0,2,0,0,m,0,0,0
+Arabica,Brazil,27,60 kg,2011,3,23,Daniel Friedlander,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10,10,8.13,84.5,0,0,0,4,m,0,0,0
+Arabica,Mexico,1,1 kg,2011,4,6,Young Kim,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,7.08,82.67,0,0,0,1,m,1400,1400,1400
+Arabica,Mexico,1,1 kg,2011,4,6,Young Kim,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,7.83,85,0,0,0,0,m,1400,1400,1400
+Arabica,Colombia,275,70 kg,2011,4,18,CARCAFE LTDA CI,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,7.17,82.08,0.08,1,0,5,m,1600,1600,1600
+Arabica,Colombia,275,70 kg,2011,4,20,CARCAFE LTDA CI,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,8.08,83.75,0.1,0,0,1,m,1600,1600,1600
+Arabica,United States (Hawaii),3,100 lbs,2011,4,21,Kona Pacific Farmers Cooperative,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,8.17,83.67,0,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),23,100 lbs,2011,4,21,Kona Pacific Farmers Cooperative,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83,0,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),10,100 lbs,2011,5,4,Kona Pacific Farmers Cooperative,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0,0,0,0,ft,0,0,0
+Arabica,Colombia,300,70 kg,2011,5,12,Racafe & Cia S.C.A,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,7.58,83,0.08,0,0,1,m,1050,1850,1450
+Arabica,Costa Rica,1,60 kg,2011,6,14,Benjamin Schmerler,7.25,7.17,7.33,7.33,7.5,7.75,10,10,10,7.25,81.58,0,0,0,1,ft,1371.6,1828.8,1600.2
+Arabica,Peru,1,60 kg,2011,6,14,Benjamin Schmerler,7.67,7.83,7.75,7.75,7.92,7.83,10,10,10,7.92,84.67,0,0,0,3,m,0,0,0
+Arabica,Eiopia,1,132 lbs,2011,6,14,Benjamin Schmerler,7.75,7.75,7.92,7.75,7.5,7.92,10,10,10,7.75,84.33,0,0,0,1,ft,1097.28,1889.76,1493.52
+Arabica,United States (Hawaii),8,100 lbs,2011,6,21,Kona Pacific Farmers Cooperative,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,7.25,78.58,0,0,0,0,ft,0,0,0
+Arabica,Colombia,250,70 kg,2011,7,19,Racafe & Cia S.C.A,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,7.67,82.92,0.15,0,0,0,m,1050,1850,1450
+Arabica,Colombia,275,70 kg,2011,7,29,Racafe & Cia S.C.A,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,8.17,83.08,0.01,0,0,0,m,1600,1950,1775
+Arabica,Colombia,150,70 kg,2011,7,29,Racafe & Cia S.C.A,7.33,7,7.08,7.42,7.5,7.67,10,10,10,8,82,0.07,0,0,2,m,1600,1950,1775
+Arabica,ailand,1,60 kg,2011,8,16,Doi Tung Development Project,7.5,7.83,7.58,7.58,7.75,7.83,10,10,10,7.75,83.83,0.01,0,0,0,m,0,0,0
+Arabica,ailand,1,60 kg,2011,8,16,Doi Tung Development Project,7.33,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83,0.28,0,0,0,m,0,0,0
+Arabica,ailand,1,60 kg,2011,8,16,Doi Tung Development Project,7.33,7.33,7.17,7.5,7.58,7.33,10,10,10,7.33,81.58,0.2,0,0,0,m,0,0,0
+Arabica,ailand,1,60 kg,2011,8,16,Doi Tung Development Project,7.58,7.75,7.58,7.75,7.58,7.75,10,10,10,8,84,0.06,0,0,0,m,0,0,0
+Arabica,El Salvador,250,69 kg,2011,8,23,e Coffee Source Inc.,7.42,7.83,8.17,8.08,7.17,7.58,10,9.33,10,7.58,83.17,0.14,0,0,3,m,1200,1200,1200
+Arabica,El Salvador,250,69 kg,2011,8,23,e Coffee Source Inc.,7.75,8,8,8.33,7.67,7.92,10,10,9.33,7.75,84.75,0.15,0,0,3,m,1200,1200,1200
+Arabica,El Salvador,250,69 kg,2011,8,23,e Coffee Source Inc.,7.75,7.58,7.75,7.75,7.25,7.5,10,10,10,7.25,82.83,0,1,0,3,m,1200,1200,1200
+Arabica,Colombia,250,70 kg,2011,9,7,Racafe & Cia S.C.A,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,7.33,81.5,0.06,1,0,0,m,1050,1850,1450
+Arabica,United States (Hawaii),27,100 lbs,2011,9,20,Kona Pacific Farmers Cooperative,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,7.92,83.33,0.01,0,0,0,ft,0,0,0
+Arabica,ailand,175,50 kg,2011,9,20,Doi Chaang Coffee Company,7.75,7.75,7.58,8,7.67,7.58,10,10,10,7.5,83.83,0.02,0,0,2,ft,1499.9208,1499.9208,1499.9208
+Arabica,United States (Hawaii),37,100 lbs,2011,9,20,Kona Pacific Farmers Cooperative,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,7.58,82.67,0.03,2,0,0,ft,0,0,0
+Arabica,United States (Hawaii),40,100 lbs,2011,9,22,Kona Pacific Farmers Cooperative,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,7.58,79.92,0.05,3,0,0,ft,0,0,0
+Arabica,United States (Hawaii),4,100 lbs,2011,9,22,Kona Pacific Farmers Cooperative,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,7.75,81.17,0.04,3,0,0,ft,0,0,0
+Arabica,Colombia,0,70 kg,2011,9,22,Exportadora de Cafe Condor S.A,7.58,7.25,7.42,7.25,7.58,7.83,10,10,10,7.5,82.42,0.02,0,0,1,m,1750,1750,1750
+Arabica,United States (Hawaii),22,100 lbs,2011,9,22,Kona Pacific Farmers Cooperative,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,12,0,1,ft,0,0,0
+Arabica,Colombia,275,70 kg,2011,10,4,Racafe & Cia S.C.A,7.42,7.58,6.92,7.08,7.25,8,10,10,10,7.5,81.75,0.08,0,0,0,m,1600,1950,1775
+Arabica,Brazil,80,60 kg,2011,10,28,NUCOFFEE,8,8,7.5,7.5,7.67,7.75,10,10,10,7.92,84.33,0.02,0,0,2,m,900,1200,1050
+Arabica,Brazil,58,60 kg,2011,10,28,NUCOFFEE,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,7.33,81.83,0.02,0,0,2,m,900,950,925
+Arabica,Brazil,90,60 kg,2011,10,28,NUCOFFEE,7.58,7.75,7.67,7.5,7.67,7.58,10,10,10,7.42,83.17,0.02,0,0,2,m,900,900,900
+Arabica,Brazil,42,60 kg,2011,10,28,NUCOFFEE,7.58,7.5,7.33,7.75,7.5,7.5,10,10,10,7.42,82.58,0,0,0,4,m,900,1050,975
+Arabica,Brazil,75,60 kg,2011,10,28,NUCOFFEE,8.17,8,7.5,7.75,7.5,7.67,10,10,10,7.75,84.33,0,0,0,4,m,1200,1350,1275
+Arabica,Colombia,250,70 kg,2011,11,11,Exportadora de Cafe Condor S.A,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,0,0,0,m,1750,1750,1750
+Arabica,ailand,12,50 kg,2011,11,16,Doi Chaang Coffee Company,7.08,7.33,7.58,7.58,7.17,7.5,10,10,10,7.33,81.58,0.01,0,0,0,ft,1499.9208,1499.9208,1499.9208
+Arabica,Colombia,1,1 kg,2011,11,16,George A. Fernandez,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,82.67,0.11,0,0,0,m,1800,5900,3850
+Arabica,Colombia,202,70 kg,2011,12,1,Mao-Heng Chu,7.42,7.17,7,7.17,7.67,7.17,8.67,9.33,9.33,7.08,78,0.1,1,0,3,m,0,0,0
+Arabica,Colombia,121,1 kg,2011,12,2,Racafe & Cia S.C.A,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,83,0.12,0,0,0,m,1600,1950,1775
+Arabica,Brazil,5,60 kg,2011,12,3,NUCOFFEE,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,1,m,1250,1250,1250
+Arabica,Brazil,10,60 kg,2011,12,3,NUCOFFEE,8,8,7.75,8,7.5,7.75,10,10,10,7.92,84.92,0.12,0,0,2,m,1000,1000,1000
+Arabica,Brazil,3,60 kg,2011,12,3,NUCOFFEE,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,0,0,2,m,1250,1250,1250
+Arabica,Brazil,29,60 kg,2011,12,3,NUCOFFEE,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,0,0,2,m,1300,1300,1300
+Arabica,Brazil,35,60 kg,2011,12,3,NUCOFFEE,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,84.58,0.11,0,0,1,m,1100,1100,1100
+Arabica,Brazil,25,60 kg,2011,12,3,NUCOFFEE,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,7.58,83.17,0.12,0,0,3,m,1000,1000,1000
+Arabica,Brazil,7,60 kg,2011,12,3,NUCOFFEE,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,0,0,2,m,1250,1250,1250
+Arabica,United States (Hawaii),3,2 lbs,2011,12,21,Kona Pacific Farmers Cooperative,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,80.75,0.13,0,0,6,ft,0,0,0
+Arabica,Brazil,300,1 kg,2011,12,21,Jacques Pereira Carneiro,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,7.83,83.83,0.12,0,0,3,m,1250,1250,1250
+Arabica,Colombia,250,70 kg,2011,12,22,Exportadora de Cafe Condor S.A,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,82.42,0,0,0,2,m,1750,1750,1750
+Arabica,Colombia,250,70 kg,2011,12,22,Exportadora de Cafe Condor S.A,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,81.75,0,0,0,1,m,1750,1750,1750
+Arabica,Brazil,4,60 kg,2011,12,23,NUCOFFEE,8,7.92,7.75,7.75,8,7.75,10,10,10,7.75,84.92,0.11,0,0,2,m,1200,1200,1200
+Arabica,Brazil,37,60 kg,2011,12,23,NUCOFFEE,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,84.58,0.12,0,0,2,m,1300,1300,1300
+Arabica,Costa Rica,1,2 kg,2012,1,3,Rob Tuttle,8.08,7.83,7.75,7.83,7.92,8,10,10,9.33,7.92,84.67,0,1,0,10,m,0,0,0
+Arabica,Guatemala,250,2 kg,2012,1,3,Juan Luis Alvarado Romero,6.17,6.5,6.5,7.17,7,6.83,10,10,10,6.17,76.33,0.11,0,0,5,m,0,0,0
+Arabica,Guatemala,250,2 kg,2012,1,3,Juan Luis Alvarado Romero,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,6.5,76.5,0.12,0,0,4,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,5,Juan Luis Alvarado Romero,6.75,6.67,6.17,7.17,7,6.58,8,10,10,6.42,74.75,0.11,0,0,10,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,6,Juan Luis Alvarado Romero,6.67,6.5,6.33,7,7.17,6.75,8.67,10,10,6.5,75.58,0.12,0,0,10,m,0,0,0
+Arabica,Colombia,1,2 kg,2012,1,8,Honor dela Fuente,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,0,0,0,m,0,0,0
+Arabica,Peru,280,69 kg,2012,1,8,Sustainable Harvest Coffee,7.67,7.17,7.08,7.25,8,7.5,8.67,9.33,9.33,7,79,0,0,0,4,m,1400,1400,1400
+Arabica,Guatemala,250,1 kg,2012,1,9,e Coffee Source Inc.,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1,0,12,m,1400,1400,1400
+Arabica,Guatemala,250,1 kg,2012,1,9,Juan Luis Alvarado Romero,6.75,6.5,6.17,7,7.25,6.75,8,10,10,6.33,74.75,0.11,0,0,8,m,0,0,0
+Arabica,El Salvador,19,1 kg,2012,1,12,LUSSO LAB,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,0,0,0,m,1300,1400,1350
+Arabica,Guatemala,250,1 kg,2012,1,13,Juan Luis Alvarado Romero,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,7.17,79.33,0.11,0,0,6,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,13,Juan Luis Alvarado Romero,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,78.33,0.11,0,0,9,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,13,Juan Luis Alvarado Romero,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,7.17,77.92,0.11,0,0,7,m,0,0,0
+Arabica,Honduras,1,2 kg,2012,1,17,Rob Tuttle,7.42,7.33,7.33,7.58,7.33,7.5,10,10,10,7.42,81.92,0.11,0,0,0,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,18,e Coffee Source Inc.,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,0,0,7,m,1400,1400,1400
+Arabica,United States (Hawaii),5,100 lbs,2012,1,21,Kona Pacific Farmers Cooperative,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,84.42,0.11,0,0,1,ft,0,0,0
+Arabica,Colombia,250,70 kg,2012,1,22,Exportadora de Cafe Condor S.A,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,7.42,82.67,0.11,0,0,3,m,1800,1800,1800
+Arabica,Brazil,17,60 kg,2012,1,23,NUCOFFEE,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,81.17,0.12,0,0,1,m,1000,1000,1000
+Arabica,Brazil,84,60 kg,2012,1,23,NUCOFFEE,7.67,7.58,7.42,7,7.5,7.58,10,10,10,7.5,82.25,0.12,0,0,1,m,0,0,0
+Arabica,Brazil,51,60 kg,2012,1,23,NUCOFFEE,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,7.42,82.42,0.11,0,0,2,m,0,0,0
+Arabica,Brazil,33,60 kg,2012,1,23,NUCOFFEE,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,7.67,83.58,0.12,0,0,2,m,1100,1100,1100
+Arabica,United States (Hawaii),13,100 lbs,2012,1,24,Kona Pacific Farmers Cooperative,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,83.42,0,0,0,2,ft,0,0,0
+Arabica,United States (Hawaii),14,100 lbs,2012,1,24,Kona Pacific Farmers Cooperative,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,84.08,0.11,1,0,9,ft,0,0,0
+Arabica,United States (Hawaii),7,100 lbs,2012,1,24,Kona Pacific Farmers Cooperative,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,83.33,0.1,0,0,4,ft,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,25,Juan Luis Alvarado Romero,7,7.33,7.5,7.33,7,7.33,10,10,10,7.17,80.67,0.11,0,0,2,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,25,Juan Luis Alvarado Romero,7,7.5,7.33,7.17,7.17,7.17,10,10,10,7.33,80.67,0.11,0,0,3,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,1,25,Juan Luis Alvarado Romero,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,81.5,0.11,0,0,1,m,0,0,0
+Arabica,Colombia,250,70 kg,2012,1,31,CARCAFE LTDA CI,7.67,7.33,7.25,7.42,7.5,7.67,10,10,10,7.58,82.42,0,0,0,2,m,442,442,442
+Arabica,Colombia,250,70 kg,2012,1,31,CARCAFE LTDA CI,7.83,7.58,7.33,7.25,7.58,7.42,10,10,10,7.33,82.33,0,0,0,0,m,442,442,442
+Arabica,Guatemala,250,2 kg,2012,2,1,Felipe Isaza,7.5,7.5,7.75,7.5,8,7.67,10,10,10,7.58,83.5,0,3,0,12,ft,1402.08,1402.08,1402.08
+Arabica,Guatemala,250,2 kg,2012,2,1,Felipe Isaza,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,7.5,83.17,0,0,0,10,ft,1402.08,1402.08,1402.08
+Arabica,Guatemala,250,2 kg,2012,2,1,Felipe Isaza,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,7.42,82,0,0,0,10,ft,1402.08,1402.08,1402.08
+Arabica,Guatemala,250,1 kg,2012,2,7,Juan Luis Alvarado Romero,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,78.33,0.11,1,0,4,ft,1310.64,1310.64,1310.64
+Arabica,United States (Hawaii),10,100 lbs,2012,2,8,Kona Pacific Farmers Cooperative,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,80.33,0.12,5,0,7,ft,0,0,0
+Arabica,United States (Hawaii),13,100 lbs,2012,2,8,Kona Pacific Farmers Cooperative,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,81.67,0.1,1,0,1,ft,0,0,0
+Arabica,Colombia,175,70 kg,2012,2,9,Racafe & Cia S.C.A,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,0,0,0,m,1600,1950,1775
+Arabica,Colombia,175,70 kg,2012,2,9,Racafe & Cia S.C.A,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,7.67,83.25,0.11,0,0,0,m,1600,1950,1775
+Arabica,Colombia,100,70 kg,2012,2,9,Racafe & Cia S.C.A,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,82.25,0.11,0,0,0,m,1600,1950,1775
+Arabica,United States (Hawaii),2,100 lbs,2012,2,13,Kona Pacific Farmers Cooperative,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,7.33,81.08,0.06,0,0,0,ft,0,0,0
+Arabica,Uganda,320,60 kg,2012,2,13,AFCA,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,7.67,84.17,0.11,0,0,1,m,1500,1700,1600
+Arabica,Uganda,320,60 kg,2012,2,13,AFCA,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,7.83,84.67,0.11,0,0,3,m,1700,1850,1775
+Arabica,Uganda,320,60 kg,2012,2,13,AFCA,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,7.58,84,0.1,10,0,26,m,1700,1700,1700
+Arabica,Uganda,1,60 kg,2012,2,13,AFCA,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,7.67,84.25,0.13,4,0,29,m,1700,1700,1700
+Arabica,Uganda,1,60 kg,2012,2,13,AFCA,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,0,0,0,m,1400,1900,1650
+Arabica,Guatemala,250,69 kg,2012,2,16,Juan Luis Alvarado Romero,7.67,8,7.67,8,7.5,7.83,10,10,10,7.83,84.5,0.11,0,0,2,m,0,0,0
+Arabica,Brazil,44,60 kg,2012,2,17,NUCOFFEE,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,7.42,82.33,0.11,0,0,2,m,950,950,950
+Arabica,Brazil,53,60 kg,2012,2,17,NUCOFFEE,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,7.33,82,0.12,0,0,2,m,950,950,950
+Arabica,Brazil,100,60 kg,2012,2,17,NUCOFFEE,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,7.67,83.17,0.11,0,0,4,m,950,950,950
+Arabica,Colombia,250,70 kg,2012,2,22,Exportadora de Cafe Condor S.A,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,82.25,0.12,0,0,1,m,1750,1750,1750
+Arabica,Colombia,250,70 kg,2012,2,22,Exportadora de Cafe Condor S.A,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,7.58,83.25,0.12,0,0,1,m,175,175,175
+Arabica,United States (Hawaii),8,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,82.92,0.1,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),6,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,82.75,0.12,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),6,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,83.08,0.12,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),7,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,82.5,0.12,2,0,3,ft,0,0,0
+Arabica,United States (Hawaii),10,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,82.08,0.1,0,0,2,ft,0,0,0
+Arabica,Panama,300,2 kg,2012,2,23,Rachel Peterson,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,82.75,0,0,0,4,m,1100,1100,1100
+Arabica,United States (Hawaii),7,100 lbs,2012,2,23,Kona Pacific Farmers Cooperative,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,80.83,0.1,2,0,0,ft,0,0,0
+Arabica,Brazil,30,60 kg,2012,2,23,NUCOFFEE,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,83.25,0.11,0,0,1,m,1200,1200,1200
+Arabica,Brazil,31,60 kg,2012,2,29,NUCOFFEE,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,0,0,3,m,1100,1100,1100
+Arabica,Brazil,8,60 kg,2012,2,29,NUCOFFEE,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,81.92,0.12,0,0,3,m,1100,1100,1100
+Arabica,Mexico,12,1 kg,2012,2,29,MIGUEL CORTES MORENO,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,81.67,0.11,0,0,4,m,940,940,940
+Arabica,Brazil,300,60 kg,2012,3,2,Jacques Pereira Carneiro,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,0,0,0,m,1250,1250,1250
+Arabica,Mexico,100,1 kg,2012,3,5,VERONICA LOPEZ CASTILLEJOS,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1,0,4,m,1400,1400,1400
+Arabica,Mexico,10,1 kg,2012,3,5,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,82.33,0.11,0,0,0,m,1200,1400,1300
+Arabica,Mexico,18,1 kg,2012,3,5,MARTIN JIMENEZ CASIANO,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,6.75,75.17,0.13,23,0,29,m,1280,1280,1280
+Arabica,Colombia,100,70 kg,2012,3,5,Racafe & Cia S.C.A,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,0,0,3,m,1600,1950,1775
+Arabica,Colombia,275,70 kg,2012,3,5,Racafe & Cia S.C.A,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,82.5,0.11,1,0,3,m,1600,1950,1775
+Arabica,United States (Hawaii),19,100 lbs,2012,3,6,Kona Pacific Farmers Cooperative,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,81.83,0,1,0,1,ft,0,0,0
+Arabica,Kenya,300,60 kg,2012,3,8,Ibero Kenya Limited,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,7.67,84,0,0,0,2,m,1200,1200,1200
+Arabica,United States (Hawaii),6,100 lbs,2012,3,8,Kona Pacific Farmers Cooperative,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,83.08,0.1,0,0,0,ft,0,0,0
+Arabica,Kenya,300,60 kg,2012,3,12,Ibero Kenya Limited,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,85.33,0,0,0,6,m,1200,1200,1200
+Arabica,Costa Rica,1,1 kg,2012,3,12,LUSSO LAB,7.75,7.83,7.75,8,7.83,7.67,10,10,10,7.75,84.58,0.12,0,0,2,m,1450,1700,1575
+Arabica,Brazil,300,60 kg,2012,3,16,Jacques Pereira Carneiro,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,0,0,4,m,1250,1250,1250
+Arabica,Colombia,250,70 kg,2012,3,16,CARCAFE LTDA CI,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,8,m,2136,2136,2136
+Arabica,Brazil,50,60 kg,2012,3,19,NUCOFFEE,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,7.5,83.17,0.12,0,0,1,m,1000,1000,1000
+Arabica,United States (Hawaii),11,100 lbs,2012,3,21,Kona Pacific Farmers Cooperative,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,83.25,0.11,0,0,4,ft,0,0,0
+Arabica,Guatemala,250,1 kg,2012,3,26,Juan Luis Alvarado Romero,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,7.17,82,0.11,0,0,3,m,0,0,0
+Arabica,Guatemala,275,1 kg,2012,3,26,Juan Luis Alvarado Romero,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,82.5,0.11,0,0,5,m,0,0,0
+Arabica,Guatemala,275,1 kg,2012,3,26,Juan Luis Alvarado Romero,7.83,7.5,7.5,8,7.83,7.83,10,10,10,7.67,84.17,0.11,0,0,2,m,0,0,0
+Arabica,Mexico,250,1 kg,2012,4,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.42,82.25,0.1,0,0,3,m,900,900,900
+Arabica,Mexico,250,1 kg,2012,4,2,ALFREDO BOJALIL,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,0,0,2,m,1400,1400,1400
+Arabica,Colombia,250,70 kg,2012,4,2,CARCAFE LTDA CI,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.11,0,0,4,m,2136,2136,2136
+Arabica,Mexico,20,1 kg,2012,4,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,83.92,0,0,0,2,m,1400,1400,1400
+Arabica,Mexico,250,1 kg,2012,4,2,ALFREDO BOJALIL,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,84.25,0.1,0,0,4,m,1400,1400,1400
+Arabica,United States (Hawaii),12,100 lbs,2012,4,5,Kona Pacific Farmers Cooperative,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,79.83,0.12,7,0,10,ft,0,0,0
+Arabica,United States (Hawaii),10,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,4,ft,0,0,0
+Arabica,United States (Hawaii),22,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0,9,0,17,ft,0,0,0
+Arabica,United States (Hawaii),14,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,7.67,7.75,7.75,7.75,7.83,8,10,10,10,8.08,84.83,0,3,0,15,ft,0,0,0
+Arabica,United States (Hawaii),7,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,8.08,83.08,0,1,0,4,ft,0,0,0
+Arabica,United States (Hawaii),8,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,1,ft,0,0,0
+Arabica,United States (Hawaii),8,100 lbs,2012,4,6,Kona Pacific Farmers Cooperative,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,6,ft,0,0,0
+Arabica,Mexico,20,1 kg,2012,4,9,MANUEL HERRERA JUAREZ,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,84.25,0.12,0,0,0,m,1170,1170,1170
+Arabica,Mexico,10,1 kg,2012,4,9,FINCA LAS NIEVES,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,82.42,0.12,0,0,0,m,1450,1450,1450
+Arabica,Colombia,250,70 kg,2012,4,11,,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,82.75,0,0,0,0,m,1400,1850,1625
+Arabica,Brazil,75,60 kg,2012,4,11,NUCOFFEE,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,7.42,82,0.11,0,0,1,m,1050,1050,1050
+Arabica,Brazil,16,60 kg,2012,4,11,NUCOFFEE,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,7.42,82.33,0.12,0,0,2,m,1100,1100,1100
+Arabica,Brazil,300,1 kg,2012,4,12,Jacques Pereira Carneiro,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,81.5,0.12,0,0,2,m,125,125,125
+Arabica,ailand,53,1 kg,2012,4,12,ITDP International,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1,0,9,m,1300,1300,1300
+Arabica,"Tanzania, United Republic Of",300,2 kg,2012,4,19,Edwin Agasso,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,7.75,82.83,0.11,0,0,5,m,1400,1400,1400
+Arabica,Kenya,38,60 kg,2012,4,19,RASHID MOLEDINA & CO. (MSA) LTD.,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,85,0,0,0,5,m,1580,1580,1580
+Arabica,Kenya,20,60 kg,2012,4,19,RASHID MOLEDINA & CO. (MSA) LTD.,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,85.33,0,0,0,2,m,1600,1600,1600
+Arabica,Guatemala,275,1 kg,2012,4,27,Juan Luis Alvarado Romero,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,7.33,83,0.1,0,0,2,ft,1371.6,1371.6,1371.6
+Arabica,Guatemala,250,69 kg,2012,4,30,Juan Luis Alvarado Romero,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,76.33,0.11,0,0,8,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2012,4,30,Juan Luis Alvarado Romero,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,83.67,0.1,0,0,0,ft,1524,1524,1524
+Arabica,Guatemala,275,69 kg,2012,4,30,Juan Luis Alvarado Romero,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,83.5,0.1,0,0,5,ft,1524,1524,1524
+Arabica,Brazil,39,60 kg,2012,5,8,NUCOFFEE,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,7.42,82.42,0.12,0,0,1,m,1000,1000,1000
+Arabica,Colombia,250,70 kg,2012,5,11,Exportadora de Cafe Condor S.A,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,83,0,0,0,4,m,1500,1750,1625
+Arabica,Philippines,1,2 kg,2012,5,14,Ana Gonzales,6.83,6.5,6.5,6.92,6.75,7,9.33,10,9.33,6.67,75.83,0.12,0,0,2,m,1000,1000,1000
+Arabica,Brazil,1,2 kg,2012,5,20,Owen Carver,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,84.17,0.11,0,0,3,m,894,1183,1038.5
+Arabica,Brazil,1,2 kg,2012,5,21,Owen Carver,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,82,0.11,0,0,0,m,894,1183,1038.5
+Arabica,Haiti,1,2 kg,2012,5,22,Myriam Kaplan-Pasternak,7.42,7,7.42,7.25,7.08,7.33,10,10,10,7.25,80.75,0.12,0,0,0,m,1000,1000,1000
+Arabica,Colombia,250,70 kg,2012,5,22,Exportadora de Cafe Condor S.A,7.67,7.58,7.5,7.5,7.75,7.5,10,10,10,7.5,83,0,1,0,4,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,5,23,Juan Luis Alvarado Romero,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,7.5,82.33,0.1,2,0,5,ft,1310.64,1310.64,1310.64
+Arabica,Indonesia,10,60 kg,2012,5,23,EKAI International Company Ltd.,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,83.67,0.12,0,0,0,m,1200,1600,1400
+Arabica,Guatemala,275,1 kg,2012,5,24,Juan Luis Alvarado Romero,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,6.67,59.83,0.1,0,0,4,ft,1417.32,1417.32,1417.32
+Arabica,Haiti,1,2 kg,2012,5,24,Myriam Kaplan-Pasternak,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6,6,6.42,67.92,0.14,8,0,16,m,350,350,350
+Arabica,Guatemala,250,1 kg,2012,5,24,Juan Luis Alvarado Romero,7.33,7.33,7,7.33,7,7,10,10,10,7.17,80.17,0.11,0,0,5,ft,1310.64,1310.64,1310.64
+Arabica,United States (Hawaii),5,100 lbs,2012,5,24,Kona Pacific Farmers Cooperative,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,78.25,0.11,4,0,31,ft,0,0,0
+Arabica,Guatemala,250,3 lbs,2012,5,24,e Coffee Source Inc.,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,0,0,1,m,1300,1300,1300
+Arabica,Indonesia,10,60 kg,2012,5,24,Specialty Coffee Association of Indonesia,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,7.17,81.5,0.12,0,0,0,m,1200,1600,1400
+Arabica,Taiwan,100,10 kg,2012,5,29,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,6.67,77.67,0.11,0,0,0,m,750,800,775
+Arabica,ailand,2,1 kg,2012,5,29,Doi Tung Development Project,7.33,7.42,7.25,7.42,7.25,7.17,10,10,10,7.17,81,0,0,0,3,m,800,800,800
+Arabica,ailand,2,1 kg,2012,5,29,Doi Tung Development Project,7.33,6.67,7.08,7.42,7.42,7.08,10,10,10,7,80,0,0,0,0,m,800,800,800
+Arabica,Taiwan,80,10 kg,2012,5,29,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.5,7.5,7.17,7.17,7.58,10,10,10,7.58,82.17,0,0,0,0,m,800,800,800
+Arabica,Colombia,250,70 kg,2012,5,30,Exportadora de Cafe Condor S.A,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,0,0,1,m,1750,1750,1750
+Arabica,Kenya,150,9000 kg,2012,5,31,Taylor Winch (Coffee) Ltd.,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,7.67,84,0,0,0,0,m,1650,1650,1650
+Arabica,Taiwan,30,10 kg,2012,6,3,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.42,7.58,7.33,7.42,8,7.5,9.33,10,10,7.42,82,0.12,0,0,0,m,600,700,650
+Arabica,Mexico,253,1 kg,2012,6,4,ALFREDO BOJALIL,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,7.08,79.67,0,0,0,9,m,1264,1264,1264
+Arabica,Brazil,50,60 kg,2012,6,4,NUCOFFEE,7.42,7.5,7.33,7.5,7.33,7.5,10,10,10,7.42,82,0.12,0,0,1,m,1000,1000,1000
+Arabica,Guatemala,275,1 kg,2012,6,5,Juan Luis Alvarado Romero,8,8,7.83,8.33,7.83,7.83,10,10,10,8,85.83,0.1,0,0,1,ft,1417.32,1417.32,1417.32
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,7.83,83.92,0.11,0,0,2,m,1500,1500,1500
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,7.58,83.17,0.11,0,0,5,m,1380,1380,1380
+Arabica,Mexico,23,1 kg,2012,6,6,GRUPO CAFETALERO LOS BRUJOS SPR DE RL,7.5,7.58,7.58,7.58,7.42,7.42,10,10,10,7.58,82.67,0.12,0,0,0,m,950,950,950
+Arabica,Mexico,28,1 kg,2012,6,6,Enrique Eduardo Lopez Aguilar,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,7.33,81.75,0.12,0,0,1,m,1650,1650,1650
+Arabica,Mexico,21,1 kg,2012,6,6,ROMULO BELLO FLORES,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1,0,4,m,1200,1200,1200
+Arabica,Mexico,36,1 kg,2012,6,6,MONTEGRANDE,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,7.33,79.75,0.12,0,0,7,m,1100,1100,1100
+Arabica,Mexico,36,1 kg,2012,6,6,MONTEGRANDE,7.25,6.83,6.67,7.08,7.17,6.83,10,6.67,10,6.67,75.17,0.12,0,0,8,m,1100,1100,1100
+Arabica,Mexico,28,1 kg,2012,6,6,Enrique Eduardo Lopez Aguilar,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,7.33,81.58,0.11,0,0,0,m,1600,1600,1600
+Arabica,Mexico,20,1 kg,2012,6,6,GRUPO CAFETALERO LOS BRUJOS SPR DE RL,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,0,0,1,m,1100,1100,1100
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,7.5,82.83,0.11,0,0,2,m,1380,1380,1380
+Arabica,Mexico,36,1 kg,2012,6,6,MONTEGRANDE,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,2,m,1100,1100,1100
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,7.83,83.83,0.11,0,0,4,m,1300,1300,1300
+Arabica,Mexico,1,1 kg,2012,6,6,OLIVIA HERNANDEZ VIRVES,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,7.5,82.42,0.13,0,0,4,m,1250,1250,1250
+Arabica,Mexico,28,1 kg,2012,6,6,Enrique Eduardo Lopez Aguilar,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,7.67,81.58,0.11,0,0,2,m,1650,1650,1650
+Arabica,Mexico,10,1 kg,2012,6,6,"PRODUCTORES DE ESPECIALIDAD EMILIANO ZAPEATA, SPR.",7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,7,78.75,0.12,0,0,0,m,1350,1350,1350
+Arabica,Mexico,69,1 kg,2012,6,6,MARIA AMALIA GUADALUPE TORIELLO ELORZA,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,7.83,84.42,0.12,2,0,4,m,900,900,900
+Arabica,Mexico,10,1 kg,2012,6,6,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,0,0,1,m,1400,1400,1400
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.83,7.67,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.12,0,0,2,m,1000,1000,1000
+Arabica,Mexico,250,1 kg,2012,6,6,ALFREDO BOJALIL,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,7.67,84.5,0.11,0,0,4,m,1500,1500,1500
+Arabica,Mexico,28,1 kg,2012,6,7,Enrique Eduardo Lopez Aguilar,7.92,7.5,7.33,7.58,7.25,7.42,10,10,10,7.5,82.5,0.11,0,0,2,m,1650,1650,1650
+Arabica,Colombia,250,70 kg,2012,6,8,Exportadora de Cafe Condor S.A,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,83.17,0.11,0,0,0,m,1750,1750,1750
+Arabica,Colombia,250,70 kg,2012,6,8,Exportadora de Cafe Condor S.A,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,83,0.11,0,0,0,m,1750,1750,1750
+Arabica,Colombia,275,70 kg,2012,6,13,Racafe & Cia S.C.A,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,82.58,0.11,2,0,2,m,1600,1950,1775
+Arabica,ailand,2,1 kg,2012,6,13,Doi Tung Development Project,7.83,7.33,7.83,7.33,7.58,7.83,10,10,9.33,7.58,82.67,0.12,0,0,0,m,0,0,0
+Arabica,ailand,2,1 kg,2012,6,21,Doi Tung Development Project,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,8.42,84,0.12,0,0,0,m,0,0,0
+Arabica,Colombia,250,70 kg,2012,6,26,Exportadora de Cafe Condor S.A,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,0,0,2,m,1450,1450,1450
+Arabica,Mexico,60,1 kg,2012,7,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,82.17,0.1,0,0,1,m,1200,1200,1200
+Arabica,Mexico,48,1 kg,2012,7,2,JUAN LUIS ORTEGA CARBALLO,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,4,0,11,m,1100,1100,1100
+Arabica,Mexico,70,1 kg,2012,7,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,82.58,0.12,0,0,0,m,1150,1150,1150
+Arabica,Mexico,80,1 kg,2012,7,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,7.92,84.67,0.13,0,0,3,m,1200,1200,1200
+Arabica,Mexico,50,1 kg,2012,7,2,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,0,0,1,m,1300,1300,1300
+Arabica,Mexico,100,1 kg,2012,7,3,CHRISTINA DUSING,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,80.83,0.13,0,0,1,m,100,100,100
+Arabica,Mexico,10,1 kg,2012,7,3,BALBINO RAMIREZ FLORES,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,79.08,0.1,0,0,0,m,1200,1200,1200
+Arabica,Mexico,15,1 kg,2012,7,3,BALBINO RAMIREZ FLORES,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,0,0,1,m,1200,1200,1200
+Arabica,Mexico,10,1 kg,2012,7,3,ALVARO QUIROS PEREZ,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,82.42,0.11,0,0,0,m,1150,1150,1150
+Arabica,Mexico,200,1 kg,2012,7,3,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,81,0,0,0,8,m,1100,1100,1100
+Arabica,Guatemala,125,1 kg,2012,7,3,Juan Luis Alvarado Romero,7.67,7.83,7.67,8,7.67,7.83,10,10,10,8,84.67,0.12,0,0,4,ft,1524,1524,1524
+Arabica,Mexico,48,1 kg,2012,7,3,OSCAR ORTEGA CARBALLO,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,7.67,83.92,0.12,10,0,32,m,900,900,900
+Arabica,Guatemala,150,1 kg,2012,7,3,Juan Luis Alvarado Romero,7.83,8,8,8.17,7.83,8,10,10,10,8,85.83,0.12,0,0,3,ft,1524,1524,1524
+Arabica,Guatemala,250,1 kg,2012,7,9,Juan Luis Alvarado Romero,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,7.5,83.67,0.11,0,0,13,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,1 kg,2012,7,9,Juan Luis Alvarado Romero,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,7.42,82.83,0.11,0,0,10,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,1 kg,2012,7,9,Juan Luis Alvarado Romero,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,83.25,0.11,0,0,9,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,1 kg,2012,7,9,Juan Luis Alvarado Romero,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,6.83,75.58,0.11,0,0,15,ft,1310.64,1310.64,1310.64
+Arabica,Taiwan,2,2 kg,2012,7,10,Kao Ming Lee,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,84.42,0.11,0,0,0,m,1200,1200,1200
+Arabica,Mexico,43,1 kg,2012,7,11,"GRUPO JUVENIL MAGTAYANI, AC",7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,6.75,75,0.14,15,0,7,m,850,850,850
+Arabica,Mexico,56,1 kg,2012,7,11,MARIA IMELDA USCANGA MARTINEZ,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,84.5,0.12,0,0,0,m,1350,1350,1350
+Arabica,Mexico,25,1 kg,2012,7,11,RICARDO AARON SAMPIERI MARINI,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,6.42,71,0.11,0,0,0,m,1800,1800,1800
+Arabica,Mexico,250,1 kg,2012,7,11,ALFREDO BOJALIL,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,83,0.11,5,0,8,m,1200,1200,1200
+Arabica,Mexico,200,1 kg,2012,7,11,SALVADOR CARO CARRION,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,7.5,82.17,0.12,0,0,4,m,1000,1000,1000
+Arabica,Mexico,320,1 kg,2012,7,11,GUSTAVO AMIEVA GONZALEZ,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,78.08,0.11,0,0,3,m,1050,1050,1050
+Arabica,Mexico,209,1 kg,2012,7,11,JESUS CARLOS CADENA VALDIVIA,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,0,0,0,m,1250,1250,1250
+Arabica,Mexico,250,1 kg,2012,7,11,SERGIO DE LA VEQUIA BERNARDI,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,0,0,3,m,1300,1300,1300
+Arabica,Mexico,127,1 kg,2012,7,11,MARIO JOSE FERNANDEZ,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,79.5,0.12,0,0,5,m,1100,1100,1100
+Arabica,Mexico,250,1 kg,2012,7,11,SERGIO DE LA VEQUIA BERNARDI,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,82.25,0.11,0,0,0,m,1100,1100,1100
+Arabica,Mexico,30,1 kg,2012,7,11,JUAN HERMILIO SAMPIERI CARCAMO,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,81.92,0.12,0,0,4,m,1650,1650,1650
+Arabica,Mexico,15,1 kg,2012,7,11,JORGE FRANCISCO MARTINEZ HACHITY,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,0,0,10,m,1250,1250,1250
+Arabica,Mexico,70,1 kg,2012,7,11,HECTOR GABRIEL BARREDA NADER,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,7.25,81.33,0.12,0,0,4,m,1000,1000,1000
+Arabica,Mexico,100,1 kg,2012,7,11,PABLO ENRIQUE MARTINEZ GAMA,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,0,0,6,m,1250,1250,1250
+Arabica,Mexico,250,1 kg,2012,7,11,SERGIO DE LA VEQUIA BERNARDI,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,0,0,0,m,1200,1200,1200
+Arabica,Mexico,26,1 kg,2012,7,11,JOSE DANIEL COBILT CASTRO,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,7.58,82.42,0.14,0,0,6,m,1350,1350,1350
+Arabica,Mexico,250,1 kg,2012,7,11,SERGIO DE LA VEQUIA BERNARDI,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,0,0,1,m,1250,1250,1250
+Arabica,Mexico,60,1 kg,2012,7,11,EDUARDO LUIS AUGUSTO VELAZQUEZ SOLIS,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,80.92,0.13,0,0,12,m,1186,1186,1186
+Arabica,Mexico,250,1 kg,2012,7,11,ALFREDO BOJALIL,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,7.58,82.83,0.12,0,0,7,m,1250,1250,1250
+Arabica,Mexico,15,1 kg,2012,7,11,JORGE OCTAVIO ESCAMILLA PRADO,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,7.42,82,0.12,0,0,1,m,940,940,940
+Arabica,Mexico,62,1 kg,2012,7,11,MODESTO LANDEROS FLORES,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,7.33,81.92,0.12,0,0,0,m,1000,1000,1000
+Arabica,Mexico,25,1 kg,2012,7,11,ARTEMIO ZAPATA TEJEDA,7.75,8,7.75,7.83,7.5,7.92,10,10,10,8.17,84.92,0.11,0,0,0,m,1200,1200,1200
+Arabica,Mexico,15,1 kg,2012,7,11,GABRIEL BERNARDO RIVAS ROSS,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,83.5,0.12,0,0,0,m,1400,1400,1400
+Arabica,Mexico,54,1 kg,2012,7,11,MODESTO LANDEROS FLORES,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,83.25,0.12,0,0,0,m,1000,1000,1000
+Arabica,Mexico,15,1 kg,2012,7,11,FERNANDO MENDOZA APARICIO,7.75,7.5,7.42,7.75,7.58,7.58,10,10,10,7.58,83.17,0.13,0,0,5,m,700,700,700
+Arabica,Mexico,35,1 kg,2012,7,16,DAMASO MARTINEZ PEREZ,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,0,0,0,m,1250,1250,1250
+Arabica,Guatemala,250,1 kg,2012,7,17,Juan Luis Alvarado Romero,8,7.83,7.67,7.83,7.67,8,10,10,10,7.67,84.67,0.11,0,0,4,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,250,70 kg,2012,7,17,Exportadora de Cafe Condor S.A,7.67,7.83,7.83,8,7.58,7.92,10,10,10,7.75,84.58,0,0,0,2,m,1750,1750,1750
+Arabica,Guatemala,275,69 kg,2012,7,17,Juan Luis Alvarado Romero,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1500,1500,1500
+Arabica,Vietnam,1,2 kg,2012,7,20,Royal Base Corporation,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,82.92,0,0,0,17,m,1040,1040,1040
+Arabica,Guatemala,275,69 kg,2012,7,23,LUSSO LAB,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,7.67,79.75,0,0,0,4,m,0,0,0
+Arabica,Vietnam,1,2 kg,2012,7,23,Royal Base Corporation,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,82.08,0.12,0,0,2,m,1040,1040,1040
+Arabica,Mexico,74,1 kg,2012,7,25,DARIO CESAR GALEANA SANCHEZ,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.42,0.11,0,0,0,m,1300,1300,1300
+Arabica,Mexico,250,1 kg,2012,7,26,ALFREDO BOJALIL,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,0,0,1,m,1400,1400,1400
+Arabica,Mexico,15,1 kg,2012,7,26,MARIA DE LA PAZ AGUILAR GUILLEN,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,81.5,0.11,0,0,3,m,1100,1100,1100
+Arabica,Mexico,250,1 kg,2012,7,26,MONTEGRANDE,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,0,0,3,m,1100,1100,1100
+Arabica,Mexico,10,1 kg,2012,7,26,HOMERO ANTONIO DE ANDA ANDRADE,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,0,0,14,m,1100,1100,1100
+Arabica,Mexico,20,1 kg,2012,7,26,FRANCISCO RUIZ NUNEZ,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1,0,3,m,1200,1200,1200
+Arabica,Mexico,50,80 kg,2012,7,26,TOMAS EDELMANN BLASS,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,81.5,0.13,0,0,5,m,1250,1250,1250
+Arabica,Mexico,250,1 kg,2012,7,26,ALFREDO BOJALIL,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,7.5,81.25,0.12,0,0,1,m,1500,1500,1500
+Arabica,Mexico,50,1 kg,2012,7,26,GUSTAVO ABARCA SOLIS,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,77.92,0.11,0,0,3,m,1248,1248,1248
+Arabica,Mexico,15,1 kg,2012,7,26,MARIA GUADALUPE GOMEZ ANZO,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,82.92,0.1,0,0,4,m,1248,1248,1248
+Arabica,Mexico,20,1 kg,2012,7,26,FILEMON MENDOZA CAMPOS,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,83.83,0.1,0,0,2,m,1218,1218,1218
+Arabica,Mexico,15,1 kg,2012,7,26,ROSA AURORA FALCON FERNANDEZ,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,7.58,83,0.11,0,0,20,m,750,750,750
+Arabica,Mexico,20,1 kg,2012,7,26,SANTIAGO SOLIS AYERDI,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,83,0.11,0,0,7,m,1200,1200,1200
+Arabica,Mexico,10,1 kg,2012,7,26,ENRIQUE MITRE LOPEZ,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.5,82.5,0.12,0,0,5,m,1100,1100,1100
+Arabica,Mexico,15,1 kg,2012,7,26,ROSA AURORA FALCON FERNANDEZ,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,0,0,11,m,1250,1250,1250
+Arabica,Mexico,14,1 kg,2012,7,26,ROBERTO LICONA FRANCO,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,87.17,0.13,0,0,0,m,1320,1320,1320
+Arabica,Mexico,100,80 kg,2012,7,27,VICTOR HUGO MELCHOR CORDOVA,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,84.33,0.12,0,0,1,m,1700,1700,1700
+Arabica,Mexico,275,1 kg,2012,7,27,CHRISTINA DUSING,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,0,0,2,m,1200,1200,1200
+Arabica,Mexico,250,1 kg,2012,8,1,ARMANDO LUIS POHLENZ MARTINEZ,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,79.5,0.12,1,0,20,m,1550,1550,1550
+Arabica,Mexico,20,1 kg,2012,8,1,OCTAVIO AUGUSTO DIAZ TREJO,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,78.75,0.14,0,0,0,m,1320,1320,1320
+Arabica,Mexico,20,1 kg,2012,8,1,JOSE LUIS MUNOZ GUERRERO,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,7.25,81.5,0.11,0,0,6,m,1000,1000,1000
+Arabica,Mexico,20,1 kg,2012,8,1,PABLO ENRIQUE MARTINEZ GAMA,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,74.83,0.12,0,0,30,m,1250,1250,1250
+Arabica,Mexico,20,1 kg,2012,8,1,EUGENE HOLMAN PEW,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,73.83,0.12,0,0,19,m,1250,1250,1250
+Arabica,Mexico,10,1 kg,2012,8,1,ERNESTO RODRIGUEZ LUNA,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.25,0.13,0,0,7,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,8,2,e Coffee Source Inc.,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,82.17,0.12,0,0,2,m,1350,1350,1350
+Arabica,Eiopia,100,60 kg,2012,8,17,Steven Kil,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,7.92,84.08,0.09,0,0,15,m,1800,1800,1800
+Arabica,El Salvador,288,1 kg,2012,8,17,Adam Kline,7.92,8,7.5,6.75,7.92,7.58,10,10,9.33,7.67,82.67,0,0,0,17,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,8,20,e Coffee Source Inc.,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,0,0,4,m,1450,1450,1450
+Arabica,El Salvador,288,1 kg,2012,8,21,Adam Kline,7.75,7.33,7.33,7.5,7.5,7.5,10,10,10,7.33,82.25,0,2,0,5,m,0,0,0
+Arabica,Guatemala,250,1 kg,2012,8,23,e Coffee Source Inc.,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,83.67,0.11,0,0,1,m,1450,1450,1450
+Arabica,Mexico,30,1 kg,2012,8,29,JOSE MANUEL VERGARA CORTES,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,0,0,3,m,1100,1100,1100
+Arabica,Mexico,30,1 kg,2012,8,29,JOSE LUIS MUNOZ GUERRERO,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,81.5,0.12,0,0,10,m,1100,1100,1100
+Arabica,Burundi,220,60 kg,2012,8,29,Steven Kil,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,7.83,83.33,0,0,0,5,m,1880,1880,1880
+Arabica,Mexico,250,1 kg,2012,8,30,JULIO PEREZ HERNANDEZ,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,3,0,13,m,1800,1800,1800
+Arabica,Mexico,82,1 kg,2012,8,30,CHRISTINA DUSING,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,0,0,0,m,1100,1100,1100
+Arabica,Mexico,15,1 kg,2012,8,30,LUIS ROBERTO FERMOSO BELTRAN,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,0,0,7,m,1210,1210,1210
+Arabica,Mexico,53,1 kg,2012,8,30,JULIO CESAR ROBLES FLORES,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,79.17,0.14,0,0,34,m,1450,1450,1450
+Arabica,Mexico,120,1 kg,2012,8,30,JUAN AVENAMAR RODRIGUEZ FUNEZ,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,6.83,79,0.14,7,0,38,m,12,12,12
+Arabica,Mexico,10,1 kg,2012,8,30,MIGUEL CORTES MORENO,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,80.33,0.11,0,0,21,m,940,940,940
+Arabica,Mexico,10,1 kg,2012,8,30,FEDERICO PACHECO PEREZ,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,80.08,0.14,1,0,17,m,1300,1300,1300
+Arabica,Mexico,250,1 kg,2012,8,30,ARMANDO LUIS POHLENZ MARTINEZ,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,79.58,0.13,0,0,5,m,1550,1550,1550
+Arabica,Mexico,250,1 kg,2012,8,30,ARMANDO LUIS POHLENZ MARTINEZ,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,81.75,0.12,10,0,14,m,1550,1550,1550
+Arabica,Mexico,40,1 kg,2012,8,30,GERARDO HERNANDEZ VALDERRABANO,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,0,0,5,m,1642,1642,1642
+Arabica,Mexico,250,1 kg,2012,8,30,JULIO PEREZ HERNANDEZ,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,3,0,7,m,1800,1800,1800
+Arabica,Mexico,250,1 kg,2012,8,30,ARMANDO LUIS POHLENZ MARTINEZ,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,80.42,0.12,4,0,16,m,1550,1550,1550
+Arabica,Mexico,250,1 kg,2012,8,30,ARMANDO LUIS POHLENZ MARTINEZ,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,82.83,0.12,2,0,10,m,1550,1550,1550
+Arabica,Mexico,250,1 kg,2012,8,30,ALFREDO BOJALIL,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,7.17,81.5,0.12,0,0,5,m,1600,1600,1600
+Arabica,Mexico,250,1 kg,2012,8,30,JULIO PEREZ HERNANDEZ,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,81.33,0.13,4,0,13,m,1800,1800,1800
+Arabica,Mexico,10,1 kg,2012,8,30,MIGUEL CORTES MORENO,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,7.58,83.5,0.11,0,0,12,m,940,940,940
+Arabica,Mexico,40,1 kg,2012,8,30,GUILLERMO ROJAS SALDANA,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,82.25,0.12,0,0,13,m,1250,1250,1250
+Arabica,Mexico,15,1 kg,2012,8,30,JOSE LUIS MUNOZ GUERRERO,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,81.67,0.11,0,0,4,m,1400,1400,1400
+Arabica,Mexico,10,1 kg,2012,8,31,MANUEL HERRERA JUAREZ,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,82.25,0.13,0,0,3,m,1170,1170,1170
+Arabica,Colombia,275,70 kg,2012,8,31,Racafe & Cia S.C.A,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,83.58,0.11,0,0,3,m,1600,1950,1775
+Arabica,Colombia,275,70 kg,2012,8,31,Racafe & Cia S.C.A,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,7.25,83.17,0.11,1,0,2,m,1600,1950,1775
+Arabica,Mexico,10,1 kg,2012,8,31,MANUEL HERRERA JUAREZ,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,82.33,0.13,0,0,9,m,1170,1170,1170
+Arabica,Mexico,10,1 kg,2012,8,31,MANUEL HERRERA JUAREZ,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,82.42,0.13,0,0,1,m,1170,1170,1170
+Arabica,Mexico,10,1 kg,2012,8,31,MANUEL HERRERA JUAREZ,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,83.5,0.13,0,0,14,m,1170,1170,1170
+Arabica,Mexico,302,1 kg,2012,8,31,CHRISTINA DUSING,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,0,0,2,m,1500,1500,1500
+Arabica,"Tanzania, United Republic Of",100,60 kg,2012,9,3,Specialty Coffee-Korea,8.42,8.17,8.17,8,7.58,8,10,10,10,8.17,86.5,0.11,0,0,1,m,0,0,0
+Arabica,Mexico,50,1 kg,2012,9,4,GUILLERMO ROJAS SALDANA,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,7.58,82.58,0.1,0,0,6,m,1250,1250,1250
+Arabica,Mexico,256,1 kg,2012,9,4,SEMIRAMIS CASAS VELAZQUEZ,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,80,0.11,0,0,12,m,1100,1100,1100
+Arabica,Mexico,250,1 kg,2012,9,4,ALFREDO BOJALIL,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,80.42,0.1,2,0,4,m,1050,1050,1050
+Arabica,Mexico,30,1 kg,2012,9,4,DIEGO MANUEL WOOLRICH RAMIREZ,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,0,0,2,m,1300,1300,1300
+Arabica,Mexico,250,1 kg,2012,9,4,ALFREDO BOJALIL,7.33,7.25,7,7.08,7.08,7,10,10,10,7,79.75,0.1,1,0,22,m,1050,1050,1050
+Arabica,Mexico,42,1 kg,2012,9,4,DIEGO MANUEL WOOLRICH RAMIREZ,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,81.75,0.11,0,0,1,m,1100,1100,1100
+Arabica,Mexico,30,1 kg,2012,9,4,DIEGO MANUEL WOOLRICH RAMIREZ,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,0,0,2,m,1200,1200,1200
+Arabica,Mexico,300,1 kg,2012,9,4,ANDRES MARTINEZ LEON,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1,0,10,m,1480,1480,1480
+Arabica,Mexico,12,1 kg,2012,9,10,MARCO VIRGILIO RAMIREZ TELIZ,7,7,6.92,7.17,7.17,7.08,10,10,10,6.92,79.25,0.13,0,0,10,m,1000,1000,1000
+Arabica,Mexico,20,1 kg,2012,9,10,JORGE OCTAVIO ESCAMILLA PRADO,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,3,0,11,m,1140,1140,1140
+Arabica,Mexico,20,1 kg,2012,9,10,GUILLERMO EDUARDO BOBADILLA MUGUIRA,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,0,0,12,m,1250,1250,1250
+Arabica,Mexico,10,1 kg,2012,9,10,JOSE ARMANDO NORBERTO BORZANI LEMINI,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,6.58,71.08,0.12,4,0,24,m,800,800,800
+Arabica,Mexico,20,1 kg,2012,9,10,PABLO ENRIQUE MARTINEZ GAMA,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,80,0.12,0,0,9,m,1250,1250,1250
+Arabica,Mexico,15,1 kg,2012,9,10,MARCO VIRGILIO RAMIREZ TELIZ,7.33,7.33,7.17,7.08,7.25,7,10,10,10,7,80.17,0.12,0,0,12,m,1000,1000,1000
+Arabica,Mexico,35,1 kg,2012,9,10,"El Equimite, Cafetal Biodin√°mico",7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,82.42,0.14,0,0,9,m,1300,1300,1300
+Arabica,Mexico,35,1 kg,2012,9,10,"El Equimite, Cafetal Biodin√°mico",7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,0,0,7,m,1300,1300,1300
+Arabica,Mexico,100,1 kg,2012,9,10,SERGIO LANDA ALARCON,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,81.75,0.13,0,0,23,m,1250,1250,1250
+Arabica,Mexico,50,1 kg,2012,9,10,ERIC JESUS CORDOBA ARROYO,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,7,79.33,0.14,0,0,19,m,750,750,750
+Arabica,Mexico,10,1 kg,2012,9,11,ADRIANA TORRES RICO QUEVEDO,7,6.83,6.83,7.42,7.33,7.17,10,10,10,6.83,79.42,0.13,0,0,30,m,800,800,800
+Arabica,Mexico,10,1 kg,2012,9,11,ALEJANDRO GARCIA PALACIOS,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,7.25,81,0.12,0,0,12,m,950,950,950
+Arabica,Mexico,10,1 kg,2012,9,11,ALEJANDRO GARCIA PALACIOS,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,77.17,0.12,1,0,11,m,1200,1200,1200
+Arabica,Mexico,10,1 kg,2012,9,11,ALEJANDRO GARCIA PALACIOS,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1,0,7,m,1100,1100,1100
+Arabica,Mexico,100,1 kg,2012,9,11,VIRGINIA GORDILLO GORDILLO,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,7.58,81.67,0.13,1,0,13,m,1650,1650,1650
+Arabica,Mexico,100,1 kg,2012,9,11,PABLO CERVANTES MORELOS        ,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,31,0,47,m,1300,1300,1300
+Arabica,Mexico,10,1 kg,2012,9,11,ALEJANDRO GARCIA PALACIOS,7.25,7.33,7,7,7.25,7.08,10,10,8,7.08,78,0.12,2,0,7,m,850,850,850
+Arabica,Mexico,20,1 kg,2012,9,11,JESUS SALAZAR VELASCO,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,82.42,0.13,0,0,2,m,1400,1400,1400
+Arabica,Mexico,10,1 kg,2012,9,11,JESUS SALAZAR VELASCO,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,0,0,1,m,1450,1450,1450
+Arabica,Mexico,16,1 kg,2012,9,12,ISRAEL EDUARDO PAZ GARCIA,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,79,0.14,3,0,17,m,1550,1550,1550
+Arabica,Mexico,10,1 kg,2012,9,12,JUANA RODRIGUEZ GUTIERREZ,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,75.5,0.11,4,0,20,m,1100,1100,1100
+Arabica,Mexico,100,1 kg,2012,9,12,FRANCISCO HERNANDEZ LORENZO,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,75.17,0.11,0,0,20,m,1200,1200,1200
+Arabica,Mexico,10,1 kg,2012,9,12,JUANA RODRIGUEZ GUTIERREZ,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,79.08,0.11,0,0,45,m,1100,1100,1100
+Arabica,Mexico,14,1 kg,2012,9,13,ISRAEL EDUARDO PAZ GARCIA,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,74.92,0.17,0,0,6,m,1500,1500,1500
+Arabica,Mexico,10,1 kg,2012,9,13,ISRAEL EDUARDO PAZ GARCIA,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,79.17,0.14,0,0,8,m,1550,1550,1550
+Arabica,Mexico,13,1 kg,2012,9,13,ISRAEL EDUARDO PAZ GARCIA,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,79.08,0.16,0,0,2,m,1500,1500,1500
+Arabica,Mexico,10,1 kg,2012,9,13,ISRAEL EDUARDO PAZ GARCIA,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,4,0,5,m,1500,1500,1500
+Arabica,Mexico,15,1 kg,2012,9,13,ISRAEL EDUARDO PAZ GARCIA,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1,0,2,m,1550,1550,1550
+Arabica,Mexico,10,1 kg,2012,9,14,ROSARIO MIGUEL HERNANDEZ,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,0,0,14,m,1400,1400,1400
+Arabica,Mexico,100,1 kg,2012,9,14,OBED RENDON PONCE,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,7.25,81.08,0.13,5,0,16,m,1650,1650,1650
+Arabica,Mexico,12,1 kg,2012,9,14,ISRAEL EDUARDO PAZ GARCIA,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,79.75,0.14,0,0,0,m,1450,1450,1450
+Arabica,Mexico,13,1 kg,2012,9,14,ISRAEL EDUARDO PAZ GARCIA,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,80.08,0.15,0,0,0,m,1300,1300,1300
+Arabica,Mexico,10,1 kg,2012,9,14,ISRAEL EDUARDO PAZ GARCIA,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,78.42,0.14,0,0,0,m,1500,1500,1500
+Arabica,Kenya,235,60 kg,2012,9,16,Dream Togeer,7.75,7.92,7.83,8,7.58,7.75,10,10,10,7.83,84.67,0.11,0,0,0,m,2000,2000,2000
+Arabica,Kenya,235,60 kg,2012,9,16,Dream Togeer,7.92,7.83,7.67,8,7.67,7.75,10,10,10,7.67,84.5,0.11,0,0,0,m,2000,2000,2000
+Arabica,Mexico,30,1 kg,2012,9,17,ERIC JESUS CORDOBA ARROYO,7,7,6.83,7.33,7.42,6.92,10,10,10,6.83,79.33,0.14,0,0,23,m,950,950,950
+Arabica,Mexico,14,1 kg,2012,9,17,ISRAEL EDUARDO PAZ GARCIA,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,0,0,0,m,1400,1400,1400
+Arabica,Mexico,50,1 kg,2012,9,17,OBED RENDON PONCE,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,79.58,0.12,0,0,11,m,1250,1250,1250
+Arabica,Mexico,12,1 kg,2012,9,17,JUAN CARLOS GARCIA LOPEZ,7.08,6.83,6.25,7.42,7.25,6.75,10,0,10,6.75,68.33,0.11,0,0,20,m,900,900,900
+Arabica,Mexico,14,1 kg,2012,9,17,GONZALO DE AQUINO FLORES,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,79,0.12,0,0,12,m,1300,1300,1300
+Arabica,Mexico,20,1 kg,2012,9,17,JUAN GARCIA HERNANDEZ,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,78.67,0.13,0,0,2,m,1150,1150,1150
+Arabica,Mexico,100,1 kg,2012,9,17,MYRNA ROXANA GALVEZ GONZALEZ,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,0,0,27,m,1200,1200,1200
+Arabica,Mexico,23,1 kg,2012,9,17,STEPHANY ESCAMILLA FEMAT,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,0,0,3,m,1300,1300,1300
+Arabica,Mexico,18,1 kg,2012,9,17,ISRAEL EDUARDO PAZ GARCIA,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,80.5,0.15,0,0,1,m,1450,1450,1450
+Arabica,Mexico,11,1 kg,2012,9,17,ISRAEL EDUARDO PAZ GARCIA,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,2,0,4,m,1400,1400,1400
+Arabica,Peru,100,69 kg,2012,9,17,Hugo Valdivia,8.42,8.5,8.33,8.5,8.25,8.25,10,10,10,8.5,88.75,0.11,0,0,0,m,0,0,0
+Arabica,Guatemala,275,69 kg,2012,9,19,Juan Luis Alvarado Romero,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,82.25,0.11,0,0,2,ft,1390.8024,1390.8024,1390.8024
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,7.58,82.5,0.13,0,0,10,m,1679,1679,1679
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.67,7,7.5,7.33,7.5,10,10,10,7.67,82.17,0.15,1,0,9,m,1144,1144,1144
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,7.42,81.92,0.13,2,0,7,m,981,981,981
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,7.58,81.92,0.14,2,0,8,m,690,690,690
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,7.5,81.75,0.13,2,0,9,m,774,774,774
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.33,7.17,7,6.75,7.08,7,10,10,10,7.33,79.67,0.13,5,0,6,m,975,975,975
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,7.58,81.42,0.13,1,0,8,m,763,763,763
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,83.17,0.14,0,0,10,m,1089,1089,1089
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.58,7.67,7.58,7.33,7,7.58,10,10,10,7.58,82.33,0.15,1,0,8,m,441,441,441
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,82.25,0.16,3,0,8,m,533,533,533
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.58,7.33,7.17,7.25,6.75,7,10,10,10,7.17,80.25,0.11,2,0,8,m,808,808,808
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,7.67,83.17,0.12,3,0,8,m,532,532,532
+Arabica,Mexico,10,1 kg,2012,9,27,SAUL M. HERNANDEZ RAMIREZ,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,83.75,0.13,5,0,5,m,700,700,700
+Arabica,Haiti,2,4 lbs,2012,10,3,ITIAH COFFEE LLC,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,7.83,83.33,0.11,0,0,4,ft,1280.16,1280.16,1280.16
+Arabica,Guatemala,275,69 kg,2012,10,5,Juan Luis Alvarado Romero,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,7.17,81.67,0.11,0,0,4,ft,1676.4,1828.8,1752.6
+Arabica,Guatemala,275,69 kg,2012,10,5,Juan Luis Alvarado Romero,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.33,82.33,0.11,0,0,3,ft,1676.4,1828.8,1752.6
+Arabica,Mexico,20,1 kg,2012,10,9,PABLO ENRIQUE MARTINEZ GAMA,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,7.08,80.17,0.11,0,0,2,m,1250,1250,1250
+Arabica,Colombia,250,70 kg,2012,10,9,Exportadora de Cafe Condor S.A,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,84.58,0.11,0,0,6,m,1800,1800,1800
+Arabica,Colombia,250,70 kg,2012,10,9,Exportadora de Cafe Condor S.A,7.75,7.5,7.75,7.25,7.33,7.58,10,10,10,7.42,82.58,0.11,0,0,3,m,1750,1750,1750
+Arabica,Costa Rica,275,1 kg,2012,10,9,Michael Gavina,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10,7.67,82.33,0,0,0,14,m,0,0,0
+Arabica,Colombia,250,70 kg,2012,10,19,Exportadora de Cafe Condor S.A,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,84.17,0,0,0,2,m,1750,1750,1750
+Arabica,Colombia,275,70 kg,2012,10,23,Racafe & Cia S.C.A,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,83,0.11,1,0,2,m,1600,1950,1775
+Arabica,Papua New Guinea,7,60 kg,2012,10,25,"Colbran Coffeelands, Ltd.",8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,0,0,1,m,1700,1700,1700
+Arabica,Colombia,250,70 kg,2012,11,22,Exportadora de Cafe Condor S.A,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,83.67,0.11,0,0,1,m,1750,1750,1750
+Arabica,United States (Hawaii),4,100 lbs,2012,11,26,Kona Pacific Farmers Cooperative,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,82.08,0.11,0,0,0,ft,0,0,0
+Arabica,Indonesia,54,60 kg,2012,11,26,"Nomura Trading Co., Ltd.",7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,85.17,0.11,0,0,3,m,1250,1400,1325
+Arabica,Guatemala,1,2 kg,2012,12,10,Brent Hall,7.5,7.58,7.42,7.58,7.42,7.58,10,10,10,7.5,82.58,0,0,0,4,m,0,0,0
+Arabica,Costa Rica,1,2 kg,2012,12,10,Brent Hall,7.17,7.42,7.5,8,7.25,7.83,10,10,6.67,7.33,79.17,0.1,5,0,20,m,0,0,0
+Arabica,Honduras,1,2 kg,2012,12,10,Brent Hall,7.25,7.67,7.42,7.17,7.75,7.5,10,10,10,7.67,82.42,0.09,0,0,2,m,0,0,0
+Arabica,United States (Hawaii),7,100 lbs,2012,12,11,Kona Pacific Farmers Cooperative,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,84.25,0.11,1,0,1,ft,0,0,0
+Arabica,Colombia,50,70 kg,2012,12,11,Racafe & Cia S.C.A,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,84.92,0.11,0,0,3,m,1600,1950,1775
+Arabica,Taiwan,35,30 kg,2012,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.42,7.25,7.5,7.5,10,10,10,7.25,81.92,0.11,0,0,0,m,1000,1000,1000
+Arabica,Guatemala,1,2 kg,2012,12,27,Rob Tuttle,7.58,7.58,7.25,7.58,7.58,7.58,10,10,10,7.75,82.92,0.1,0,0,4,m,0,0,0
+Arabica,Colombia,250,3 lbs,2013,1,8,e Coffee Source Inc.,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,79.33,0,0,0,3,m,1200,1200,1200
+Arabica,United States (Hawaii),11,2 lbs,2013,1,17,Eileen Koyanagi,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,5,0,8,ft,0,0,0
+Arabica,China,1,2 kg,2013,1,17,Adam Ciruli Ye,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,7.17,80.42,0.17,0,0,14,m,1700,1700,1700
+Arabica,Eiopia,50,60 kg,2013,1,17,LUSSO LAB,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,7.83,84,0.09,4,0,40,m,1550,1550,1550
+Arabica,Colombia,40,1 kg,2013,1,20,"Coffeebyebag.com , INC",7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,82.83,0,4,0,4,m,1800,1800,1800
+Arabica,United States (Hawaii),6,100 lbs,2013,1,20,Eileen Koyanagi,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,76.17,0,0,0,3,ft,0,0,0
+Arabica,Colombia,250,3 kg,2013,1,21,e Coffee Source Inc.,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,82.33,0.1,0,0,2,m,1300,1300,1300
+Arabica,Colombia,250,1 kg,2013,1,21,e Coffee Source Inc.,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,0,0,2,m,1300,1300,1300
+Arabica,Peru,320,5 lbs,2013,1,21,Dane Loraas,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10,10,7.5,82.42,0,0,0,3,m,0,0,0
+Arabica,Peru,280,5 lbs,2013,1,21,Dane Loraas,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10,10,7.5,83.33,0.12,0,0,5,m,0,0,0
+Arabica,Peru,280,5 lbs,2013,1,22,Dane Loraas,8,8,8,8.08,7.92,7.75,10,10,10,8,85.75,0.1,4,0,6,m,0,0,0
+Arabica,Colombia,250,70 kg,2013,1,22,Olam Agro Colombia,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,82.92,0.11,3,0,5,m,1450,1450,1450
+Arabica,Peru,320,5 lbs,2013,1,23,Dane Loraas,7,7.08,7,7.25,7.5,7.42,9.33,10,10,7.17,79.75,0.12,1,0,2,m,0,0,0
+Arabica,United States (Hawaii),9,2 lbs,2013,1,27,Eileen Koyanagi,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,77.25,0.12,1,0,5,ft,0,0,0
+Arabica,Guatemala,250,1 kg,2013,1,29,Juan Luis Alvarado Romero,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,77.42,0.11,2,0,15,ft,1310.64,1310.64,1310.64
+Arabica,Brazil,300,1 kg,2013,2,4,BOURBON SPECIALTY COFFEES,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,7.17,81.17,0.11,0,0,3,m,0,0,0
+Arabica,United States (Hawaii),10,100 lbs,2013,2,4,Eileen Koyanagi,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,80.5,0.11,1,0,0,ft,0,0,0
+Arabica,United States (Hawaii),6,100 lbs,2013,2,4,Eileen Koyanagi,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,82.75,0.1,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),10,80 lbs,2013,2,5,Eileen Koyanagi,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,82.75,0.1,6,0,0,ft,0,0,0
+Arabica,Kenya,1,1 kg,2013,2,6,LUSSO LAB,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,0,0,1,m,1520,2200,1860
+Arabica,Guatemala,250,1 kg,2013,2,7,Juan Luis Alvarado Romero,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,77.83,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+Arabica,United States (Hawaii),6,100 lbs,2013,2,7,Eileen Koyanagi,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,83.17,0.11,0,0,0,ft,0,0,0
+Arabica,Guatemala,250,1 kg,2013,2,13,Juan Luis Alvarado Romero,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,80.5,0.12,1,0,1,ft,1859.28,1859.28,1859.28
+Arabica,Costa Rica,250,1 kg,2013,2,14,Eric ormaehlen,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,83.33,0.11,0,0,3,m,1100,1300,1200
+Arabica,Costa Rica,250,1 kg,2013,2,14,Eric ormaehlen,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7.67,83,0.11,0,0,3,m,1100,1300,1200
+Arabica,United States (Hawaii),16,100 lbs,2013,2,19,Eileen Koyanagi,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,83.08,0.12,0,0,8,ft,0,0,0
+Arabica,Nicaragua,1,5 lbs,2013,2,25,Honor dela Fuente,7.25,7.17,6.92,7.25,7.17,7.25,10,10,10,7.08,80.08,0.1,0,0,4,m,0,0,0
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,1,ft,1706.88,1755.648,1731.264
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,7.83,7.67,7.33,7.67,7.67,7.83,10,10,10,7.67,83.67,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,83.33,0.11,0,0,3,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,7.33,82.5,0.11,0,0,0,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,81.83,0.11,0,0,1,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,2,26,Juan Luis Alvarado Romero,8.17,7.83,7.67,7.83,7.67,7.83,10,10,10,7.5,84.5,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+Arabica,Peru,280,5 lbs,2013,2,27,Dane Loraas,7.42,7.42,7.17,7.33,7.42,7.42,10,10,10,7.25,81.42,0.1,1,0,5,m,0,0,0
+Arabica,Colombia,250,70 kg,2013,2,27,Exportadora de Cafe Condor S.A,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,82.58,0.11,0,0,0,m,1750,1750,1750
+Arabica,Colombia,1,5 lbs,2013,3,3,Honor dela Fuente,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0,0,0,15,m,0,0,0
+Arabica,Guatemala,250,69 kg,2013,3,4,Juan Luis Alvarado Romero,7.5,7.33,7.5,7.58,7,7.25,10,10,10,7.08,81.25,0.11,0,0,4,ft,1524,1524,1524
+Arabica,Mexico,250,1 kg,2013,3,11,ALFREDO BOJALIL,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,7.25,81.5,0.13,0,0,2,m,1150,1150,1150
+Arabica,Guatemala,250,69 kg,2013,3,11,Juan Luis Alvarado Romero,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,7.5,82.92,0.11,0,0,2,ft,1658.112,1755.648,1706.88
+Arabica,Mexico,250,1 kg,2013,3,12,ALFREDO BOJALIL,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,0,0,8,m,1300,1300,1300
+Arabica,Colombia,250,70 kg,2013,3,15,CARCAFE LTDA CI,7.33,7.67,7.75,7.42,7.75,7.58,10,10,10,7.5,83,0.11,0,0,1,m,1000,1000,1000
+Arabica,Mexico,250,1 kg,2013,3,15,ALFREDO BOJALIL,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,82.33,0.12,0,0,3,m,1300,1300,1300
+Arabica,El Salvador,275,2 kg,2013,3,18,Atlantic Specialty Coffee,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,0,0,3,m,1500,1500,1500
+Arabica,El Salvador,275,2 kg,2013,3,18,Atlantic Specialty Coffee,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,7.92,84.17,0.11,0,0,2,m,1500,1500,1500
+Arabica,Colombia,250,70 kg,2013,3,20,Exportadora de Cafe Condor S.A,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,82.17,0,0,0,1,m,1750,1750,1750
+Arabica,Colombia,1,2 kg,2013,3,20,LUSSO LAB,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1,0,1,m,900,1500,1200
+Arabica,Colombia,250,70 kg,2013,3,20,Exportadora de Cafe Condor S.A,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,82.92,0,0,0,0,m,1750,1750,1750
+Arabica,Costa Rica,150,69 kg,2013,3,21,"CECA, S.A.",7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,7.33,82.08,0.11,0,0,2,m,13,13,13
+Arabica,Mexico,49,1 kg,2013,3,29,NESTOR MENDEZ GOMEZ,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,7.42,82.42,0.12,0,0,5,m,1560,1560,1560
+Arabica,Mexico,310,1 kg,2013,3,29,FREDY GORDILLO REYES,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,81.67,0.12,0,0,6,m,1400,1400,1400
+Arabica,Mexico,275,1 kg,2013,3,29,NESTOR MENDEZ GOMEZ,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,74.67,0.12,0,0,7,m,1700,1700,1700
+Arabica,Mexico,380,1 kg,2013,3,29,CALIXTO GUILLEN VAZQUEZ,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,79.75,0.12,0,0,5,m,1300,1300,1300
+Arabica,Mexico,400,1 kg,2013,3,29,CALIXTO GUILLEN VAZQUEZ,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,0,0,4,m,1300,1300,1300
+Arabica,Mexico,310,1 kg,2013,3,29,FREDY GORDILLO REYES,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,79.67,0.12,0,0,6,m,1400,1400,1400
+Arabica,Mexico,200,1 kg,2013,3,29,CALIXTO GUILLEN VAZQUEZ,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,83.25,0.12,0,0,6,m,1300,1300,1300
+Arabica,Mexico,32,1 kg,2013,3,29,NESTOR MENDEZ GOMEZ,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,0,0,6,m,1550,1550,1550
+Arabica,Mexico,450,1 kg,2013,3,29,CALIXTO GUILLEN VAZQUEZ,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,81.92,0.12,0,0,6,m,1300,1300,1300
+Arabica,Mexico,310,1 kg,2013,3,29,FREDY GORDILLO REYES,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,79.75,0.12,0,0,4,m,1400,1400,1400
+Arabica,Mexico,275,1 kg,2013,3,29,LEONIDES DE LA CRUZ LOPEZ,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,6.83,79.75,0.13,0,0,4,m,1022,1022,1022
+Arabica,Mexico,310,1 kg,2013,3,29,FREDY GORDILLO REYES,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,81.58,0.12,0,0,9,m,1400,1400,1400
+Arabica,Mexico,45,1 kg,2013,3,29,NESTOR MENDEZ GOMEZ,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,0,0,2,m,1500,1500,1500
+Arabica,Mexico,2,2 kg,2013,4,10,LUSSO LAB,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,1,0,1,m,1200,1600,1400
+Arabica,Honduras,275,1 kg,2013,4,12,Mayra Yessenia Torres,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,83.17,0.1,0,0,5,m,1450,1450,1450
+Arabica,Mexico,2,2 kg,2013,4,14,LUSSO LAB,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,7.58,82.5,0,0,0,1,m,1500,1700,1600
+Arabica,Colombia,250,70 kg,2013,4,16,Exportadora de Cafe Condor S.A,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,82.58,0.11,0,0,3,m,1750,1750,1750
+Arabica,Brazil,300,60 kg,2013,4,17,Jacques Pereira Carneiro,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,0,0,10,m,1250,1250,1250
+Arabica,China,1,2 kg,2013,4,26,Adam Ciruli Ye,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,7.08,78.67,0,0,0,5,m,1850,1850,1850
+Arabica,Guatemala,250,69 kg,2013,4,26,Juan Luis Alvarado Romero,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,7.67,83.83,0.11,0,0,3,ft,1310.64,1310.64,1310.64
+Arabica,Costa Rica,275,69 kg,2013,4,26,"CECA, S.A.",7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,8.08,81.67,0.11,0,0,3,m,1850,1850,1850
+Arabica,El Salvador,2,2 kg,2013,4,26,LUSSO LAB,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,7.25,80.42,0,0,0,1,m,1450,1450,1450
+Arabica,Colombia,250,70 kg,2013,4,26,Exportadora de Cafe Condor S.A,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,7.67,83.5,0,1,0,1,m,1750,1750,1750
+Arabica,Colombia,250,70 kg,2013,4,26,CARCAFE LTDA CI,7.58,7.75,7.42,7.67,7.58,7.42,10,10,10,7.58,83,0,0,0,2,m,1000,1000,1000
+Arabica,Colombia,250,70 kg,2013,4,26,CARCAFE LTDA CI,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,83.33,0.11,0,0,1,m,1000,1000,1000
+Arabica,Guatemala,250,69 kg,2013,4,26,Juan Luis Alvarado Romero,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,4,29,Juan Luis Alvarado Romero,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,78,0.11,3,0,9,ft,1310.64,1310.64,1310.64
+Arabica,United States (Hawaii),12,100 lbs,2013,5,2,Kona Pacific Farmers Cooperative,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,83.75,0,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),6,100 lbs,2013,5,3,Kona Pacific Farmers Cooperative,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,82.25,0,0,0,1,ft,0,0,0
+Arabica,United States (Hawaii),5,100 lbs,2013,5,3,Kona Pacific Farmers Cooperative,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,77.58,0.12,1,0,5,ft,0,0,0
+Arabica,Haiti,1,4 lbs,2013,5,5,Myriam Kaplan-Pasternak,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10,10,6.83,77.25,0.1,0,0,1,m,400,1250,825
+Arabica,Haiti,300,4 lbs,2013,5,5,Myriam Kaplan-Pasternak,7.42,7.33,7.25,7.42,7.42,7.33,10,10,10,7.33,81.5,0.11,0,0,0,m,400,1250,825
+Arabica,Colombia,250,70 kg,2013,5,7,Exportadora de Cafe Condor S.A,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,82.5,0.11,0,0,1,m,1750,1750,1750
+Arabica,Costa Rica,250,1 kg,2013,5,9,Eric ormaehlen,7.67,7.42,7.5,7.67,7,7.75,10,10,10,7.58,82.58,0.11,0,0,3,m,1200,1400,1300
+Arabica,Guatemala,250,69 kg,2013,5,9,Juan Luis Alvarado Romero,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,7.42,84.17,0.11,0,0,4,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,125,70 kg,2013,5,10,Racafe & Cia S.C.A,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,7.58,82.83,0.11,0,0,3,m,1600,1950,1775
+Arabica,Guatemala,250,69 kg,2013,5,13,Juan Luis Alvarado Romero,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,79.42,0.1,0,0,2,ft,1219.2,1219.2,1219.2
+Arabica,Indonesia,320,4 kg,2013,5,23,Chris Finch,7.17,7.42,7.33,7.42,7.33,7.42,10,10,10,7.58,81.67,0.11,0,0,0,m,0,0,0
+Arabica,Colombia,250,70 kg,2013,5,24,Exportadora de Cafe Condor S.A,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,83.5,0.11,0,0,2,m,1750,1750,1750
+Arabica,Guatemala,250,1 kg,2013,5,26,e Coffee Source Inc.,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,7.08,80.83,0.11,0,0,1,m,1200,1200,1200
+Arabica,United States (Puerto Rico),18,5 lbs,2013,5,28,German Negron,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10,10,8.5,81.08,0,0,0,0,ft,853.44,853.44,853.44
+Arabica,Kenya,320,1 kg,2013,5,30,Daniel Magu,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,0,0,1,m,1800,1800,1800
+Arabica,Guatemala,250,69 kg,2013,5,30,Juan Luis Alvarado Romero,7.67,7.67,7.42,7.67,8,7.75,10,10,10,7.5,83.67,0.12,1,0,3,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,5,30,Juan Luis Alvarado Romero,7.83,7.42,7.33,7.67,7.42,7.5,10,10,10,7.33,82.5,0.12,0,0,4,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,250,70 kg,2013,5,31,Racafe & Cia S.C.A,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,82.42,0.11,0,0,9,m,1600,1950,1775
+Arabica,Guatemala,250,69 kg,2013,6,5,Juan Luis Alvarado Romero,7.67,7.17,7,7.5,7,7,10,10,10,7.33,80.67,0.12,0,0,5,m,1550,1550,1550
+Arabica,Guatemala,250,69 kg,2013,6,6,Juan Luis Alvarado Romero,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,74.33,0.11,1,0,1,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,250,69 kg,2013,6,6,Juan Luis Alvarado Romero,7.33,7.33,6.83,7.5,7,7.17,10,10,10,7.17,80.33,0.11,1,0,4,ft,1310.64,1310.64,1310.64
+Arabica,Costa Rica,250,1 kg,2013,6,9,Eric ormaehlen,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,7.33,82,0.1,0,0,4,m,1200,1400,1300
+Arabica,United States (Puerto Rico),18,5 lbs,2013,6,9,German Negron,7.42,7.08,6.75,7.33,7.33,6.92,10,9.33,10,6.92,79.08,0.13,0,0,0,ft,853.44,853.44,853.44
+Arabica,United States (Puerto Rico),17,5 lbs,2013,6,9,German Negron,7.67,7.5,7.67,7.83,7.75,7.83,10,10,9.33,7.42,83,0,0,0,0,ft,853.44,853.44,853.44
+Arabica,Costa Rica,250,1 kg,2013,6,9,Eric ormaehlen,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,7.67,83.83,0.1,0,0,3,m,1200,1400,1300
+Arabica,United States (Puerto Rico),18,5 lbs,2013,6,9,German Negron,7.83,7.83,7.83,7.67,8,8.17,9.33,9.33,10,7.75,83.75,0.12,0,0,1,ft,853.44,853.44,853.44
+Arabica,ailand,1,1 kg,2013,6,16,Doi Tung Development Project,6.92,7.17,6.83,7.42,7.17,7.08,10,10,10,7.08,79.67,0.12,0,0,0,m,800,800,800
+Arabica,ailand,1,1 kg,2013,6,16,Doi Tung Development Project,7.25,7.08,6.92,7.5,7.08,6.92,10,10,10,7,79.75,0.12,0,0,0,m,800,800,800
+Arabica,China,1,2 kg,2013,6,16,Eric Wu,7.67,8,7.75,7.83,7.75,7.58,10,10,10,7.92,84.5,0,0,0,2,m,1100,1100,1100
+Arabica,ailand,1,1 kg,2013,6,20,Doi Tung Development Project,7.58,7.5,7.42,7.42,7.33,7.42,10,10,10,7.33,82,0.11,0,0,0,m,800,800,800
+Arabica,Colombia,250,70 kg,2013,6,21,Exportadora de Cafe Condor S.A,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,82.33,0,0,0,1,m,1750,1750,1750
+Arabica,Colombia,270,70 kg,2013,6,21,Exportadora de Cafe Condor S.A,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,84,0.11,0,0,1,m,1700,1700,1700
+Arabica,Colombia,250,70 kg,2013,6,21,Exportadora de Cafe Condor S.A,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,79.5,0,0,0,2,m,1550,1550,1550
+Arabica,Uganda,1,60 kg,2013,6,25,Kawacom Uganda LTD,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,7.5,82.67,0.12,0,0,0,m,1400,1900,1650
+Arabica,Uganda,150,60 kg,2013,6,26,Great Lakes Coffee Uganda,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,0,0,5,m,1950,1950,1950
+Arabica,Uganda,300,60 kg,2013,6,26,Star Cafe Ltd,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,7.5,83,0.12,0,0,0,m,1800,1800,1800
+Arabica,Uganda,320,60 kg,2013,6,26,Kyagalanyi Ltd,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,85.5,0.12,0,0,1,m,1600,1600,1600
+Arabica,Uganda,100,60 kg,2013,6,26,Kabum Trading company,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,86.83,0.12,0,0,1,m,1950,1950,1950
+Arabica,Uganda,1,60 kg,2013,6,27,Kawacom Uganda LTD,8,7.5,7.5,7.58,7.33,7.42,10,10,10,7.58,82.92,0.12,0,0,0,m,1400,1900,1650
+Arabica,Guatemala,250,69 kg,2013,6,27,Juan Luis Alvarado Romero,7.5,7,6.83,7.08,7.08,7.17,10,10,10,7,79.67,0.11,0,0,6,ft,1310.64,1310.64,1310.64
+Arabica,Uganda,100,60 kg,2013,6,27,Bulamburi coffee farmers association,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,7.67,83.58,0.12,0,0,5,m,1800,1800,1800
+Arabica,Uganda,1,60 kg,2013,6,27,Nyapea coffee farmers association,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,7.5,82.92,0.12,0,0,4,m,1400,1400,1400
+Arabica,Uganda,320,60 kg,2013,6,30,Nile Highland Arabica Coffee Farmers,8,7.92,7.58,7.75,7.33,7.5,10,10,10,7.67,83.75,0.12,0,0,0,m,1400,1400,1400
+Arabica,Uganda,320,60 kg,2013,6,30,Kyagalanyi Ltd,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,7.42,81,0.12,0,0,3,m,1700,1700,1700
+Arabica,Uganda,1,60 kg,2013,6,30,Kawacom Uganda LTD,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,84.83,0.12,0,0,1,m,1400,1900,1650
+Arabica,Uganda,1,60 kg,2013,6,30,Kawacom Uganda LTD,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,7.42,82.58,0.12,0,0,0,m,1400,1900,1650
+Arabica,Uganda,1,60 kg,2013,6,30,Kawacom Uganda LTD,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,0,0,0,m,1400,1900,1650
+Arabica,Guatemala,250,69 kg,2013,7,5,Juan Luis Alvarado Romero,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,78.75,0.12,1,0,8,ft,1310.64,1310.64,1310.64
+Arabica,Mexico,200,1 kg,2013,7,15,J.ANDRADE,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,82.17,0.12,0,0,0,m,1100,1100,1100
+Arabica,Mexico,200,1 kg,2013,7,15,J.ANDRADE,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,0,0,0,m,1100,1100,1100
+Arabica,Guatemala,250,69 kg,2013,7,16,Juan Luis Alvarado Romero,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,7.25,82.33,0.12,2,0,1,ft,1310.64,1310.64,1310.64
+Arabica,Nicaragua,275,1 lbs,2013,7,16,Chris Finch,7.33,7.08,7.25,7,7.5,7.42,10,10,10,7.33,80.92,0.1,1,0,3,m,700,1400,1050
+Arabica,Guatemala,250,69 kg,2013,7,16,Juan Luis Alvarado Romero,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,7.17,81.58,0.12,0,0,1,ft,1310.64,1310.64,1310.64
+Arabica,Guatemala,275,5 lbs,2013,7,16,Chris Finch,7.67,7.75,7.67,7.75,7.75,7.75,10,10,10,7.83,84.17,0.11,0,0,0,m,0,0,0
+Arabica,Guatemala,250,69 kg,2013,7,16,Juan Luis Alvarado Romero,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,83.42,0.11,0,0,0,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,50,70 kg,2013,7,19,Racafe & Cia S.C.A,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,2,0,0,m,1600,1950,1775
+Arabica,Mexico,150,1 kg,2013,7,19,JESUS CARLOS CARDENAS VALDIVIA,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,0,0,4,m,1338,1338,1338
+Arabica,Colombia,275,70 kg,2013,7,19,Exportadora de Cafe Condor S.A,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,84.33,0,0,0,0,m,1800,1800,1800
+Arabica,Kenya,100,60 kg,2013,7,21,Daniel Magu,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,7.92,84.58,0.1,0,0,2,m,1800,1800,1800
+Arabica,Taiwan,50,20 kg,2013,7,22,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",6.83,6.75,7.17,7.25,7,6.92,10,10,10,6.67,78.58,0.1,0,0,0,m,800,800,800
+Arabica,Taiwan,50,20 kg,2013,7,22,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.33,7.5,7.17,7.42,7.5,7.33,10,10,10,7.75,82,0.09,0,0,0,m,600,600,600
+Arabica,Colombia,275,70 kg,2013,7,26,Exportadora de Cafe Condor S.A,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1,0,0,m,1800,1800,1800
+Arabica,Taiwan,50,20 kg,2013,7,28,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.08,7.08,7.25,7,7.17,7.17,10,10,10,7,79.75,0.1,0,0,0,m,500,700,600
+Arabica,Nicaragua,275,5 lbs,2013,7,29,Chris Finch,7.58,7.42,7.25,7.17,7.5,7.67,10,10,10,7.33,81.92,0.12,3,0,4,m,0,0,0
+Arabica,Colombia,275,70 kg,2013,8,2,Exportadora de Cafe Condor S.A,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,1,m,1750,1750,1750
+Arabica,Colombia,250,70 kg,2013,8,2,Exportadora de Cafe Condor S.A,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,83,0,0,0,0,m,1750,1750,1750
+Arabica,Guatemala,250,69 kg,2013,8,7,Juan Luis Alvarado Romero,7.33,7.33,7,7.17,7.17,7.17,10,10,10,7,80.17,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,250,70 kg,2013,8,16,Racafe & Cia S.C.A,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,83.67,0,0,0,1,m,1800,2000,1900
+Arabica,Guatemala,250,69 kg,2013,8,21,Juan Luis Alvarado Romero,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,83.42,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Brazil,1,5 lbs,2013,8,25,Cafe Politico,7.17,7.25,7.17,7.25,7.42,8.25,10,10,10,7.25,81.75,0.1,0,0,1,m,0,0,0
+Arabica,Colombia,275,70 kg,2013,8,27,Exportadora de Cafe Condor S.A,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,0,0,3,m,1750,1750,1750
+Arabica,Kenya,11,660 kg,2013,8,30,Taylor Winch (Coffee) Ltd.,7.75,7.75,7.75,8.08,7.75,7.75,10,10,10,7.75,84.58,0,0,0,0,m,0,0,0
+Arabica,ailand,300,60 kg,2013,9,3,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1500,1500,1500
+Arabica,Colombia,250,70 kg,2013,9,3,Exportadora de Cafe Condor S.A,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,83.83,0.11,0,0,1,m,1750,1750,1750
+Arabica,Eiopia,100,60 kg,2013,9,3,Ji-Ae Ahn,8.42,8.17,7.92,8.17,8.33,8,10,10,10,8.08,87.08,0.11,0,0,1,m,0,0,0
+Arabica,Brazil,100,30 kg,2013,9,3,Ji-Ae Ahn,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,8.33,88.83,0.11,0,0,1,m,0,0,0
+Arabica,China,16,2 kg,2013,9,5,Samuel Eli Gurel,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,78,0.1,0,0,28,m,1200,1200,1200
+Arabica,Colombia,1,5 lbs,2013,9,12,Cafe Politico,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,7.25,82.08,0.11,1,0,0,m,0,0,0
+Arabica,Colombia,250,70 kg,2013,9,13,Racafe & Cia S.C.A,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,7.17,82,0.11,0,0,1,m,1800,2000,1900
+Arabica,Colombia,250,70 kg,2013,9,13,Racafe & Cia S.C.A,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,7.58,82.92,0.11,0,0,2,m,1800,2000,1900
+Arabica,Costa Rica,275,2 kg,2013,9,23,e Coffee Source Inc.,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,8,79.75,0.1,0,0,4,m,1100,1100,1100
+Arabica,Colombia,250,70 kg,2013,10,1,Exportadora de Cafe Condor S.A,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,0,0,2,m,1700,1700,1700
+Arabica,Ecuador,1,5 lbs,2013,10,4,Garet Alban,7.5,7.67,7.58,7.75,7.83,7.83,10,10,10,7.67,83.83,0.09,0,0,0,m,800,800,800
+Arabica,Guatemala,250,69 kg,2013,10,7,Juan Luis Alvarado Romero,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,7.08,81.42,0.12,0,0,4,ft,1310.64,1310.64,1310.64
+Arabica,Colombia,250,70 kg,2013,10,29,Exportadora de Cafe Condor S.A,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,83.67,0,0,0,3,m,1750,1750,1750
+Arabica,Brazil,300,60 kg,2013,11,6,Ipanema Coffees,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,7.33,81.58,0.12,0,0,3,m,1260,1260,1260
+Arabica,Kenya,300,18000 kg,2013,11,7,ITOCHU Corporation,7.58,7.75,7.75,7.75,7.75,7.83,10,10,10,7.75,84.17,0.08,0,0,0,m,1,500,250.5
+Arabica,Colombia,120,70 kg,2013,11,7,Racafe & Cia S.C.A,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,83,0.11,1,0,1,m,1600,1950,1775
+Arabica,Colombia,250,70 kg,2013,11,22,Exportadora de Cafe Condor S.A,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,83.75,0,0,0,1,m,1750,1750,1750
+Arabica,Colombia,75,70 kg,2013,12,6,Racafe & Cia S.C.A,7.75,7.75,7.83,7.75,7.58,8,10,10,10,7.92,84.58,0,0,0,5,m,1600,1900,1750
+Arabica,Mexico,10,1 kg,2013,12,12,MANUEL HERRERA JUAREZ,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,82.42,0.12,0,0,0,m,1170,1170,1170
+Arabica,"Tanzania, United Republic Of",10,60 kg,2013,12,15,Tembo Coffee Company Ltd,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,7.5,81.67,0.12,0,0,7,m,1700,1700,1700
+Arabica,Guatemala,250,1 kg,2013,12,18,e Coffee Source Inc.,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,7.33,82.42,0.1,0,0,0,m,1400,1400,1400
+Arabica,Guatemala,250,1 kg,2013,12,18,e Coffee Source Inc.,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,83.5,0.1,0,0,0,m,1400,1400,1400
+Arabica,Colombia,250,70 kg,2013,12,20,Compa√±ia Colombiana Agroindustrial S.A,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,7.83,84.58,0,0,0,0,m,1550,1550,1550
+Arabica,Colombia,250,70 kg,2013,12,20,Compa√±ia Colombiana Agroindustrial S.A,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,84.67,0,0,0,0,m,1550,1550,1550
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,8,7.92,7.75,7.75,7.75,7.75,10,10,10,7.75,84.67,0.11,0,0,0,m,1000,1000,1000
+Arabica,Taiwan,10,20 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,0,m,200,200,200
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,0,m,600,600,600
+Arabica,Taiwan,35,60 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.25,82.25,0.11,0,0,0,m,650,650,650
+Arabica,Taiwan,60,60 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.17,82.17,0.11,0,0,0,m,1200,1200,1200
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.5,7.25,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,0,m,150,150,150
+Arabica,Taiwan,5,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.42,7.25,7.25,7.33,7.33,10,10,10,7.42,81.5,0.11,0,0,0,m,600,600,600
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.5,7.25,7.25,7.25,7.25,10,10,10,7.25,81.25,0.11,0,0,0,m,650,650,650
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,6.92,7.33,7.33,7.33,7.33,10,10,10,7.25,81,0.11,0,0,0,m,1100,1100,1100
+Arabica,Taiwan,5,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.17,7.08,7.08,7.08,8.08,10,10,10,7.17,80.92,0.11,0,0,0,m,688,688,688
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,7,80.33,0.11,0,0,0,m,600,600,600
+Arabica,Taiwan,5,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,7,80.25,0.11,0,0,0,m,700,700,700
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.25,7.25,7.25,7.08,7,10,10,10,7,80.08,0.11,0,0,0,m,200,200,200
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.25,7.25,7,7.25,7.08,10,10,10,7,80.08,0.11,0,0,0,m,150,150,150
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.25,7.25,7.08,7.17,7.08,10,10,10,7,80.08,0.11,0,0,0,m,250,250,250
+Arabica,Taiwan,35,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,0,m,900,900,900
+Arabica,Taiwan,10,20 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,0,m,300,300,300
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.58,7.42,7.33,7.42,7.33,7.33,10,10,10,7.25,81.67,0.11,0,0,0,m,750,750,750
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.67,7.5,7.5,7.5,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1240,1240,1240
+Arabica,Taiwan,10,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.75,7.75,7.75,7.75,7.5,7.58,10,10,10,7.5,83.58,0.11,0,0,0,m,1000,1000,1000
+Arabica,Taiwan,50,30 kg,2013,12,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.75,7.75,7.5,7.5,7.5,7.5,10,10,10,7.58,83.08,0.11,0,0,0,m,1300,1300,1300
+Arabica,Brazil,320,60 kg,2013,12,26,Ipanema Coffees,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,7.75,83.83,0.1,0,0,0,m,1260,1260,1260
+Arabica,Brazil,220,60 kg,2013,12,30,Ipanema Coffees,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,8.17,82.42,0,0,0,0,m,1260,1260,1260
+Arabica,"Tanzania, United Republic Of",20,60 kg,2014,1,2,DAE Ltd Company,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,7.33,81.67,0.12,0,0,0,m,1200,1800,1500
+Arabica,"Tanzania, United Republic Of",54,60 kg,2014,1,2,Taylor Winch (T) Ltd,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,7.17,81.08,0.13,0,0,2,m,1456,1456,1456
+Arabica,Brazil,320,60 kg,2014,1,2,Ipanema Coffees,7.58,7.83,7.67,7.25,8,7.75,10,10,10,7.92,84,0.1,0,0,0,m,1260,1260,1260
+Arabica,Brazil,250,2 kg,2014,1,2,Jacques Pereira Carneiro,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,7.5,83,0.12,0,0,4,m,1250,1250,1250
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,1,6,Burka Coffee Estate,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,7.25,80.58,0.12,0,0,1,m,1400,1400,1400
+Arabica,"Tanzania, United Republic Of",114,60 kg,2014,1,6,Mcomafa Co Ltd,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,7.42,81.92,0.12,0,0,4,m,1877,1877,1877
+Arabica,Costa Rica,250,1 kg,2014,1,7,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,7.33,81.5,0.12,1,0,2,m,1200,1200,1200
+Arabica,Philippines,2,2 kg,2014,1,8,Victoria,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,7.25,81.17,0,0,0,4,m,1200,1200,1200
+Arabica,"Tanzania, United Republic Of",1,60 kg,2014,1,8,Ngorogoro Convenant Estate,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,82.08,0.12,0,0,3,m,1500,1700,1600
+Arabica,"Tanzania, United Republic Of",1,60 kg,2014,1,8,Ngorogoro Convenant Estate,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,81.75,0.12,0,0,4,m,1500,1700,1600
+Arabica,United States (Hawaii),7,100 lbs,2014,1,13,Eileen Koyanagi,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,80.92,0.1,2,0,5,ft,0,0,0
+Arabica,Brazil,69,60 kg,2014,1,14,Ipanema Coffees,7.42,7.5,7.67,7.33,7.42,7.67,10,10,10,7.5,82.5,0.11,0,0,0,m,1260,1260,1260
+Arabica,Brazil,300,60 kg,2014,1,15,BOURBON SPECIALTY COFFEES,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,7.75,83.42,0.12,0,0,6,m,0,0,0
+Arabica,Brazil,300,60 kg,2014,1,15,BOURBON SPECIALTY COFFEES,7.33,7.5,7.58,7.58,7.67,7.5,10,10,10,7.5,82.67,0.12,0,0,9,m,0,0,0
+Arabica,Brazil,300,60 kg,2014,1,15,BOURBON SPECIALTY COFFEES,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,7.5,82.17,0.12,0,0,1,m,0,0,0
+Arabica,Brazil,300,60 kg,2014,1,15,BOURBON SPECIALTY COFFEES,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,7.75,81,0.12,0,0,0,m,0,0,0
+Arabica,Colombia,250,70 kg,2014,1,17,Compa√±ia Colombiana Agroindustrial S.A,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,0,0,2,m,1550,1550,1550
+Arabica,Colombia,250,70 kg,2014,1,17,Compa√±ia Colombiana Agroindustrial S.A,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,83.92,0.12,0,0,3,m,1550,1550,1550
+Arabica,Vietnam,3,2 kg,2014,1,19,"Sunvirtue Co., Ltd.",7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,7.92,82.83,0.11,11,0,0,m,1040,1040,1040
+Arabica,United States (Hawaii),18,100 lbs,2014,1,20,Eileen Koyanagi,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,2,0,8,ft,0,0,0
+Arabica,Colombia,275,70 kg,2014,1,22,Exportadora de Cafe Condor S.A,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,83.5,0.11,0,0,0,m,1850,1850,1850
+Arabica,Honduras,275,1 kg,2014,1,22,Mayra Yessenia Torres,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,7.33,81.33,0.12,0,0,3,m,1450,1450,1450
+Arabica,Colombia,250,70 kg,2014,1,24,Olam Agro Colombia,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,0,0,3,m,1500,1600,1550
+Arabica,Honduras,275,18975 kg,2014,1,26,Mayra Yessenia Torres,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,7.33,81,0.12,0,0,1,m,1350,1350,1350
+Arabica,Guatemala,275,69 kg,2014,1,28,Juan Luis Alvarado Romero,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,80.58,0.11,0,0,5,ft,1383.792,1383.792,1383.792
+Arabica,Kenya,12,60 kg,2014,1,29,Jungle Estate,8.08,8.08,8,8,7.83,8.08,10,10,10,8,86.08,0.11,0,0,2,m,1754,1754,1754
+Arabica,"Tanzania, United Republic Of",300,1 kg,2014,1,31,Balam Hinyula,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,83.17,0.12,0,0,1,m,1800,1800,1800
+Arabica,Costa Rica,250,1 kg,2014,2,3,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,6.83,77.92,0.12,2,0,4,m,1200,1200,1200
+Arabica,Costa Rica,250,1 kg,2014,2,3,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,71.75,0.11,0,0,7,m,1200,1200,1200
+Arabica,Colombia,100,70 kg,2014,2,5,Racafe & Cia S.C.A,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,7.67,83.75,0,0,0,5,m,1600,1950,1775
+Arabica,Guatemala,275,69 kg,2014,2,7,Juan Luis Alvarado Romero,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,78,0.1,1,0,2,ft,1219.2,1219.2,1219.2
+Arabica,Brazil,305,2 kg,2014,2,13,Irene Alves Santos,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,7.58,83,0,0,0,0,m,900,1100,1000
+Arabica,ailand,20,20 kg,2014,2,15,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,7.42,81.17,0.12,0,0,0,m,1400,1500,1450
+Arabica,ailand,50,20 kg,2014,2,15,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.33,7.5,7.5,7.5,7.67,7.5,10,10,10,7.5,82.5,0.11,0,0,0,m,1400,1500,1450
+Arabica,ailand,50,20 kg,2014,2,15,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,1,m,1400,1500,1450
+Arabica,Guatemala,250,69 kg,2014,2,18,Juan Luis Alvarado Romero,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,0,0,2,m,1500,1500,1500
+Arabica,United States,300,60 kg,2014,2,20,Joshua Marsceau,7.42,7.58,7.25,7.5,7.75,7.75,10,10,10,7.58,82.83,0,0,0,9,m,1200,1200,1200
+Arabica,United States (Hawaii),12,100 lbs,2014,2,25,Eileen Koyanagi,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,83.33,0.11,0,0,1,ft,0,0,0
+Arabica,Guatemala,275,69 kg,2014,2,27,Juan Luis Alvarado Romero,8,7.5,7.33,8,8,8,9.33,10,10,7.5,83.67,0.1,0,0,0,ft,1356.6648,1356.6648,1356.6648
+Arabica,Guatemala,275,69 kg,2014,2,27,Juan Luis Alvarado Romero,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,78.33,0.1,0,0,2,ft,1219.2,1219.2,1219.2
+Arabica,United States (Hawaii),2,100 lbs,2014,3,3,Eileen Koyanagi,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,4,0,13,ft,0,0,0
+Arabica,United States,1,5 lbs,2014,3,4,Wali Ali,7.42,7.17,7.33,7.42,7.25,7.33,10,10,10,7.17,81.08,0,0,0,0,ft,1706.88,1706.88,1706.88
+Arabica,Costa Rica,275,1 kg,2014,3,5,Eric ormaehlen,8,7.58,7.83,7.75,7.75,7.75,10,10,10,8,84.67,0.11,0,0,4,m,1200,1200,1200
+Arabica,Guatemala,26,69 kg,2014,3,7,Juan Luis Alvarado Romero,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,83.25,0.1,0,0,1,m,1500,1500,1500
+Arabica,Guatemala,26,69 kg,2014,3,7,Juan Luis Alvarado Romero,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,83,0.1,1,0,0,m,1500,1500,1500
+Arabica,Guatemala,26,69 kg,2014,3,7,Juan Luis Alvarado Romero,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,82.92,0.1,0,0,2,m,1500,1500,1500
+Arabica,United States (Hawaii),11,100 lbs,2014,3,10,Eileen Koyanagi,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,5,0,9,ft,0,0,0
+Arabica,United States (Hawaii),12,100 lbs,2014,3,10,Eileen Koyanagi,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,2,ft,0,0,0
+Arabica,Colombia,275,2 kg,2014,3,12,Federacion Nacional de Cafeteros,7.67,7.42,7.67,7.83,7.58,7.67,10,10,10,7.67,83.5,0,1,0,0,m,0,0,0
+Arabica,Colombia,275,2 kg,2014,3,12,Federacion Nacional de Cafeteros,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,7.67,83.92,0,1,0,1,m,0,0,0
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,0,0,0,m,2080,2080,2080
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,87.25,0,0,0,0,m,2019,2019,2019
+Arabica,United States (Hawaii),3,100 lbs,2014,3,13,Eileen Koyanagi,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,74.42,0,1,0,2,ft,0,0,0
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,0,0,0,m,1943,1943,1943
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,0,0,0,m,1941,1941,1941
+Arabica,Colombia,250,70 kg,2014,3,13,Compa√±ia Colombiana Agroindustrial S.A,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,83.58,0.12,0,0,1,m,1550,1550,1550
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,0,0,0,m,1872,1872,1872
+Arabica,United States,10,1 kg,2014,3,13,CQI Q Coffee Sample Representative,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,8.17,87.08,0,0,0,0,m,2112,2112,2112
+Arabica,United States (Hawaii),2,100 lbs,2014,3,18,Eileen Koyanagi,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0,0,0,0,ft,0,0,0
+Arabica,United States (Hawaii),5,100 lbs,2014,3,18,Eileen Koyanagi,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,78,0.12,2,0,3,ft,0,0,0
+Arabica,United States (Hawaii),5,100 lbs,2014,3,19,Eileen Koyanagi,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,78.33,0.1,0,0,0,ft,0,0,0
+Arabica,Guatemala,36,55 lbs,2014,3,21,EssenceCoffee,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,81.25,0.09,0,0,2,m,1700,1700,1700
+Arabica,Guatemala,250,69 kg,2014,3,21,EssenceCoffee,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,7.42,82.17,0.09,0,0,4,m,1500,1500,1500
+Arabica,Indonesia,300,10 kg,2014,3,21,EssenceCoffee,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,7.42,81.83,0.11,2,0,6,m,1300,1300,1300
+Arabica,Colombia,250,70 kg,2014,3,21,Compa√±ia Colombiana Agroindustrial S.A,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,7.58,83.58,0,0,0,0,m,1550,1550,1550
+Arabica,Taiwan,28,50 kg,2014,3,21,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,7.33,79.75,0,0,0,0,m,800,1200,1000
+Arabica,Colombia,100,24 kg,2014,3,21,EssenceCoffee,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,7.08,82.83,0,0,0,1,m,1200,2000,1600
+Arabica,Guatemala,250,69 kg,2014,3,24,Juan Luis Alvarado Romero,8,7.92,7.67,7.58,7.58,7.67,10,10,10,8.17,84.58,0.09,0,0,0,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,250,69 kg,2014,3,24,Juan Luis Alvarado Romero,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,82.83,0.1,0,0,4,m,1500,1500,1500
+Arabica,"Tanzania, United Republic Of",300,2 kg,2014,3,25,Balam Hinyula,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,7.42,82.08,0.12,0,0,5,m,1500,1500,1500
+Arabica,Eiopia,250,60 kg,2014,3,25,EssenceCoffee,7.75,7.67,7.58,7.67,7.5,7.67,10,10,10,7.75,83.58,0,0,0,7,m,1700,2000,1850
+Arabica,Eiopia,250,60 kg,2014,3,25,EssenceCoffee,8.17,8.17,8,8.17,8.08,8.33,10,10,10,8.33,87.25,0,0,0,8,m,1700,2000,1850
+Arabica,Eiopia,320,60 kg,2014,3,26,Asefa Dukamo Keroma,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,7.75,84.17,0.1,0,0,5,m,1545,1668,1606.5
+Arabica,Eiopia,320,60 kg,2014,3,26,Yidnekachew Dabessa,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,89,0.11,0,0,2,m,1800,2200,2000
+Arabica,Eiopia,320,60 kg,2014,3,27,Hider Abamecha,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,0,0,3,m,1750,1800,1775
+Arabica,Guatemala,200,69 kg,2014,3,27,Juan Luis Alvarado Romero,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,83.17,0.09,0,0,1,ft,1524,1524,1524
+Arabica,Eiopia,300,60 kg,2014,3,27,Mohammed Lalo,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,0,0,1,m,1855,1955,1905
+Arabica,Nicaragua,275,2 kg,2014,3,28,"Exportadora Atlantic, S.A.",6.83,7.08,6.92,6.75,7.25,7.08,10,10,10,6.67,78.58,0.11,1,0,1,m,0,0,0
+Arabica,Eiopia,50,60 kg,2014,3,30,Diamond Enterprise Plc,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,88.25,0.1,0,0,4,m,1795,1850,1822.5
+Arabica,Nicaragua,75,2 kg,2014,3,30,Asociaci√≥n Aldea Global Jinotega,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,79.83,0.11,0,0,0,m,1250,1250,1250
+Arabica,Guatemala,275,69 kg,2014,3,31,Juan Luis Alvarado Romero,7.25,7.33,6.83,7,7,7.17,10,10,10,6.83,79.42,0.1,1,0,4,ft,1219.2,1219.2,1219.2
+Arabica,Eiopia,320,60 kg,2014,3,31,Debesa Agro Industry Plc,7.67,7.75,7.5,7.58,7.75,7.67,10,10,10,7.58,83.5,0.1,1,0,18,m,1600,1600,1600
+Arabica,Eiopia,320,60 kg,2014,3,31,yasmin Cofffee Plantation Plc,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,7.75,83.83,0.12,0,0,4,m,1650,1703,1676.5
+Arabica,Costa Rica,250,3 lbs,2014,4,2,e Coffee Source Inc.,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,87.17,0.11,0,0,2,m,1300,1300,1300
+Arabica,Mexico,320,5 lbs,2014,4,2,Dane Loraas,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,7.5,82.33,0.11,0,0,0,m,0,0,0
+Arabica,Mexico,320,5 lbs,2014,4,2,Dane Loraas,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,7.42,81.67,0,0,0,4,m,0,0,0
+Arabica,Guatemala,250,69 kg,2014,4,3,Juan Luis Alvarado Romero,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,82.92,0.1,0,0,1,m,1500,1500,1500
+Arabica,Eiopia,320,60 kg,2014,4,4,Ibrahim Hussien Speciality Coffee Producer &Export,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,85.83,0.1,0,0,4,m,1800,2000,1900
+Arabica,Eiopia,300,60 kg,2014,4,4,metad plc,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,88.83,0.12,0,0,2,m,1950,2200,2075
+Arabica,Eiopia,300,60 kg,2014,4,4,metad plc,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,90.58,0.12,0,0,0,m,1950,2200,2075
+Arabica,Eiopia,300,60 kg,2014,4,4,metad plc,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,89.92,0.12,0,0,1,m,1950,2200,2075
+Arabica,Costa Rica,250,3 lbs,2014,4,7,e Coffee Source Inc.,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,83.33,0.12,0,0,3,m,1300,1300,1300
+Arabica,Guatemala,275,69 kg,2014,4,8,Juan Luis Alvarado Romero,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,1,0,2,ft,1219.2,1219.2,1219.2
+Arabica,Colombia,138,70 kg,2014,4,8,Racafe & Cia S.C.A,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,84,0.12,0,0,3,m,1600,1950,1775
+Arabica,Honduras,275,1 kg,2014,4,8,,7.67,7.5,7.67,7.5,7.67,7.67,10,10,10,7.83,83.5,0.1,0,0,3,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2014,4,8,,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,3,m,1350,1350,1350
+Arabica,Costa Rica,320,69 kg,2014,4,10,"CECA,S.A.",7.67,7.75,7.67,7.75,7.5,8,10,10,10,7.83,84.17,0,0,0,0,m,1850,1850,1850
+Arabica,Costa Rica,250,3 lbs,2014,4,11,e Coffee Source Inc.,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,80.75,0.11,0,0,0,m,1300,1300,1300
+Arabica,Colombia,250,70 kg,2014,4,14,Compa√±ia Colombiana Agroindustrial S.A,7.67,7.5,7.42,7.67,7.5,7.75,10,10,6.67,8.5,80.67,0,0,0,1,m,1550,1550,1550
+Arabica,Mexico,320,5 lbs,2014,4,18,Dane Loraas,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,7.58,82.58,0,0,0,11,m,0,0,0
+Arabica,Guatemala,275,69 kg,2014,4,23,Juan Luis Alvarado Romero,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,80.5,0.11,0,0,3,ft,1219.2,1219.2,1219.2
+Arabica,Honduras,275,1 kg,2014,4,25,CADEXSA,7.83,7.75,8,7.67,7.67,7.67,10,10,10,8.17,84.75,0.11,0,0,4,m,1450,1450,1450
+Arabica,Honduras,275,2 kg,2014,4,26,CAFES FINOS DE EXPORTACION S DE R.L.,7,7,7,7,7,7,10,10,10,7,79,0.11,0,0,12,m,1350,1350,1350
+Arabica,Honduras,275,2 kg,2014,4,26,CAFES FINOS DE EXPORTACION S DE R.L.,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,73.42,0.11,1,0,16,m,1350,1350,1350
+Arabica,Mexico,280,69 kg,2014,4,26,Kurt Kappeli,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,0,0,0,m,1600,1600,1600
+Arabica,Mexico,280,2 kg,2014,4,26,Kurt Kappeli,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,81.83,0.11,0,0,0,m,1550,1550,1550
+Arabica,Honduras,275,69 kg,2014,4,30,Beneficio Santa Rosa,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,80.58,0.11,0,0,5,m,1400,1400,1400
+Arabica,Honduras,275,69 kg,2014,4,30,Beneficio Santa Rosa,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,7.17,82,0.11,0,0,5,m,1400,1400,1400
+Arabica,Taiwan,8,18 kg,2014,4,30,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.75,7.67,7.75,7.42,7.75,10,10,10,7.83,83.83,0,0,0,1,m,480,570,525
+Arabica,Taiwan,8,5 kg,2014,4,30,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.33,7.17,7.25,7.75,7.33,10,10,10,7.33,81.83,0,0,0,0,m,700,700,700
+Arabica,Costa Rica,250,3 lbs,2014,5,1,e Coffee Source Inc.,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,85.33,0.1,0,0,2,m,1300,1300,1300
+Arabica,Mexico,280,2 kg,2014,5,1,Kurt Kappeli,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,80,0,0,0,2,m,1300,1500,1400
+Arabica,Mexico,280,2 kg,2014,5,1,Kurt Kappeli,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,81.42,0,1,0,1,m,1550,1550,1550
+Arabica,Costa Rica,250,3 lbs,2014,5,1,e Coffee Source Inc.,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,85.33,0,0,0,0,m,1300,1300,1300
+Arabica,Mexico,280,2 kg,2014,5,5,Kurt Kappeli,6.92,7,6.83,6.92,7.42,6.92,6,6,10,6.75,70.75,0.12,0,0,1,m,1000,1000,1000
+Arabica,El Salvador,275,69 kg,2014,5,5,Consejo Salvadore√±o del Caf√©,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,7.33,81.92,0.11,0,0,2,m,1250,1250,1250
+Arabica,Mexico,280,69 kg,2014,5,8,Kurt Kappeli,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1,0,1,m,1200,1200,1200
+Arabica,Costa Rica,250,1 kg,2014,5,9,Eric ormaehlen,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,7.25,81.17,0.11,0,0,3,m,1200,1400,1300
+Arabica,United States (Hawaii),12,100 kg,2014,5,12,Eileen Koyanagi,7.5,7,7,6.92,7.33,7.17,10,10,10,7,79.92,0.11,1,0,3,ft,0,0,0
+Arabica,Mexico,275,2 kg,2014,5,12,ANDREAS KUSSMAUL,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,7.75,83.58,0.12,1,0,13,m,1200,1200,1200
+Arabica,Honduras,275,1 kg,2014,5,15,CADEXSA,7,6.17,6.17,6.67,6.5,6.17,8,8,8,6.5,69.17,0.1,0,0,3,m,1450,1450,1450
+Arabica,Honduras,275,1 kg,2014,5,15,CADEXSA,7,6.33,6.17,6.5,6.67,6.17,8,8,8,6.33,69.17,0.1,0,0,4,m,1450,1450,1450
+Arabica,Honduras,275,1 kg,2014,5,15,CADEXSA,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,6.33,69.33,0.1,0,0,4,m,1450,1450,1450
+Arabica,Honduras,275,2 kg,2014,5,15,CAFES FINOS DE EXPORTACION S DE R.L.,6.83,7,6.67,7,7,6.83,10,10,10,6.67,78,0.11,2,0,6,m,1350,1350,1350
+Arabica,Honduras,275,2 kg,2014,5,15,CAFES FINOS DE EXPORTACION S DE R.L.,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,7,76,0.11,0,0,7,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2014,5,16,,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,81.83,0.1,0,0,4,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2014,5,16,,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,7.5,81.67,0.1,0,0,5,m,1400,1400,1400
+Arabica,Guatemala,250,69 kg,2014,5,22,Juan Luis Alvarado Romero,7.58,7.83,7.33,8,7.58,7.75,10,10,10,7.75,83.83,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Panama,100,60 kg,2014,5,23,EssenceCoffee,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,2,0,2,m,1680,1680,1680
+Arabica,Eiopia,250,30 kg,2014,5,23,EssenceCoffee,8.08,7.83,7.75,7.83,7.58,7.67,10,10,10,7.92,84.67,0.1,0,0,3,m,1900,1900,1900
+Arabica,Taiwan,10,2 kg,2014,5,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,6.92,7,7.17,7,7.42,7,10,10,10,7,79.5,0,0,0,1,m,700,700,700
+Arabica,Panama,100,60 kg,2014,5,23,EssenceCoffee,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,7.17,80.75,0.11,1,0,4,m,1680,1680,1680
+Arabica,Costa Rica,20,69 kg,2014,5,23,EssenceCoffee,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,7.67,84.67,0.08,0,0,1,m,1750,1750,1750
+Arabica,Guatemala,36,30 kg,2014,5,23,EssenceCoffee,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,0,0,1,m,1770,1770,1770
+Arabica,Kenya,16,60 kg,2014,5,23,EssenceCoffee,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,0,0,3,m,1900,1900,1900
+Arabica,Guatemala,250,69 kg,2014,5,26,Juan Luis Alvarado Romero,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,81.42,0.1,0,0,6,m,1550,1550,1550
+Arabica,Colombia,250,70 kg,2014,5,27,Compa√±ia Colombiana Agroindustrial S.A,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,7.67,84,0.12,0,0,0,m,1450,1450,1450
+Arabica,Colombia,250,1 kg,2014,5,27,Olam Agro Colombia,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,84,0.12,0,0,0,m,1480,1480,1480
+Arabica,Colombia,275,1 kg,2014,5,27,Coffee Export,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,0,m,165,165,165
+Arabica,Guatemala,250,69 kg,2014,5,29,Juan Luis Alvarado Romero,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,7.83,84.58,0.11,0,0,1,ft,1524,1524,1524
+Arabica,Kenya,150,60 kg,2014,6,2,Lydiah Mwangi,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,7.92,84.75,0.13,0,0,0,m,1800,1800,1800
+Arabica,ailand,1,1 kg,2014,6,9,Doi Tung Development Project,7.5,7.75,7.58,7.83,7.67,7.58,10,10,10,7.75,83.67,0.12,0,0,0,m,800,800,800
+Arabica,ailand,1,1 kg,2014,6,9,Doi Tung Development Project,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10,10,7.83,82.5,0.12,0,0,0,m,800,800,800
+Arabica,ailand,1,1 kg,2014,6,9,Doi Tung Development Project,7.42,7.42,7.17,7.75,7.25,7.67,10,10,10,7.5,82.17,0.12,0,0,0,m,800,800,800
+Arabica,ailand,1,1 kg,2014,6,9,Doi Tung Development Project,7.67,7.58,7.58,7.75,7.42,7.67,10,10,10,7.5,83.17,0.12,0,0,0,m,800,800,800
+Arabica,ailand,1,1 kg,2014,6,9,Doi Tung Development Project,7.75,7.33,7.42,7.67,7.42,7.5,10,10,10,7.5,82.58,0.12,0,0,0,m,800,800,800
+Arabica,Guatemala,250,69 kg,2014,6,10,Juan Luis Alvarado Romero,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,7.42,82.33,0.12,0,0,3,ft,1524,1524,1524
+Arabica,Guatemala,250,69 kg,2014,6,10,Juan Luis Alvarado Romero,7.58,7.42,6.92,7.5,7.25,7.17,10,10,10,7.08,80.92,0.12,2,0,5,ft,1524,1524,1524
+Arabica,Peru,275,2 kg,2014,6,16,Andrew Bowman,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77,0,7,0,9,m,900,1500,1200
+Arabica,Guatemala,1,2 kg,2014,6,16,LUSSO LAB,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,0,0,10,m,1550,1550,1550
+Arabica,Guatemala,250,69 kg,2014,6,16,Juan Luis Alvarado Romero,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,82.75,0.13,0,0,2,ft,1524,1524,1524
+Arabica,Zambia,13,2 kg,2014,6,20,LUSSO LAB,7.67,7.08,7.42,7.33,7.75,7.42,10,10,10,7.25,81.92,0,1,0,3,m,1000,1500,1250
+Arabica,Colombia,250,70 kg,2014,6,24,Compa√±ia Colombiana Agroindustrial S.A,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,83.25,0,0,0,0,m,1483,1483,1483
+Arabica,Colombia,250,70 kg,2014,6,24,Compa√±ia Colombiana Agroindustrial S.A,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,83.58,0,0,0,0,m,1600,1600,1600
+Arabica,Guatemala,250,69 kg,2014,6,27,Juan Luis Alvarado Romero,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,7.83,84,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+Arabica,Kenya,300,2 kg,2014,7,3,Taylor Winch (Coffee) Ltd.,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,7.83,83.17,0.1,0,0,1,m,1,500,250.5
+Arabica,Costa Rica,250,1 lbs,2014,7,6,Fabian Calderon Mora,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,7.92,84.5,0.11,0,0,0,m,1700,1700,1700
+Arabica,Costa Rica,50,1 lbs,2014,7,6,Fabian Calderon Mora,8.17,8,7.83,7.17,7.83,7.75,10,10,10,7.92,84.67,0.12,0,0,0,m,1750,1750,1750
+Arabica,El Salvador,275,1 kg,2014,7,8,Consejo Salvadore√±o del Caf√©,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,82.25,0.12,0,0,0,m,1500,1500,1500
+Arabica,Colombia,275,70 kg,2014,7,9,Racafe & Cia S.C.A,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,0,0,3,m,1600,1950,1775
+Arabica,Mexico,275,1 kg,2014,7,14,ANDREAS KUSSMAUL,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,7.58,83.33,0.12,0,0,2,m,1200,1200,1200
+Arabica,Costa Rica,250,1 kg,2014,7,15,Eric ormaehlen,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,83.08,0.1,0,0,3,m,1200,1400,1300
+Arabica,Myanmar,1,2 kg,2014,7,17,U Htun Htun,7.42,7,7.08,7,7.17,7.33,10,10,10,7.25,80.25,0,0,0,1,m,4287,4287,4287
+Arabica,Philippines,4,2 kg,2014,7,21,Zarah Zamora Perez,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,7.42,82.92,0,0,0,0,m,1600,1600,1600
+Arabica,Brazil,300,60 kg,2014,7,29,Jacques Pereira Carneiro,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0,1,0,1,m,1200,1200,1200
+Arabica,Guatemala,250,69 kg,2014,8,8,Juan Luis Alvarado Romero,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,7.5,84,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Colombia,250,70 kg,2014,8,11,Compa√±ia Colombiana Agroindustrial S.A,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,7.67,83.5,0,2,0,0,m,1650,1650,1650
+Arabica,Mexico,10,1 kg,2014,8,14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,82.42,0.11,0,0,0,m,1296,1296,1296
+Arabica,Brazil,300,2 kg,2014,8,15,Expocaccer Coop dos Cafeic do Cerrado Ltda,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,7.58,82.92,0.11,0,0,16,m,11000,11000,11000
+Arabica,Mexico,11,1 kg,2014,8,15,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,0,m,1296,1296,1296
+Arabica,Guatemala,250,69 kg,2014,8,21,Juan Luis Alvarado Romero,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,84.25,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Brazil,1,5 lbs,2014,8,25,Cafe Politico,7,6.75,6.67,6.83,7.08,6.83,10,10,10,6.67,77.83,0.11,0,0,2,m,0,0,0
+Arabica,Taiwan,50,20 kg,2014,8,25,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.33,7.17,7.08,7.08,8.33,8.25,10,10,9.33,7,81.58,0,0,0,0,m,850,850,850
+Arabica,Colombia,1,4 lbs,2014,8,25,Cafe Politico,7.58,7.75,7.5,7.58,7.58,7.58,10,10,10,7.58,83.17,0.11,10,0,3,m,0,0,0
+Arabica,Guatemala,250,69 kg,2014,9,4,Juan Luis Alvarado Romero,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,7.17,78.58,0.12,0,0,3,ft,1219.2,1219.2,1219.2
+Arabica,Taiwan,11,2 kg,2014,9,7,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.58,7.67,7.33,7.5,7.75,10,10,10,7.58,82.92,0,0,0,9,m,775,775,775
+Arabica,Guatemala,250,69 kg,2014,9,11,Juan Luis Alvarado Romero,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,6.58,79,0.12,0,0,3,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,250,69 kg,2014,9,23,Juan Luis Alvarado Romero,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,7.17,81.5,0.12,0,0,0,ft,1219.2,1219.2,1219.2
+Arabica,Uganda,1,60 kg,2014,10,1,Great Lakes Coffee Uganda,8.08,8.08,7.83,7.92,8.08,7.92,10,10,10,8.08,86,0,0,0,0,m,0,0,0
+Arabica,Eiopia,100,60 kg,2014,10,7,Steven Kil,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,2,0,7,m,1700,1700,1700
+Arabica,Brazil,320,2 kg,2014,10,15,Ipanema Coffees,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,7.33,81.83,0.11,0,0,0,m,1100,1100,1100
+Arabica,Colombia,250,70 kg,2014,10,15,Compa√±ia Colombiana Agroindustrial S.A,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,7.58,83.42,0.12,0,0,1,m,1813,1813,1813
+Arabica,Colombia,250,1 kg,2014,10,15,Olam Agro Colombia,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,7.5,84.17,0.12,0,0,4,m,1530,1530,1530
+Arabica,Brazil,10,2 kg,2014,10,15,Ipanema Coffees,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,8,82.33,0.11,0,0,0,m,1100,1100,1100
+Arabica,Brazil,320,2 kg,2014,10,16,Ipanema Coffees,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,7.33,80.92,0.1,0,0,0,m,1100,1100,1100
+Arabica,Brazil,300,2 kg,2014,10,16,Ipanema Coffees,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,7.33,81.67,0.1,0,0,2,m,1260,1260,1260
+Arabica,Brazil,300,2 kg,2014,10,16,Ipanema Coffees,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,83.08,0,0,0,1,m,1200,1200,1200
+Arabica,Brazil,300,2 kg,2014,10,16,Ipanema Coffees,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,8.08,83.83,0,0,0,1,m,1200,1200,1200
+Arabica,Brazil,320,2 kg,2014,10,16,Ipanema Coffees,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,82.25,0.11,0,0,0,m,1100,1100,1100
+Arabica,Brazil,320,2 kg,2014,10,17,Ipanema Coffees,7.25,7.5,7.42,7.17,7.33,7.33,10,10,10,7.42,81.42,0,0,0,0,m,1100,1100,1100
+Arabica,Brazil,300,2 kg,2014,10,17,Ipanema Coffees,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,80.58,0,0,0,3,m,1200,1200,1200
+Arabica,Mexico,20,1 kg,2014,10,23,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,80.67,0.12,0,0,4,m,1200,1200,1200
+Arabica,Uganda,84,60 kg,2014,10,28,Kabum Trading company,8,7.67,7.5,7.42,7.33,7.58,10,10,10,7.67,83.17,0.1,0,0,0,m,1800,1800,1800
+Arabica,Malawi,16,60 kg,2014,10,31,AFCA,7.5,7.42,7.33,7.58,7.33,7.5,10,10,10,7.33,82,0.13,0,0,1,m,2500,2500,2500
+Arabica,Malawi,10,60 kg,2014,10,31,AFCA,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,7.33,81.58,0.13,0,0,0,m,1100,1100,1100
+Arabica,Malawi,24,60 kg,2014,10,31,AFCA,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,7.42,81.83,0.13,0,0,0,m,1556,1556,1556
+Arabica,Malawi,100,60 kg,2014,11,4,AFCA,7.5,7.25,7.17,7.17,7.25,7.17,10,10,10,7.17,80.67,0.12,0,0,1,m,990,1000,995
+Arabica,Malawi,10,60 kg,2014,11,4,AFCA,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,7.58,82.33,0.12,0,0,0,m,1450,1450,1450
+Arabica,Malawi,10,60 kg,2014,11,4,AFCA,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,7.42,82.25,0.13,0,0,0,m,1180,1180,1180
+Arabica,Malawi,12,60 kg,2014,11,4,AFCA,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,7.42,81.42,0.12,0,0,0,m,1422,1422,1422
+Arabica,Malawi,300,60 kg,2014,11,4,AFCA,7.58,7.25,7.33,7.08,7.33,7.33,10,10,10,7.25,81.17,0.12,0,0,12,m,990,1000,995
+Arabica,Malawi,15,60 kg,2014,11,4,AFCA,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,7.33,81.5,0.12,0,0,0,m,1599,1599,1599
+Arabica,Malawi,29,60 kg,2014,11,4,AFCA,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,82.75,0.12,0,0,0,m,1442,1442,1442
+Arabica,Malawi,31,60 kg,2014,11,4,AFCA,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,7.25,81.33,0.13,0,0,1,m,1200,1200,1200
+Arabica,Colombia,232,70 kg,2014,11,5,Racafe & Cia S.C.A,7.58,7.5,7.5,7.67,7.5,7.67,10,10,10,7.75,83.17,0,0,0,4,m,1600,1950,1775
+Arabica,Colombia,200,70 kg,2014,11,5,Racafe & Cia S.C.A,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,0,0,2,m,1600,1950,1775
+Arabica,Colombia,250,70 kg,2014,11,7,Racafe & Cia S.C.A,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,82.75,0,0,0,2,m,1600,1950,1775
+Arabica,Taiwan,50,20 kg,2014,11,7,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.08,6.83,6.83,7.25,7.42,7.08,10,10,10,6.75,79.25,0.11,0,0,0,m,850,850,850
+Arabica,Taiwan,1,2 kg,2014,11,7,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.75,7.75,7.58,7.75,7.75,7.67,10,10,10,7.67,83.92,0,0,0,0,m,0,0,0
+Arabica,Philippines,2,2 kg,2014,11,13,Victoria,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,7.33,81.33,0.14,0,0,3,m,1400,1400,1400
+Arabica,Colombia,100,2 lbs,2014,11,21,Rob Stephen,7.5,7.75,7.5,7.75,7.67,7.67,10,10,10,7.83,83.67,0.11,0,0,4,m,1550,1700,1625
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,8,7.92,7.92,7.92,7.67,7.33,10,10,10,7.17,83.92,0.06,0,0,0,m,950,950,950
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,8,7.83,7.83,7.42,7.25,7.25,10,10,10,7.08,82.67,0.08,0,0,0,m,1200,1200,1200
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.42,7.25,7.25,7.17,7,7,10,10,10,7,80.08,0.07,0,0,0,m,850,850,850
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.58,7.17,7.17,7.17,7.17,7.17,10,10,10,7,80.42,0.14,0,0,0,m,600,600,600
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.83,7.75,7.42,7.17,7.08,7.08,10,10,10,7.08,81.42,0.12,0,0,0,m,110,110,110
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.92,7.83,7.75,7.58,7.5,7.33,10,10,10,7.33,83.25,0.1,0,0,0,m,800,800,800
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,7.17,83,0.08,0,0,0,m,1200,1200,1200
+Arabica,Taiwan,10,60 kg,2014,11,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,6.75,80.92,0.09,0,0,0,m,550,550,550
+Arabica,"Tanzania, United Republic Of",134,60 kg,2014,12,12,Taylor Winch (T) Ltd,8,7.83,7.83,7.92,7.75,7.75,10,10,10,7.83,84.92,0.12,0,0,2,m,1620,1620,1620
+Arabica,"Tanzania, United Republic Of",180,60 kg,2014,12,12,Tutunze Kahawa Ltd,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,7.67,83.17,0.13,0,0,6,m,1653,1653,1653
+Arabica,Colombia,275,70 kg,2014,12,12,Racafe & Cia S.C.A,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,83.92,0,0,0,1,m,1600,1950,1775
+Arabica,"Tanzania, United Republic Of",39,60 kg,2014,12,12,Ngila Estate Ltd,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,7.58,83.42,0.13,0,0,4,m,1600,1600,1600
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,12,12,AFCA,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,83.33,0.12,0,0,6,m,1700,1700,1700
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,12,12,Tembo Coffee Company Ltd,7.75,7.42,7.33,7.5,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,1,m,1317,1317,1317
+Arabica,"Tanzania, United Republic Of",5,60 kg,2014,12,12,Amkeni Gourmet Coffee Group,7.75,7,7.42,7.58,7.58,7.58,10,10,10,7.58,82.5,0.12,0,0,3,m,0,0,0
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,12,12,Tembo Coffee Company Ltd,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,7.83,84.25,0.12,0,0,7,m,1620,1620,1620
+Arabica,"Tanzania, United Republic Of",65,60 kg,2014,12,12,Taylor Winch (T) Ltd,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,84.25,0.12,0,0,2,m,1600,1600,1600
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,12,12,Selian Coffee Estate,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,7.67,84.17,0.13,0,0,0,m,1400,1400,1400
+Arabica,"Tanzania, United Republic Of",1,60 kg,2014,12,15,Mlimani Ngarashi,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,7.33,81,0.12,0,0,5,m,1525,1525,1525
+Arabica,"Tanzania, United Republic Of",77,60 kg,2014,12,15,Taylor Winch (T) Ltd,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,7.58,82.67,0.12,0,0,4,m,1550,1550,1550
+Arabica,"Tanzania, United Republic Of",10,60 kg,2014,12,15,Tembo Coffee Company Ltd,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,7.25,82.17,0.12,0,0,1,m,1700,1700,1700
+Arabica,Brazil,300,60 kg,2014,12,16,BOURBON SPECIALTY COFFEES,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,78.42,0.12,3,0,4,m,0,0,0
+Arabica,Brazil,300,60 kg,2014,12,16,Jacques Pereira Carneiro,7.17,7.33,7.42,7.25,7.42,7.33,10,10,10,7.42,81.33,0.12,0,0,6,m,1200,1200,1200
+Arabica,Brazil,300,60 kg,2014,12,16,Jacques Pereira Carneiro,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,80.92,0.12,0,0,8,m,1200,1200,1200
+Arabica,"Tanzania, United Republic Of",100,60 kg,2014,12,17,Shangrilla Estate Ltd,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,7.42,81.25,0.13,0,0,5,m,1700,1700,1700
+Arabica,"Tanzania, United Republic Of",320,60 kg,2014,12,17,Taylor Winch (T) Ltd,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,7.33,81.17,0.12,0,0,2,m,1550,1550,1550
+Arabica,"Tanzania, United Republic Of",93,60 kg,2014,12,18,Nitin Coffee Estate,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,7.58,82.67,0.12,0,0,0,m,1700,1700,1700
+Arabica,"Tanzania, United Republic Of",1,60 kg,2014,12,18,Kongoni Estate,7.25,7.17,7.25,7.25,7.25,7.08,10,10,10,7.08,80.33,0.12,0,0,5,m,0,0,0
+Arabica,"Tanzania, United Republic Of",250,60 kg,2014,12,18,Karatu Estate,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,80.92,0.12,0,0,0,m,1700,1700,1700
+Arabica,"Tanzania, United Republic Of",1,60 kg,2014,12,18,Finca Estate,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,7.5,82,0.12,0,0,3,m,1300,1400,1350
+Arabica,"Tanzania, United Republic Of",100,60 kg,2014,12,18,Acacia Hills Ltd,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,7.25,81.58,0.12,0,0,5,m,1800,1800,1800
+Arabica,Costa Rica,250,1 kg,2014,12,18,e Coffee Source Inc.,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,7.17,81.08,0.13,0,0,0,m,1500,1500,1500
+Arabica,"Tanzania, United Republic Of",37,60 kg,2014,12,18,Shah Plantations,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,7.5,82.5,0.12,0,0,1,m,1600,1600,1600
+Arabica,Colombia,250,1 kg,2014,12,18,Olam Agro Colombia,7.67,7.67,7.83,7.58,7.58,7.83,10,10,10,7.83,84,0.11,2,0,7,m,1600,1600,1600
+Arabica,Vietnam,1,2 kg,2014,12,21,"Sunvirtue Co., Ltd.",7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,81.75,0.12,0,0,0,m,1040,1040,1040
+Arabica,Vietnam,2,2 kg,2014,12,28,"Sunvirtue Co., Ltd.",7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,8,83,0,0,0,0,m,1550,1550,1550
+Arabica,Indonesia,166,30 kg,2015,1,19,Aulia Arif Syahri,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,5.17,81.83,0.11,0,1,0,m,1250,1250,1250
+Arabica,Honduras,275,1 kg,2015,1,26,CADEXSA,7.25,7.25,7,7.17,7.08,7.08,10,10,10,7.33,80.17,0.11,0,0,0,m,1400,1400,1400
+Arabica,Costa Rica,250,69 kg,2015,2,3,"CECA, S.A.",7.58,7.42,7.5,7.17,7.08,7.58,10,10,10,7.25,81.58,0.12,0,0,1,m,13,13,13
+Arabica,Brazil,320,60 kg,2015,2,6,Ipanema Coffees,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,7.58,82.83,0.11,0,2,2,m,905,905,905
+Arabica,Taiwan,1,10 kg,2015,2,13,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.67,7.67,7,7.08,7,7,10,10,10,10,83.42,0.11,0,0,0,m,0,0,0
+Arabica,Nicaragua,275,69 kg,2015,2,20,Gloria Antonieta Escobar Urrutia,7.08,6.92,7,7.25,7.5,7.25,10,10,10,7.25,80.25,0.11,0,0,2,m,900,900,900
+Arabica,Costa Rica,240,1 kg,2015,2,27,"CECA, S.A.",7.83,7.5,7.67,7.67,7.83,7.5,6.67,10,10,8,80.67,0.11,0,0,4,m,185,185,185
+Arabica,Guatemala,275,69 kg,2015,3,10,Juan Luis Alvarado Romero,7.5,7.42,7.17,7.83,7.5,7.5,10,10,10,7.42,82.33,0.1,0,0,6,ft,1676.4,1676.4,1676.4
+Arabica,Honduras,275,1 kg,2015,3,11,,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,7,80.75,0.13,0,0,1,m,1450,1450,1450
+Arabica,Honduras,275,1 kg,2015,3,11,,7.42,7.33,7,7.42,7.33,7.33,10,10,10,7.33,81.17,0.13,0,0,1,m,1450,1450,1450
+Arabica,Rwanda,150,60 kg,2015,3,25,Samuel Muhirwa,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8,82.83,0.11,0,0,0,m,1900,1900,1900
+Arabica,Nicaragua,275,69 kg,2015,3,28,Rolando Lacayo,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,7,81.08,0.11,0,0,1,m,1100,1100,1100
+Arabica,Eiopia,320,60 kg,2015,3,31,Assefa Belay Coffee Producer,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,0,0,18,m,1800,2000,1900
+Arabica,Eiopia,320,60 kg,2015,3,31,Assefa Belay Coffee Producer,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,0,0,7,m,1800,2000,1900
+Arabica,China,3,60 kg,2015,4,5,Yunnan Coffee Exchange,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,7.5,82.75,0.11,0,0,2,m,1500,1500,1500
+Arabica,China,3,60 kg,2015,4,5,Yunnan Coffee Exchange,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,7.5,82.33,0.12,0,6,2,m,1580,1580,1580
+Arabica,China,3,60 kg,2015,4,5,Yunnan Coffee Exchange,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,7.67,83.17,0.1,0,0,3,m,1600,1600,1600
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,0,0,0,m,1700,1700,1700
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,7.67,83.17,0.11,0,0,0,m,1200,1200,1200
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.1,0,1,4,m,1100,1100,1100
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,7.58,82.75,0.1,0,0,0,m,1100,1100,1100
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,7.58,82.42,0.1,0,0,0,m,1600,1600,1600
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,7.92,84.5,0.1,0,0,1,m,1680,1680,1680
+Arabica,Guatemala,275,69 kg,2015,4,6,Juan Luis Alvarado Romero,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,7.75,84.25,0.1,0,0,1,ft,1099.4136,1099.4136,1099.4136
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,7.75,84.25,0.1,0,0,1,m,1400,1400,1400
+Arabica,China,3,60 kg,2015,4,6,Yunnan Coffee Exchange,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,7.75,83.75,0.1,0,1,2,m,1650,1650,1650
+Arabica,China,3,60 kg,2015,4,7,Yunnan Coffee Exchange,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,87.25,0.1,0,0,0,m,1450,1450,1450
+Arabica,Colombia,275,70 kg,2015,4,8,Exportadora de Cafe Condor S.A,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,7.42,83.33,0.11,0,0,1,m,1650,1650,1650
+Arabica,Colombia,275,70 kg,2015,4,8,Exportadora de Cafe Condor S.A,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,0,0,0,m,1550,1550,1550
+Arabica,Costa Rica,275,350 kg,2015,4,10,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,7.67,82.08,0,0,0,0,m,1200,1400,1300
+Arabica,Honduras,275,1 kg,2015,4,15,CADEXSA,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,7.33,82.25,0.11,0,0,2,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2015,4,15,CADEXSA,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,7.33,82.17,0.11,0,0,2,m,1350,1350,1350
+Arabica,Brazil,300,60 kg,2015,4,20,BOURBON SPECIALTY COFFEES,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83.08,0.11,0,0,13,m,0,0,0
+Arabica,Brazil,300,60 kg,2015,4,20,BOURBON SPECIALTY COFFEES,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,7.42,82.33,0.11,0,0,10,m,0,0,0
+Arabica,Guatemala,275,69 kg,2015,4,20,Juan Luis Alvarado Romero,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,81.92,0.11,0,0,7,m,1300,1800,1550
+Arabica,Guatemala,250,69 kg,2015,4,23,Juan Luis Alvarado Romero,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,7.33,83,0.11,0,0,2,m,1500,1500,1500
+Arabica,Colombia,275,2 kg,2015,4,23,Federacion Nacional de Cafeteros,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,79.92,0,0,0,1,m,0,0,0
+Arabica,Nicaragua,275,2 kg,2015,4,24,"Exportadora Atlantic, S.A.",7.17,7.08,7.08,7.33,7.25,7.08,10,10,10,7.17,80.17,0.11,0,0,2,m,1100,1275,1187.5
+Arabica,Brazil,305,59 kg,2015,4,24,Cafebras,7.67,7.75,7.75,7.67,7.83,7.75,10,10,10,7.75,84.17,0,0,0,16,m,1150,1150,1150
+Arabica,Brazil,320,60 kg,2015,4,25,Ipanema Coffees,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,7.5,82.75,0.11,0,2,1,m,905,905,905
+Arabica,Brazil,320,60 kg,2015,4,25,Ipanema Coffees,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,7.58,83.08,0.11,0,2,2,m,905,905,905
+Arabica,Colombia,250,70 kg,2015,4,29,CARCAFE LTDA CI,7.42,7.67,7.83,7.75,7.92,7.83,10,10,10,7.83,84.25,0.12,3,0,0,m,442,442,442
+Arabica,Colombia,275,70 kg,2015,4,29,CARCAFE LTDA CI,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,7.67,83.42,0.12,4,0,0,m,442,442,442
+Arabica,Colombia,250,70 kg,2015,4,29,CARCAFE LTDA CI,7.75,7.67,8,7.67,8.08,7.83,10,10,10,7.33,84.33,0.11,6,0,0,m,442,442,442
+Arabica,Taiwan,10,5 kg,2015,5,6,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.25,7.17,7.17,7.25,7.5,7.33,10,10,10,7.33,81,0.12,0,0,0,m,758,758,758
+Arabica,Costa Rica,275,18975 kg,2015,5,7,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,7.42,81.83,0.09,0,0,0,m,1200,1400,1300
+Arabica,Kenya,170,60 kg,2015,5,7,SIMON MAHINDA,8.17,7.83,7.92,7.75,7.67,7.83,10,10,10,7.83,85,0.11,0,5,7,m,1,1,1
+Arabica,Honduras,275,1 kg,2015,5,12,CADEXSA,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,7.33,81.83,0.12,0,0,1,m,1400,1400,1400
+Arabica,Honduras,275,1 kg,2015,5,12,CADEXSA,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,7.25,81.42,0.12,0,0,1,m,1400,1400,1400
+Arabica,Honduras,275,1 kg,2015,5,12,CADEXSA,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,7.42,81.25,0.12,0,0,1,m,1400,1400,1400
+Arabica,Costa Rica,130,69 kg,2015,5,17,Rodrigo Soto,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,7.33,82.33,0,0,2,0,m,1550,1550,1550
+Arabica,Taiwan,20,50 kg,2015,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",8,8,8,8.25,8,8.17,10,10,10,8.17,86.58,0,0,0,0,m,1200,1200,1200
+Arabica,Taiwan,20,50 kg,2015,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,7.75,83.67,0.1,0,0,0,m,1200,1200,1200
+Arabica,Taiwan,20,50 kg,2015,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,7.83,83.92,0.11,0,0,3,m,1200,1200,1200
+Arabica,Taiwan,20,50 kg,2015,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.83,7.75,7.67,7.83,7.83,7.75,9.33,10,10,5.25,81.25,0.12,0,0,0,m,680,680,680
+Arabica,Uganda,150,9000 kg,2015,5,19,Kawacom Uganda LTD,7.5,7.67,7.67,7.42,7.67,7.67,10,10,10,7.67,83.25,0.12,0,0,1,m,0,0,0
+Arabica,Taiwan,20,60 kg,2015,5,19,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.83,7.92,7.5,7.83,7.67,7.25,9.33,10,10,7.75,83.08,0,0,0,0,m,700,800,750
+Arabica,Costa Rica,275,18975 kg,2015,5,22,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,7.42,81.17,0.11,0,0,0,m,1200,1400,1300
+Arabica,Honduras,275,1 kg,2015,5,22,CADEXSA,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,7.17,80.75,0.09,0,0,2,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2015,5,22,CADEXSA,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,7.42,81.33,0.09,0,0,4,m,1350,1350,1350
+Arabica,Honduras,275,1 kg,2015,5,25,Bismarck Castro,7.5,7.33,7,7.42,7.25,7.17,10,10,10,7.08,80.75,0.11,0,0,2,m,1450,1450,1450
+Arabica,Brazil,300,60 kg,2015,5,26,Cafebras,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,7.67,82.83,0.12,2,0,6,m,900,900,900
+Arabica,Nicaragua,275,69 kg,2015,5,28,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.25,7.25,7.17,7.25,7.33,7.25,10,10,10,7.25,80.75,0.12,0,0,5,m,110000,110000,110000
+Arabica,Guatemala,120,34 kg,2015,6,1,Juan Luis Alvarado Romero,7.75,7.83,7.58,8,7.92,7.75,10,10,10,7.83,84.67,0.1,0,0,1,m,1600,1600,1600
+Arabica,Laos,60,50 kg,2015,6,2,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,82.67,0.13,0,0,0,m,1300,1300,1300
+Arabica,Colombia,275,2 kg,2015,6,5,Federacion Nacional de Cafeteros,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,7.75,84.5,0.12,1,0,0,m,1800,1800,1800
+Arabica,Guatemala,200,69 kg,2015,6,5,Juan Luis Alvarado Romero,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,7.58,83,0.11,0,0,2,ft,1371.6,1371.6,1371.6
+Arabica,Colombia,275,2 kg,2015,6,5,Federacion Nacional de Cafeteros,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,7.83,84.25,0.12,0,0,0,m,1800,1800,1800
+Arabica,Costa Rica,275,69 kg,2015,6,6,"CECA, S.A.",7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,7.83,83.83,0,0,0,0,m,1850,1850,1850
+Arabica,Costa Rica,245,69 kg,2015,6,6,"CECA, S.A.",7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,7.83,83.5,0,0,0,0,m,1850,1850,1850
+Arabica,Honduras,200,69 kg,2015,6,9,Bismarck Castro,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,7.58,82.17,0.11,0,1,2,m,1500,1500,1500
+Arabica,Taiwan,20,40 kg,2015,6,9,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.83,8,7.58,8,7.92,10,10,10,7.92,84.92,0.11,0,0,0,m,800,800,800
+Arabica,Taiwan,10,15 kg,2015,6,10,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,8.42,86.08,0.12,0,0,0,m,1000,1000,1000
+Arabica,Guatemala,275,69 kg,2015,6,10,Juan Luis Alvarado Romero,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,7.58,84,0.12,0,0,7,ft,1658.112,1755.648,1706.88
+Arabica,Mexico,275,2 kg,2015,6,11,Andrew Bowman,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,82.92,0.12,2,0,8,m,1300,1300,1300
+Arabica,Guatemala,275,69 kg,2015,6,18,Juan Luis Alvarado Romero,7.5,7.33,7,7.42,7.17,7.17,10,10,10,7.17,80.75,0.12,0,0,1,ft,1658.112,1755.648,1706.88
+Arabica,Taiwan,10,15 kg,2015,6,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.5,7.5,7.5,7.67,7.83,10,10,10,7.58,83.25,0.1,0,0,0,m,1000,1000,1000
+Arabica,Mexico,250,2 kg,2015,6,25,VIRIDIANA,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,81.83,0.11,0,0,7,m,1350,1500,1425
+Arabica,Mexico,275,1 kg,2015,6,25,ANDREAS KUSSMAUL,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,81.17,0.12,0,0,10,m,1200,1200,1200
+Arabica,ailand,500,25 kg,2015,6,27,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,7.67,83.42,0.13,0,0,0,m,1200,1200,1200
+Arabica,ailand,50,50 kg,2015,6,27,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.75,7.75,7.75,7.75,8,7.75,10,10,10,8,84.75,0.12,0,0,0,m,0,0,0
+Arabica,Guatemala,275,69 kg,2015,6,30,Juan Luis Alvarado Romero,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,79.17,0.11,0,0,6,m,1300,1800,1550
+Arabica,Nicaragua,275,69 kg,2015,7,6,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,7.5,81.25,0.1,0,0,4,m,1100,1100,1100
+Arabica,Nicaragua,275,69 kg,2015,7,6,COOPERATIVA EL GORRION R.L,6.92,6.92,7,7.42,7.25,7,10,10,10,7,79.5,0.12,0,0,6,m,1050,1050,1050
+Arabica,Guatemala,275,69 kg,2015,7,8,Juan Luis Alvarado Romero,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,83,0.11,0,0,3,m,1300,1800,1550
+Arabica,Mexico,11,2 kg,2015,7,14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,83.25,0.12,0,0,2,m,1261,1261,1261
+Arabica,Mexico,11,2 kg,2015,7,14,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,82.92,0.13,0,0,3,m,1059,1059,1059
+Arabica,Costa Rica,100,69 kg,2015,7,15,"CECA, S.A.",7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,7.5,82.33,0.1,6,1,3,m,1850,1850,1850
+Arabica,Myanmar,1,2 kg,2015,7,17,U Soe,6.92,7.5,7,7.58,7.5,7.08,10,10,10,7.17,80.75,0,0,0,2,m,3825,3825,3825
+Arabica,Myanmar,2,2 kg,2015,7,17,Min Hlaing,7.17,7.42,7,7.58,7.33,7,10,10,10,7.42,80.92,0,0,0,5,ft,1066.8,1066.8,1066.8
+Arabica,Myanmar,1,2 kg,2015,7,17,Shwe Yin Mar Coffee,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,7.08,80.5,0,0,0,2,m,3800,3800,3800
+Arabica,Myanmar,1,2 kg,2015,7,17,Ngu Shwe Li,7.17,7.33,7,7.42,7.17,7,10,10,10,6.92,80,0,0,0,4,m,3845,3845,3845
+Arabica,Myanmar,1,1 kg,2015,7,17,Genius Coffee,7.25,7.42,7.25,7.5,7.33,7.33,10,10,10,7.42,81.5,0,0,0,4,ft,1219.2,1219.2,1219.2
+Arabica,Myanmar,1,2 kg,2015,7,17,U Mg Mg,7.33,7.58,7.5,7.42,7.33,7.33,10,10,10,7.33,81.83,0,0,0,2,m,4001,4001,4001
+Arabica,Uganda,310,60 kg,2015,7,18,UCFA,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,7.58,83,0.12,0,0,6,m,1473,1473,1473
+Arabica,Uganda,325,60 kg,2015,7,18,UCFA,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,7.67,83,0.12,0,5,8,m,1645,1645,1645
+Arabica,Guatemala,80,69 kg,2015,7,20,Juan Luis Alvarado Romero,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,7.5,82.83,0.11,0,0,2,ft,1219.2,1219.2,1219.2
+Arabica,Uganda,20,1218 kg,2015,7,21,Bugisu Cooperative Union,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,7.75,83.42,0.11,0,0,1,m,1800,1800,1800
+Arabica,Guatemala,250,69 kg,2015,7,23,Juan Luis Alvarado Romero,7.5,7.25,7,7.25,7.5,7.25,10,10,10,7.25,81,0.11,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Philippines,250,2 kg,2015,7,31,Renee A. Perrine,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,7.5,82.92,0.11,0,0,1,m,1200,1200,1200
+Arabica,Guatemala,130,69 kg,2015,8,2,Juan Luis Alvarado Romero,7.58,7.5,7.33,7.42,7.58,7.25,10,10,10,7.17,81.83,0.1,2,0,6,m,3280,3280,3280
+Arabica,Nicaragua,275,2 kg,2015,8,3,COOPERATIVA EL GORRION R.L,7.67,7.83,7.83,7.5,7.67,7.83,10,10,10,7.83,84.17,0.12,0,0,0,m,900,1100,1000
+Arabica,Colombia,275,70 kg,2015,8,18,Racafe & Cia S.C.A,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,84.17,0,0,0,0,m,1600,1950,1775
+Arabica,Colombia,275,2 kg,2015,8,18,Federacion Nacional de Cafeteros,7.92,7.67,7.5,7.83,7.58,7.67,10,10,10,7.75,83.92,0,0,0,0,m,0,0,0
+Arabica,Colombia,250,70 kg,2015,8,18,CARCAFE LTDA CI,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,0,m,2560,2560,2560
+Arabica,Myanmar,2,2 kg,2015,8,27,Bob McCauley,8,7.08,7,7.33,7.08,6.92,10,10,10,6.83,80.25,0.11,1,0,26,ft,914.4,914.4,914.4
+Arabica,Indonesia,200,30 kg,2015,9,14,Aulia Arif Syahri,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,7.67,83.5,0.13,0,0,8,m,1500,1500,1500
+Arabica,Indonesia,150,2 kg,2015,9,15,Andry Simarmata,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,7.5,82.58,0.13,0,0,6,m,1200,1300,1250
+Arabica,Taiwan,123,2 kg,2015,9,17,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.5,7.42,7.33,7.08,7.58,7.25,10,10,10,7.33,81.5,0.12,0,0,2,m,160,200,180
+Arabica,Costa Rica,275,69 kg,2015,9,20,Rodrigo Soto,7.83,7.5,7.42,7.67,7.5,7.67,10,10,10,7.67,83.25,0.11,0,0,0,m,0,0,0
+Arabica,Mexico,1,30 kg,2015,9,21,"El Equimite, Cafetal Biodin√°mico",7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,85,0.09,0,0,3,m,1300,1300,1300
+Arabica,Guatemala,100,69 kg,2015,9,29,Juan Luis Alvarado Romero,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,83.17,0.12,0,0,3,m,1400,1900,1650
+Arabica,Costa Rica,15,69 kg,2015,10,4,Rodrigo Soto,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,7.92,84.67,0.1,0,0,2,m,1150,1150,1150
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,7.58,82.17,0,0,0,1,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.17,7.83,7.33,7.5,7.75,7.42,10,10,10,7.42,82.42,0,0,0,0,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.17,7.58,6.83,7.5,7.75,7.25,10,10,10,7.75,81.83,0,0,0,1,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,7.33,81.25,0,0,0,1,m,1,1,1
+Arabica,Brazil,320,60 kg,2015,10,8,BOURBON SPECIALTY COFFEES,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,80.75,0,0,0,1,m,0,0,0
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.25,7.58,7.42,8,7.75,7.83,10,10,10,8,83.83,0,0,0,0,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,7.25,82.08,0,0,0,1,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,7.25,81.67,0,0,0,0,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,7.92,83.08,0,0,0,3,m,1,1,1
+Arabica,Brazil,180,2 kg,2015,10,8,Ipanema Coffees,7.42,7.67,7.5,7.08,7.5,7.42,10,10,10,7.67,82.25,0,0,0,9,m,1,1,1
+Arabica,Brazil,320,2 kg,2015,10,8,Ipanema Coffees,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,7.5,82.67,0,0,0,0,m,1,1,1
+Arabica,Brazil,300,2 kg,2015,10,8,Ipanema Coffees,7.58,7,6.92,6.92,7.67,7.5,10,10,10,8.25,81.83,0,0,0,0,m,1,1,1
+Arabica,Brazil,12,2 kg,2015,10,8,Ipanema Coffees,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,7.75,82.33,0.07,0,0,0,m,1268,1268,1268
+Arabica,Brazil,10,2 kg,2015,10,12,Ipanema Coffees,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,7.58,83.33,0.1,1,0,5,m,1227,1227,1227
+Arabica,ailand,45,40 kg,2015,10,18,Sarawut Premjit,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,7.83,83.92,0.1,0,0,1,m,1350,1350,1350
+Arabica,"Tanzania, United Republic Of",300,60 kg,2015,10,20,IBERO COFFEE TRADING CO (T) LTD,7.42,7.42,7.42,7.5,7.5,7.33,10,10,10,7.58,82.17,0.12,0,0,1,m,1600,1600,1600
+Arabica,Guatemala,150,60 kg,2015,10,23,Juan Luis Alvarado Romero,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,80.67,0.11,0,0,0,m,1500,1500,1500
+Arabica,Colombia,248,70 kg,2015,10,26,Racafe & Cia S.C.A,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,7.75,84.25,0.12,4,0,2,m,1600,1950,1775
+Arabica,Colombia,252,70 kg,2015,10,26,Racafe & Cia S.C.A,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,0,0,1,m,1600,1950,1775
+Arabica,Guatemala,150,69 kg,2015,10,29,Juan Luis Alvarado Romero,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,83.17,0.11,0,0,1,m,1500,1500,1500
+Arabica,ailand,20,25 kg,2015,11,2,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,8,84.25,0.12,0,0,0,m,1200,1200,1200
+Arabica,Colombia,1,2 kg,2015,11,3,Federacion Nacional de Cafeteros,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,7.42,82.67,0,1,0,9,m,0,0,0
+Arabica,Laos,1,2 kg,2015,11,5,Minwook Ku,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,7.5,82,0.12,0,0,0,m,1250,1250,1250
+Arabica,Indonesia,200,30 kg,2015,11,10,Aulia Arif Syahri,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,80.67,0.13,0,0,1,m,1200,1500,1350
+Arabica,"Tanzania, United Republic Of",10,60 kg,2015,11,16,Delfina Leon Shine,7.25,7.17,7,7.25,7.42,7.08,10,10,10,7.17,80.33,0.13,0,0,5,m,1700,1700,1700
+Arabica,"Tanzania, United Republic Of",30,80 kg,2015,11,16,Langiro Farm group,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,7.5,82.17,0.13,1,0,6,m,1500,1800,1650
+Arabica,"Tanzania, United Republic Of",2,80 kg,2015,11,16,Didas,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,7.42,82,0.13,0,0,20,m,1500,1800,1650
+Arabica,"Tanzania, United Republic Of",10,60 kg,2015,11,16,Gladness Obed Pallangyo,7.67,7.25,7.42,7.42,7.67,7.42,10,10,10,7.58,82.42,0.13,0,0,7,m,2285,2285,2285
+Arabica,"Tanzania, United Republic Of",100,60 kg,2015,11,16,Immaculata John,7.67,7.17,7.17,7.33,7.5,7.17,10,10,10,7.17,81.17,0.12,0,0,2,m,100,2000,1050
+Arabica,"Tanzania, United Republic Of",5,60 kg,2015,11,16,Damari Absalome,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,7.58,83.5,0.13,0,0,21,m,1400,1400,1400
+Arabica,Brazil,300,60 kg,2015,11,17,BOURBON SPECIALTY COFFEES,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,7.33,80.5,0.11,0,0,3,m,1250,1250,1250
+Arabica,Colombia,180,70 kg,2015,11,19,Racafe & Cia S.C.A,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,83.5,0.12,0,0,4,m,1600,1950,1775
+Arabica,Colombia,275,70 kg,2015,11,19,Racafe & Cia S.C.A,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,7.83,84.25,0.11,0,0,3,m,1600,1950,1775
+Arabica,Colombia,275,70 kg,2015,11,19,Racafe & Cia S.C.A,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,83.58,0.12,0,0,3,m,1600,1950,1775
+Arabica,Brazil,300,60 kg,2015,11,20,Cafebras,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,7.33,81.33,0.11,0,0,14,m,1100,1100,1100
+Arabica,Colombia,304,35 kg,2015,11,27,CARCAFE LTDA CI,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,7.58,83.25,0,0,0,2,m,442,442,442
+Arabica,Colombia,250,70 kg,2015,11,27,CARCAFE LTDA CI,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,7.75,83.75,0,0,0,0,m,442,442,442
+Arabica,Brazil,300,60 kg,2015,12,3,Cafebras,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,81.42,0.11,0,0,2,m,1100,1100,1100
+Arabica,Costa Rica,250,2 lbs,2015,12,3,Francisco A Mena,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,86.33,0,0,0,0,m,1300,1300,1300
+Arabica,Colombia,275,70 kg,2016,1,10,Racafe & Cia S.C.A,7.75,7.5,7.5,7.42,8,7.75,10,10,10,7.17,83.08,0,1,2,5,m,0,0,0
+Arabica,Colombia,250,70 kg,2016,1,10,Racafe & Cia S.C.A,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,84.58,0,0,0,4,m,1500,1500,1500
+Arabica,Brazil,300,60 kg,2016,1,12,BOURBON SPECIALTY COFFEES,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,8,82.42,0.11,0,1,0,m,0,0,0
+Arabica,Brazil,300,60 kg,2016,1,12,BOURBON SPECIALTY COFFEES,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,8,83.25,0.12,0,0,4,m,0,0,0
+Arabica,India,20,50 kg,2016,1,16,Joshua Marsceau,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,7.42,76.83,0,0,7,0,m,0,0,0
+Arabica,Brazil,200,59 kg,2016,1,20,Gabriel Barbara,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,7.33,81.83,0.11,0,1,3,m,973,973,973
+Arabica,Colombia,226,70 kg,2016,1,21,ALMACAFE,7.75,7.58,7.5,7.83,7.75,7.92,10,10,10,7.58,83.92,0,1,3,5,m,0,0,0
+Arabica,Colombia,165,70 kg,2016,1,21,Racafe & Cia S.C.A,7.75,7.75,7.75,7.67,5.25,7.83,10,10,10,7.67,81.67,0,0,1,1,m,0,0,0
+Arabica,Burundi,300,60 kg,2016,1,22,SIMON MAHINDA,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,7.33,80.33,0.12,0,0,0,m,1700,1700,1700
+Arabica,Colombia,304,35 kg,2016,1,25,CARCAFE LTDA CI,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,7.67,84.42,0,0,0,1,m,0,0,0
+Arabica,Costa Rica,29,46 kg,2016,1,30,Troy Quimby,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,0,m,1900,1900,1900
+Arabica,Costa Rica,36,46 kg,2016,1,30,Troy Quimby,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1,1,1,m,1900,1900,1900
+Arabica,Honduras,275,69 kg,2016,2,3,CADEXSA,7.25,7.42,7,7.42,7.33,7,10,10,10,7,80.42,0.1,0,0,0,m,1450,1450,1450
+Arabica,Brazil,320,2 kg,2016,2,9,Pedro Santos e Silva,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,7.67,82.33,0.11,0,3,11,m,982,982,982
+Arabica,Mauritius,1,2 kg,2016,2,11,Case Noyale Ltd,7.25,7.25,7.17,7.17,7.25,7.17,10,10,10,7.25,80.5,0.12,0,0,0,m,280,280,280
+Arabica,Colombia,25,70 kg,2016,2,11,CARCAFE LTDA CI,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,7.58,83,0.11,0,0,4,m,442,442,442
+Arabica,Colombia,250,70 kg,2016,2,11,CARCAFE LTDA CI,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,7.67,83.92,0.11,1,0,2,m,442,442,442
+Arabica,Costa Rica,15,46 kg,2016,2,13,Troy Quimby,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,7.33,81.83,0,1,0,4,m,1900,1900,1900
+Arabica,Colombia,135,70 kg,2016,2,15,Racafe & Cia S.C.A,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,3,m,0,0,0
+Arabica,Colombia,275,70 kg,2016,2,15,Racafe & Cia S.C.A,7.92,7.75,7.5,7.67,7.75,7.5,10,10,10,7.67,83.75,0,1,0,4,m,0,0,0
+Arabica,Colombia,275,70 kg,2016,2,16,Racafe & Cia S.C.A,7.67,7.67,7.75,7.83,7.75,7.83,10,10,10,7.83,84.33,0,0,2,4,m,0,0,0
+Arabica,Nicaragua,275,69 kg,2016,2,17,"Exportadora Atlantic, S.A.",7.08,7,6.75,6.83,7.08,6.92,10,10,10,6.92,78.58,0.1,1,5,7,m,0,0,0
+Arabica,Costa Rica,275,69 kg,2016,2,17,"CECA, S.A.",7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,7.83,83.42,0.09,0,0,4,m,1850,1850,1850
+Arabica,Colombia,275,70 kg,2016,2,20,Ra√∫l Vargas,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,7.5,84.33,0,0,3,5,m,0,0,0
+Arabica,Colombia,275,70 kg,2016,2,20,CARCAFE LTDA CI,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,83.08,0,0,1,4,m,1799,1799,1799
+Arabica,Colombia,50,70 kg,2016,2,20,CARCAFE LTDA CI,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,83.5,0,0,0,5,m,1799,1799,1799
+Arabica,Colombia,275,70 kg,2016,2,20,Ra√∫l Vargas,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10,7.58,82.08,0,0,7,6,m,0,0,0
+Arabica,Taiwan,167,30 kg,2016,2,23,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.75,7.67,7.5,7.75,7.75,7.67,10,10,10,7.75,83.83,0,0,0,0,m,1200,1200,1200
+Arabica,Mexico,8,8 kg,2016,2,25,Jos√© Luis Rojas Yeo,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,82.67,0.11,0,2,3,m,1300,1300,1300
+Arabica,Mexico,220,69 kg,2016,2,25,Angel Oscar Medina Rodriguez,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,0,2,0,m,1130,1130,1130
+Arabica,Nicaragua,275,69 kg,2016,2,26,"Exportadora Atlantic, S.A.",7.08,7.5,7,7.25,7.42,7,10,10,10,7.33,80.58,0.11,0,1,0,m,0,0,0
+Arabica,Eiopia,250,60 kg,2016,2,26,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,7.58,82.92,0,1,0,20,m,2000,2000,2000
+Arabica,Nicaragua,275,69 kg,2016,2,29,"BENCAFE, S. A.",7.42,7,7,7.17,7.08,7,9.33,8.67,10,7.17,77.83,0.1,0,0,0,m,1000,1000,1000
+Arabica,Nicaragua,275,69 kg,2016,3,8,"Exportadora Atlantic, S.A.",7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,7.25,81.17,0.09,0,0,7,m,1200,1200,1200
+Arabica,Brazil,94,60 kg,2016,3,11,BOURBON SPECIALTY COFFEES,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,7.42,80.58,0.11,0,0,7,m,0,0,0
+Arabica,Nicaragua,275,69 kg,2016,3,11,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.58,7.5,7.25,7.25,7.5,7.25,10,10,10,7.33,81.67,0.1,0,0,1,m,0,0,0
+Arabica,Costa Rica,275,69 kg,2016,3,14,"CECA, S.A.",7.33,7.67,7.67,7.5,7.67,7.5,10,10,10,8.33,83.67,0.11,0,0,1,m,1350,1350,1350
+Arabica,Colombia,275,70 kg,2016,3,14,Racafe & Cia S.C.A,7.83,7.67,7.5,7.75,7.75,7.75,10,10,10,7.58,83.83,0,1,2,0,m,0,0,0
+Arabica,Uganda,200,12000 kg,2016,3,14,ECOM Japan Limited,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,7.83,84.5,0.11,0,0,1,m,1750,1750,1750
+Arabica,Nicaragua,275,69 kg,2016,3,15,"BENCAFE, S. A.",7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,0,0,1,m,1000,1000,1000
+Arabica,Guatemala,50,69 kg,2016,3,16,Juan Luis Alvarado Romero,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,7.5,82.5,0.1,0,2,2,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,250,69 kg,2016,3,16,Juan Luis Alvarado Romero,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.5,0.1,0,2,5,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,450,69 kg,2016,3,17,Juan Luis Alvarado Romero,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,81.42,0.1,0,0,0,ft,1371.6,1371.6,1371.6
+Arabica,El Salvador,275,69 kg,2016,3,23,Consejo Salvadore√±o del Caf√©,7.25,7.08,7,6.83,7.33,7.17,10,10,10,7,79.67,0,0,0,12,m,1250,1250,1250
+Arabica,Costa Rica,275,69 kg,2016,3,23,Max Gurdian,7.58,7.83,7.83,8,7.67,7.58,10,10,10,7.92,84.42,0.1,0,0,3,m,1300,1300,1300
+Arabica,El Salvador,275,69 kg,2016,3,29,Consejo Salvadore√±o del Caf√©,7.5,7.5,7.33,7.67,8,7.67,10,10,10,7.5,83.17,0,0,0,0,m,1350,1350,1350
+Arabica,El Salvador,275,69 kg,2016,3,29,Consejo Salvadore√±o del Caf√©,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,7.5,82.67,0,0,0,7,m,1200,1200,1200
+Arabica,Honduras,275,69 kg,2016,4,4,Bismarck Castro,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,7.83,84.33,0.11,0,1,2,m,1500,1500,1500
+Arabica,Honduras,275,69 kg,2016,4,6,Bismarck Castro,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,82,0.1,0,1,7,m,1600,1600,1600
+Arabica,Honduras,275,69 kg,2016,4,6,Bismarck Castro,7.25,7.25,7,7,7.42,7,10,10,10,7.33,80.25,0.1,0,0,4,m,1400,1400,1400
+Arabica,Colombia,250,70 kg,2016,4,7,CARCAFE LTDA CI,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,7.58,83.5,0,0,0,0,m,1000,1000,1000
+Arabica,El Salvador,275,69 kg,2016,4,8,Consejo Salvadore√±o del Caf√©,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,7.33,82.83,0,0,0,4,m,1250,1250,1250
+Arabica,Colombia,275,70 kg,2016,4,15,Racafe & Cia S.C.A,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.11,0,0,4,m,0,0,0
+Arabica,Brazil,198,59 kg,2016,4,19,Gabriel Barbara,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,7.5,82.58,0.11,0,0,7,m,0,0,0
+Arabica,El Salvador,275,69 kg,2016,4,25,Consejo Salvadore√±o del Caf√©,7.58,7.5,7.75,7.58,7.75,7.67,10,10,10,7.58,83.42,0.11,0,0,0,m,1330,1330,1330
+Arabica,Mexico,60,69 kg,2016,4,26,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,80.25,0.1,0,0,2,m,1600,1600,1600
+Arabica,Guatemala,250,69 kg,2016,4,27,Juan Luis Alvarado Romero,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,85.25,0.1,0,2,2,m,0,0,0
+Arabica,Guatemala,50,69 kg,2016,4,27,Juan Luis Alvarado Romero,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,84.08,0.1,0,0,4,m,0,0,0
+Arabica,"Tanzania, United Republic Of",320,60 kg,2016,4,27,Taylor Winch (Coffee) Ltd.,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,7.58,81.67,0,0,0,1,m,1800,1800,1800
+Arabica,Costa Rica,250,69 kg,2016,4,28,"CECA, S.A.",7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,7.67,82.75,0.09,0,0,1,m,1850,1850,1850
+Arabica,Honduras,275,69 kg,2016,5,2,CADEXSA,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,2,m,1450,1450,1450
+Arabica,Honduras,275,69 kg,2016,5,2,CADEXSA,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,1,1,m,1450,1450,1450
+Arabica,Colombia,275,70 kg,2016,5,5,Racafe & Cia S.C.A,7.83,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.33,0,1,0,2,m,0,0,0
+Arabica,Colombia,600,29 kg,2016,5,10,CARCAFE LTDA CI,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,7.67,83.42,0.11,0,0,2,m,442,442,442
+Arabica,Honduras,285,69 kg,2016,5,11,Bismarck Castro,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,83.67,0.1,0,0,2,m,1400,1400,1400
+Arabica,Nicaragua,275,69 kg,2016,5,11,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,7.5,83.67,0.1,0,0,3,m,1250,1250,1250
+Arabica,Honduras,275,66 kg,2016,5,11,Bismarck Castro,7.92,8,7.75,7.67,7.67,7.75,10,10,10,7.58,84.33,0.1,0,0,3,m,1500,1500,1500
+Arabica,Guatemala,80,69 kg,2016,5,16,Juan Luis Alvarado Romero,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,3,m,0,0,0
+Arabica,Taiwan,10,20 kg,2016,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.58,7.67,7.67,7.67,7.75,7.83,10,10,10,7.92,84.08,0.1,0,0,4,m,968,968,968
+Arabica,Taiwan,10,20 kg,2016,5,18,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,8,84.83,0,0,0,0,m,350,350,350
+Arabica,Honduras,275,69 kg,2016,5,18,Bismarck Castro,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,86.67,0.1,0,0,3,m,1400,1400,1400
+Arabica,Nicaragua,1,1 kg,2016,5,22,"Exportadora Atlantic, S.A.",7.17,7,6.92,7,7,7,10,10,10,6.75,78.83,0.1,0,2,4,m,1100,1100,1100
+Arabica,Guatemala,250,69 kg,2016,5,23,Juan Luis Alvarado Romero,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,79.17,0.11,0,8,6,m,1320,1320,1320
+Arabica,Guatemala,250,1500 kg,2016,5,23,Juan Luis Alvarado Romero,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,83.17,0.11,2,2,3,m,1500,1500,1500
+Arabica,Guatemala,230,69 kg,2016,5,23,Juan Luis Alvarado Romero,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,84.25,0.11,0,4,4,m,1500,1500,1500
+Arabica,Guatemala,100,69 kg,2016,5,23,Juan Luis Alvarado Romero,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,83.83,0.11,0,7,6,m,1500,1500,1500
+Arabica,Guatemala,130,69 kg,2016,6,1,Juan Luis Alvarado Romero,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,7.83,84.17,0.1,0,0,2,m,3280,3280,3280
+Arabica,Guatemala,50,69 kg,2016,6,1,Juan Luis Alvarado Romero,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,82.42,0.12,0,0,0,m,1700,1700,1700
+Arabica,Guatemala,377,69 kg,2016,6,1,Juan Luis Alvarado Romero,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,7.67,84.17,0.1,0,1,10,m,1565,1565,1565
+Arabica,Taiwan,8,10 kg,2016,6,1,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.83,7.67,7.33,7.67,7.58,7.67,9.33,10,10,7.67,82.75,0,0,0,0,m,650,650,650
+Arabica,Taiwan,8,10 kg,2016,6,6,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,7.25,78,0,3,0,4,m,650,650,650
+Arabica,Nicaragua,550,69 kg,2016,6,6,"Exportadora Atlantic, S.A.",7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,6.17,63.08,0.13,1,0,5,m,1100,1100,1100
+Arabica,Cote d?Ivoire,2,1 kg,2016,6,6,Rre Kunene,7.42,7.25,6.83,7,7.33,7.08,9.33,10,10,7.08,79.33,0.13,1,0,2,m,200,200,200
+Arabica,Taiwan,10,10 kg,2016,6,6,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.67,7.58,7.58,7.67,7.83,10,10,10,7.75,83.75,0,0,0,0,m,750,750,750
+Arabica,Honduras,275,69 kg,2016,6,9,Bismarck Castro,7.5,7.5,7,7.17,7.5,7.33,10,10,10,7.33,81.33,0.11,0,2,3,m,1500,1500,1500
+Arabica,Colombia,130,70 kg,2016,6,15,Racafe & Cia S.C.A,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,7.67,83.33,0,0,0,0,m,0,0,0
+Arabica,"Tanzania, United Republic Of",320,60 kg,2016,6,20,Taylor Winch (T) Ltd,7.67,7.58,7.42,7.67,7.67,7.58,10,10,10,7.58,83.17,0.12,0,0,3,m,168,168,168
+Arabica,Brazil,500,60 kg,2016,6,21,Gregorio Sebba,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,81.08,0.11,5,0,8,m,695,695,695
+Arabica,Guatemala,25,69 kg,2016,6,22,Juan Luis Alvarado Romero,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,0,4,1,m,190164,190164,190164
+Arabica,Laos,20,50 kg,2016,6,22,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,7.33,80.83,0,0,0,0,m,1300,1300,1300
+Arabica,Guatemala,25,69 kg,2016,6,22,Juan Luis Alvarado Romero,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,79.67,0.1,0,2,1,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,275,69 kg,2016,6,23,Juan Luis Alvarado Romero,7.75,7.75,7.58,8,7.67,7.83,10,10,10,7.58,84.17,0.11,0,0,6,ft,1116.7872,1116.7872,1116.7872
+Arabica,El Salvador,150,69 kg,2016,6,26,Consejo Salvadore√±o del Caf√©,7.83,7.83,7.5,8,7.83,7.67,10,10,10,8,84.67,0,0,0,2,m,1350,1350,1350
+Arabica,Taiwan,10,20 kg,2016,6,28,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.17,7.83,7.25,7.67,7.67,7.58,10,10,10,7.75,82.92,0.09,31,0,0,m,350,350,350
+Arabica,Guatemala,275,69 kg,2016,7,5,Juan Luis Alvarado Romero,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.58,0.11,0,1,0,ft,1128.3696,1128.3696,1128.3696
+Arabica,Eiopia,300,60 kg,2016,7,14,KERCHANSHE,7.42,7.33,7.17,7.33,7.42,7.17,10,10,10,7.25,81.08,0.11,0,0,1,m,0,0,0
+Arabica,Taiwan,20,50 kg,2016,7,15,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,7.25,81.58,0.1,0,0,0,m,800,800,800
+Arabica,Indonesia,2,1 kg,2016,7,18,SanJava Coffee,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,6.83,78.17,0.13,0,0,1,m,1300,1300,1300
+Arabica,Colombia,43,70 kg,2016,7,22,Racafe & Cia S.C.A,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,81,0,0,4,4,m,1600,1600,1600
+Arabica,Uganda,200,60 kg,2016,7,24,Kyagalanyi Coffee Ltd,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,0,0,1,m,1800,1800,1800
+Arabica,Guatemala,120,69 kg,2016,8,2,Juan Luis Alvarado Romero,7.42,7.25,7.17,7.5,7.25,7.17,10,10,10,7.25,81,0.09,0,0,8,m,3280,3280,3280
+Arabica,Colombia,43,70 kg,2016,8,5,Racafe & Cia S.C.A,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,82.42,0.11,0,0,1,m,1600,1600,1600
+Arabica,Colombia,275,70 kg,2016,8,5,CARCAFE LTDA CI,7.83,7.58,7.75,7.58,7.67,8,10,10,10,7.83,84.25,0.11,0,0,2,m,2560,2560,2560
+Arabica,Eiopia,320,19200 kg,2016,8,9,SEID DAMTEW COFFEE PLANATAION,7.75,8,7.58,8,8,7.92,10,10,10,7.83,85.08,0.11,0,1,8,m,0,0,0
+Arabica,Taiwan,10,5 kg,2016,8,10,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.92,7.75,7.75,7.67,7.67,7.83,10,10,10,7.67,84.25,0.12,0,0,0,m,1000,1000,1000
+Arabica,Guatemala,275,0 kg,2016,8,12,Juan Luis Alvarado Romero,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,83.25,0.11,0,2,7,m,2100,2100,2100
+Arabica,Taiwan,160,1 kg,2016,8,12,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,7.33,80.67,0,0,0,1,m,0,0,0
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.5,7.58,7.58,7.67,7.58,7.5,10,10,10,7.58,83,0.11,0,3,5,m,894,894,894
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,7.58,83,0.11,0,2,3,m,872,872,872
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,82.67,0.11,0,2,3,m,934,934,934
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,7.5,82.33,0.11,0,2,3,m,934,934,934
+Arabica,Brazil,230,60 kg,2016,8,16,Ipanema Coffees,7.5,7.33,7.42,7.5,7.33,7.42,10,10,10,7.5,82,0.11,0,2,3,m,944,944,944
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.42,7.42,7.5,7.42,7.42,7.5,10,10,10,7.5,82.17,0.11,0,1,5,m,934,934,934
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,7.5,82.08,0.11,0,1,3,m,894,894,894
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,7.83,83.92,0.11,0,2,7,m,934,934,934
+Arabica,Brazil,320,60 kg,2016,8,16,Ipanema Coffees,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,7.83,83.67,0.11,0,2,3,m,934,934,934
+Arabica,Colombia,250,70 kg,2016,8,19,Racafe & Cia S.C.A,7.83,7.75,7.58,7.67,7.75,7.83,10,10,10,7.75,84.17,0,0,0,2,m,0,0,0
+Arabica,Costa Rica,150,69 kg,2016,8,19,Wayner Jimenez,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,8,84.17,0.09,0,0,2,m,1700,1700,1700
+Arabica,Taiwan,6,5 kg,2016,8,22,"Lin, Che-Hao Krude ÊûóÂì≤Ë±™",7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,7.5,82.58,0.11,0,5,0,m,1050,1050,1050
+Arabica,Guatemala,275,69 kg,2016,8,31,Juan Luis Alvarado Romero,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,82.25,0.11,0,2,2,m,1450,1450,1450
+Arabica,Brazil,300,59 kg,2016,9,9,BOURBON SPECIALTY COFFEES,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,81,0.11,0,2,3,m,0,0,0
+Arabica,Brazil,305,59 kg,2016,10,13,Gabriel Barbara,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,7.5,82.33,0.11,0,4,14,m,0,0,0
+Arabica,Brazil,305,59 kg,2016,10,26,Gabriel Barbara,7.42,7.33,7.33,7.5,7.5,7.33,10,10,10,7.5,81.92,0.11,0,0,4,m,1020,1020,1020
+Arabica,Japan,20,1 kg,2016,11,2,ÊùæÊæ§ÂÆèÊ®π Koju Matsuzawa,7.75,7.75,7.75,7.42,8.08,7.83,10,10,10,8.08,84.67,0.12,0,0,0,m,170,170,170
+Arabica,Colombia,230,70 kg,2016,11,8,Racafe & Cia S.C.A,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,7.25,81.33,0,0,0,0,m,0,0,0
+Arabica,Colombia,275,70 kg,2016,11,8,Exportadora de Cafe Condor S.A,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,0,1,0,m,1650,1650,1650
+Arabica,Indonesia,2,1 kg,2016,11,24,SanJava Coffee,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,7.92,84.67,0.12,0,0,7,m,1200,1200,1200
+Arabica,Colombia,243,70 kg,2016,11,25,Racafe & Cia S.C.A,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,7.83,84.92,0,1,6,2,m,0,0,0
+Arabica,Brazil,300,60 kg,2016,12,28,BOURBON SPECIALTY COFFEES,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,73.5,0.11,0,1,0,m,0,0,0
+Arabica,Brazil,300,60 kg,2016,12,28,BOURBON SPECIALTY COFFEES,7.42,7.42,7.5,7.33,7.25,7.67,10,10,10,8,82.58,0,1,9,2,m,0,0,0
+Arabica,Colombia,125,70 kg,2016,12,28,Racafe & Cia S.C.A,7.92,7.83,7.58,8,7.83,7.67,10,10,10,7.75,84.58,0,0,1,5,m,0,0,0
+Arabica,Costa Rica,275,150 lbs,2017,1,11,Amanda Powers,7.58,7.75,7.67,7.75,7.83,7.75,10,10,10,7.67,84,0.08,1,2,13,m,0,0,0
+Arabica,Guatemala,275,69 kg,2017,1,20,Juan Luis Alvarado Romero,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,7.5,82.42,0.11,0,2,3,m,0,0,0
+Arabica,Taiwan,1,10 kg,2017,2,13,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7,7.08,7,7.17,7,7,10,10,10,10,82.25,0.1,0,0,0,m,0,0,0
+Arabica,Taiwan,1,10 kg,2017,2,13,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.25,7.25,7,7.08,7,7,10,10,10,10,82.58,0.11,0,0,0,m,200,200,200
+Arabica,Taiwan,1,10 kg,2017,2,13,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.58,7.58,7.17,7.17,7,7,10,10,10,10,83.5,0.11,0,0,0,m,0,0,0
+Arabica,Mexico,50,50 kg,2017,3,7,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,0,0,0,m,1600,1600,1600
+Arabica,Indonesia,200,30 kg,2017,3,14,Aulia Arif Syahri,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,8,84.42,0,0,0,3,m,1400,1400,1400
+Arabica,Honduras,275,69 kg,2017,4,6,Bismarck Castro,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,7.58,82.33,0.1,0,1,8,m,1396,1396,1396
+Arabica,Honduras,275,69 kg,2017,4,6,Bismarck Castro,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,7.67,82.75,0.09,0,1,6,m,1400,1400,1400
+Arabica,Vietnam,1,2 kg,2017,5,8,"Sunvirtue Co., Ltd.",7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,7.58,83.17,0.07,0,0,0,m,1550,1550,1550
+Arabica,El Salvador,275,69 kg,2017,5,8,Consejo Salvadore√±o del Caf√©,7.67,7.67,7.17,7.33,7.58,7.67,10,10,10,7.67,82.75,0,0,0,4,m,1250,1250,1250
+Arabica,Vietnam,1,2 kg,2017,5,9,"Sunvirtue Co., Ltd.",7.42,7.25,7.25,7.58,7.42,7.33,8.67,10,10,7.25,80.17,0,0,0,2,m,1550,1550,1550
+Arabica,Honduras,275,66 kg,2017,5,11,Bismarck Castro,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,7.75,84,0.1,0,0,5,m,1500,1500,1500
+Arabica,Mexico,240,69 kg,2017,5,12,Grupo Santab S.A de C.V.,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,0,0,11,m,1100,1100,1100
+Arabica,Mexico,200,69 kg,2017,5,12,CAFES TOMARI SA DE CV,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,81.42,0.12,1,5,17,m,1100,1100,1100
+Arabica,Indonesia,2,2 kg,2017,5,24,PT.ROYAL PACIFIC INDAH INTERNATIONAL,7.81,7.88,7.56,7.75,7.63,7.75,10,10,10,7.75,84.13,0.12,0,0,0,m,0,0,0
+Arabica,Honduras,275,69 kg,2017,6,1,Bismarck Castro,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,82,0.12,0,0,1,m,1600,1600,1600
+Arabica,Guatemala,50,69 kg,2017,6,1,Juan Luis Alvarado Romero,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,7.33,81.5,0.12,0,0,0,m,0,0,0
+Arabica,Guatemala,25,69 kg,2017,6,1,Juan Luis Alvarado Romero,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,81.58,0.12,0,0,0,m,190164,190164,190164
+Arabica,Guatemala,25,69 kg,2017,6,1,Juan Luis Alvarado Romero,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,0,ft,157.8864,157.8864,157.8864
+Arabica,Guatemala,20,69 kg,2017,6,1,Juan Luis Alvarado Romero,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,7.42,82.42,0.12,0,0,0,ft,157.8864,157.8864,157.8864
+Arabica,Honduras,274,67 kg,2017,6,1,Bismarck Castro,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,7.33,81.92,0.12,0,0,1,m,1400,1400,1400
+Arabica,Guatemala,50,69 kg,2017,6,1,Juan Luis Alvarado Romero,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,7.75,84.17,0.13,0,0,1,m,1700,1700,1700
+Arabica,Honduras,275,69 kg,2017,6,3,Elsy Reyes,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,7.33,81.5,0.1,0,0,5,m,1400,1400,1400
+Arabica,Honduras,275,69 kg,2017,6,3,Elsy Reyes,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.5,0.1,0,0,4,m,1400,1400,1400
+Arabica,Guatemala,80,69 kg,2017,6,5,Juan Luis Alvarado Romero,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,7.33,81.67,0.12,0,1,3,ft,1219.2,1219.2,1219.2
+Arabica,Eiopia,320,60 kg,2017,6,5,Kyagalanyi Coffee Ltd,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,7.92,84,0.11,3,11,1,m,1800,1800,1800
+Arabica,Nicaragua,275,69 kg,2017,6,13,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,7,80,0.1,0,0,5,m,1250,1250,1250
+Arabica,Peru,200,13800 kg,2017,6,16,ANDREA BERNAL,7.92,7.5,7.5,7.58,7.67,7.5,10,10,10,7.5,83.17,0.11,0,1,0,m,0,0,0
+Arabica,Nicaragua,550,69 kg,2017,6,20,"Exportadora Atlantic, S.A.",7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,7.33,81.5,0.11,0,0,3,m,1100,1100,1100
+Arabica,Guatemala,50,69 kg,2017,6,22,Juan Luis Alvarado Romero,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,82.83,0.11,1,1,2,m,1700,1700,1700
+Arabica,Guatemala,50,69 kg,2017,6,22,Juan Luis Alvarado Romero,7.5,7.5,7.25,7.42,7.42,7.42,10,10,10,7.42,81.92,0.11,0,2,0,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,50,69 kg,2017,6,22,Juan Luis Alvarado Romero,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,81.75,0.11,0,1,1,m,1700,1700,1700
+Arabica,Eiopia,320,19200 kg,2017,6,23,SEID DAMTEW COFFEE PLANATAION,7.83,8,7.83,8.17,7.92,8,10,10,10,8,85.75,0.09,0,4,7,m,0,0,0
+Arabica,Colombia,275,70 kg,2017,6,30,CARCAFE LTDA CI,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,7.75,83.83,0,1,0,6,m,2527,2527,2527
+Arabica,Mexico,200,69 kg,2017,7,3,CAFES TOMARI SA DE CV,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,83.92,0.11,0,0,5,m,1300,1300,1300
+Arabica,Kenya,150,60 kg,2017,7,7,Lydiah Mwangi,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,80.92,0.11,0,0,3,m,1600,1600,1600
+Arabica,Colombia,129,70 kg,2017,7,7,Racafe & Cia S.C.A,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,82.92,0.11,0,0,1,m,1500,1500,1500
+Arabica,Honduras,15,69 kg,2017,7,27,Janny Marli Torres,7.58,7,6.75,6.92,7,6.92,10,10,10,7,79.17,0.11,0,0,5,m,1650,1650,1650
+Arabica,Indonesia,2,1 kg,2017,8,3,SanJava Coffee,7.5,7.5,7.42,7.42,7.5,7.42,10,10,10,7.33,82.08,0.15,0,0,3,m,1300,1300,1300
+Arabica,Kenya,150,60 kg,2017,8,3,Lydiah Mwangi,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,8.17,84.33,0.11,0,0,4,m,1800,1800,1800
+Arabica,Indonesia,2,1 kg,2017,8,8,SanJava Coffee,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,7.58,82.75,0.12,0,0,15,m,1500,1500,1500
+Arabica,Guatemala,50,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,0,0,2,m,1700,1700,1700
+Arabica,Guatemala,50,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,79.17,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,25,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,7.67,82.75,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,25,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,7.42,81.83,0.1,1,0,1,ft,157.8864,157.8864,157.8864
+Arabica,Guatemala,50,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,81.67,0.1,0,0,1,m,1700,1700,1700
+Arabica,Guatemala,25,69 kg,2017,8,22,Juan Luis Alvarado Romero,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,81.92,0.1,0,0,1,m,1901,1901,1901
+Arabica,Honduras,15,69 kg,2017,8,23,Janny Marli Torres,7.58,7.33,7,7.17,7.33,7.08,10,10,10,7,80.5,0.11,0,0,5,m,1650,1650,1650
+Arabica,Guatemala,50,69 kg,2017,8,23,Juan Luis Alvarado Romero,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,0,0,1,m,1700,1700,1700
+Arabica,Guatemala,50,69 kg,2017,8,23,Juan Luis Alvarado Romero,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,0,0,3,m,1700,1700,1700
+Arabica,Guatemala,50,69 kg,2017,8,23,Juan Luis Alvarado Romero,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,7.58,81.5,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,25,69 kg,2017,8,23,Juan Luis Alvarado Romero,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,0,0,2,m,1901,1901,1901
+Arabica,Guatemala,275,69 kg,2017,8,24,Juan Luis Alvarado Romero,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,83.17,0.1,0,0,1,m,1901,1901,1901
+Arabica,Kenya,200,12000 kg,2017,8,25,Kennedy Macharia,7,7.08,7,7.17,7.25,7.25,10,10,10,7.08,79.83,0.11,0,1,5,m,1500,1500,1500
+Arabica,El Salvador,100,69 kg,2017,8,28,Consejo Salvadore√±o del Caf√©,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,7.5,82.92,0,0,0,1,m,1350,1350,1350
+Arabica,El Salvador,100,69 kg,2017,8,28,Consejo Salvadore√±o del Caf√©,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,81,0,0,2,6,m,1450,1450,1450
+Arabica,Kenya,200,60 kg,2017,9,1,Kennedy Macharia,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,83.67,0.11,0,0,0,m,1700,1700,1700
+Arabica,Indonesia,2,1 kg,2017,9,4,SanJava Coffee,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,7.42,82.5,0.11,0,0,5,m,1250,1250,1250
+Arabica,Guatemala,50,69 kg,2017,9,8,Juan Luis Alvarado Romero,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,7.58,82.75,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,25,69 kg,2017,9,8,Juan Luis Alvarado Romero,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,7.5,82.58,0.1,0,1,2,ft,1219.2,1219.2,1219.2
+Arabica,Guatemala,275,69 kg,2017,9,8,Juan Luis Alvarado Romero,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,0,0,4,m,1500,1500,1500
+Arabica,Guatemala,50,69 kg,2017,9,8,Juan Luis Alvarado Romero,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,0,1,2,m,1700,1700,1700
+Arabica,Guatemala,50,69 kg,2017,9,19,Juan Luis Alvarado Romero,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,82.75,0.11,0,0,4,m,1700,1700,1700
+Arabica,Honduras,1,2 kg,2017,9,27,Brian Beck,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,82.42,0.12,0,1,6,m,1500,1500,1500
+Arabica,Colombia,275,70 kg,2017,9,28,CARCAFE LTDA CI,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,7.75,83.75,0.11,0,0,1,m,442,442,442
+Arabica,Panama,37,60 kg,2017,10,9,Gonzalo Hernandez,8,8,7.92,8.08,7.83,8,10,10,10,8,85.83,0.08,0,1,0,m,1600,1600,1600
+Arabica,Kenya,27,50 kg,2017,10,13,Jungle Estate,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,82.83,0.1,0,0,3,m,1754,1754,1754
+Arabica,Guatemala,275,69 kg,2017,10,17,Juan Luis Alvarado Romero,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,7.5,82.75,0.11,0,0,8,m,1800,1800,1800
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,8.5,83.92,0,0,0,3,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,82.67,0,0,0,4,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,7.42,82.5,0.11,0,0,4,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,77.33,0,0,0,3,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,7.25,81.67,0.11,0,0,5,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,83.58,0.11,0,0,5,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,7.5,83,0,0,0,4,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,7.75,83.75,0.11,0,0,5,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,83.67,0.11,0,0,2,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,7.75,83.17,0.11,0,0,4,m,890,890,890
+Arabica,Brazil,320,60 kg,2017,10,20,Ipanema Coffees,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,7.5,82.92,0,0,0,0,m,890,890,890
+Arabica,Brazil,305,59 kg,2017,10,27,Volcafe Ltda. - Brasil,7,7,6.83,7,7.33,6.83,6,6,10,6.67,70.67,0.11,0,1,55,m,0,0,0
+Arabica,Brazil,440,59 kg,2017,10,27,Volcafe Ltda. - Brasil,7.17,7,6.83,7.5,7.17,7,8,8,10,7,75.67,0.11,0,1,6,m,0,0,0
+Arabica,Brazil,440,59 kg,2017,11,3,Volcafe Ltda. - Brasil,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,80.25,0.11,0,1,1,m,995,995,995
+Arabica,Colombia,300,29 kg,2017,11,9,CARCAFE LTDA CI,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,83.42,0,0,2,1,m,439,439,439
+Arabica,Colombia,275,70 kg,2017,11,9,CARCAFE LTDA CI,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,7.5,84.08,0,1,3,3,m,442,442,442
+Arabica,Brazil,1062,5 kg,2017,11,15,KlemOrganics,7.58,7.5,7.25,7.42,7.67,7.33,10,10,10,7.5,82.25,0.09,2,6,10,m,1100,1100,1100
+Arabica,Costa Rica,275,18975 kg,2017,11,28,Max Gurdian,7.92,7.67,7.92,7.75,7.67,7.58,10,10,10,8,84.5,0.1,0,0,2,m,1200,1200,1200
+Arabica,Brazil,440,60 kg,2017,11,29,Brayan Cunha Souza,7.17,7.17,7,7.17,7.25,7.25,10,10,10,7.08,80.08,0.11,0,0,5,m,1100,1100,1100
+Arabica,Taiwan,20,5 kg,2017,12,8,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,7.17,80.5,0,0,0,0,m,50,50,50
+Arabica,Taiwan,150,1 kg,2017,12,8,CQI Taiwan ICP CQIÂè∞ÁÅ£Âêà‰ΩúÂ§•‰º¥,7.33,7.17,7.25,7.33,7.33,7.25,10,10,10,7.25,80.92,0,0,0,0,m,200,200,200
