@@ -68,9 +68,11 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 4. Install the "Live Server" extenstion in Visual Studio Code.
 
-5. Right-click on the "index.html" file in the root directory and select "open with Live Server".
+5. In the "index.html", change the `src` parameter of the `<script src="./mySketch.js"></script>` element to point to your desired js file.
 
-6. Open your browser on localhost address `127.0.0.1/5500`.
+6. Right-click on the "index.html" file and select "open with Live Server".
+
+7. Open your browser on localhost address `127.0.0.1/5500`.
 
 ## p5 Documentation
 
