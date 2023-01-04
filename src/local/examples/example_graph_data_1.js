@@ -7,7 +7,7 @@ let x_factor; // scale X to fit canvas
 let point_size = 10; // the size of the point
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(600, 400);
   loadData();
   setXandYfactor();
 }
@@ -24,7 +24,7 @@ function draw() {
 //// new in "1_graph_data.js" ////
 function drawText() {
   noStroke();
-  textSize(30);
+  textSize(20);
   text(
     "Height of dots equals `Acidity` levels over time.",
     width / 2,
@@ -63,5 +63,5 @@ function loadData() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./local/data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./arabica_data_cleaned_year.csv", "header");
 }

@@ -2,8 +2,8 @@
 // of a particular coffee dispacth over the years. Uses an object oriented
 // method to create dots from differ coffee owners/companies.
 
-let canvas_height = 600;
-let canvas_width = 800;
+let canvas_height = 400;
+let canvas_width = 600;
 let scaleFactor;
 
 let data;
@@ -44,7 +44,7 @@ function draw() {
 
 function drawText() {
   noStroke();
-  textSize(20);
+  textSize(12);
 
   textAlign(CENTER);
   text("Body", width / 2, height - 10);
@@ -59,7 +59,7 @@ function drawText() {
     height - 60
   );
 
-  textSize(12);
+  textSize(8);
   textAlign(LEFT);
   text("Column index: " + curr_slider_val, 10, height - 40);
 }
@@ -113,7 +113,7 @@ function loadData() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./arabica_data_cleaned_year.csv", "header");
 }
 
 class Snake {

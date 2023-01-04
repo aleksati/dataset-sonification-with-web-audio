@@ -11,7 +11,7 @@ let point_size = 10; // the size of the point
 let sine; // our sine wave oscillator
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(600, 400);
   loadData();
   setXandYfactor();
   loadAudio(0.5);
@@ -39,7 +39,7 @@ function draw() {
 
 function drawText() {
   noStroke();
-  textSize(30);
+  textSize(20);
   text(
     "Freq and height of dot equals `Acidity` levels over time.",
     width / 2,

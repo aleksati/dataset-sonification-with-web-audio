@@ -5,9 +5,9 @@
 3. [Requirements](#requirements)
 4. [Setup](#setup)
 
-   4.1. [Browser](#browser-recommended)
+   4.1. [Browser (recommended)](#browser-recommended)
 
-   4.2. [Local](#local)
+   4.2. [Local (advanced)](#local)
 
 5. [p5 documentation](#p5-documentation)
 6. [Organizers](#organizers)
@@ -35,7 +35,7 @@ For location and additional information, visit the [official event page](https:/
 
 - Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, wheter it be PhDs, postdocs, other technical personnel and/or students.
 
-- Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>) (e.g Chrome, Firefox, Brave etc.).
+- Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>) (e.g Chrome, Firefox, Brave etc.) and programming-oriented text-editor (e.g [Visual Studio Code](https://code.visualstudio.com/download)).
 
 ## Setup
 
@@ -56,7 +56,7 @@ You can either work directly from the browser, via p5's own web editor, or from 
 </div>
 </br> -->
 
-5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and drag and drop the "browser" folder into the popup square.
+5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv".
 
 ### Local (advanced)
 

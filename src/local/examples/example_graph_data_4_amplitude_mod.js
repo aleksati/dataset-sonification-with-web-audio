@@ -16,7 +16,7 @@ let env; // our envelope so we can play the sine as a note
 let LFO; // our LFO that we use to control the amplitude of the sine
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(600, 400);
   loadData();
   setXandYfactor();
   storeDataCoords();
@@ -37,7 +37,7 @@ function draw() {
 
 function drawText() {
   noStroke();
-  textSize(30);
+  textSize(20);
   text(
     "Height of dot equals coffee `Acidity` levels over time.",
     width / 2,
@@ -225,5 +225,5 @@ function setXandYfactor() {
 
 function preload() {
   // asynchronous data loading
-  data = loadTable("./local/data/arabica_data_cleaned_year.csv", "header");
+  data = loadTable("./arabica_data_cleaned_year.csv", "header");
 }
