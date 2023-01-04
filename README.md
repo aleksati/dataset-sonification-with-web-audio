@@ -4,11 +4,6 @@
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
 4. [Setup](#setup)
-
-   4.1. [Browser (recommended)](#browser-recommended)
-
-   4.2. [Local (advanced)](#local)
-
 5. [p5 documentation](#p5-documentation)
 6. [Organizers](#organizers)
 
@@ -39,9 +34,7 @@ For location and additional information, visit the [official event page](https:/
 
 ## Setup
 
-You can either work directly from the browser, via p5's own web editor, or from your local machine. Here is how you do it:
-
-### Browser (recommended)
+You should work directly from the browser via p5's own web editor. Here is how you do it:
 
 1. Download this repository.
 
@@ -51,28 +44,12 @@ You can either work directly from the browser, via p5's own web editor, or from 
 
 4. In the web editor of your new sketch, open the sidebar (black arrow on gray backgroun) to access your files.
 
+5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv" in the data folder.
+
 <!-- <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
 </br> -->
-
-5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv".
-
-### Local (advanced)
-
-1. Download [Visual Studio Code](https://code.visualstudio.com/download).
-
-2. Download this repository.
-
-3. Import the "local" folder into Visual Studio Code.
-
-4. Install the "Live Server" extenstion in Visual Studio Code.
-
-5. In the "index.html", change the `src` parameter of the `<script src="./mySketch.js"></script>` element to point to your desired js file.
-
-6. Right-click on the "index.html" file and select "open with Live Server".
-
-7. Open your browser on localhost address `127.0.0.1/5500`.
 
 ## p5 Documentation
 
@@ -80,4 +57,4 @@ In-depth examples, full code documentation and tutorials are avaliable on the [p
 
 ## Organizers
 
-[Stefano Fasciani](https://github.com/stefanofasciani) and [Aleksander Tidemann] (https://github.com/aleksati)
+[Stefano Fasciani](https://github.com/stefanofasciani) and [Aleksander Tidemann](https://github.com/aleksati)
