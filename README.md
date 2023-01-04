@@ -13,7 +13,7 @@ Welcome! Here you will find files and necessary information to participate in a 
 
 ## Introduction
 
-The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, we will learn how to use sonification and dynamic images to display multidimensional data in a web browser. We will explore these concepts in a creative way while still preserving coherence with the data bring rendered. As a bonus, we will show you how to embed this into your personal UiO page.
+The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, you will learn how to use sonification together with dynamic images to display multi-dimensional data in a web browser. We will explore these concepts in a creative way but still preserving coherence with the data bring rendered. As a bonus, you will also learn how you can embed web apps onto your personal UiO pages.
 
 For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html).
 
