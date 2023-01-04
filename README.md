@@ -9,16 +9,14 @@
 
 ## Intro
 
-Learn how to display multidimensional data using dynamic images and sound in the browser. In collaboration with the Digital Scholarship Days at the University of Oslo.
+Welcome to this workshop in creative data visualization and sonification! The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, we will learn how to use sonification and dynamic images to display multidimensional data in a web browser. We will explore these concepts in a creative way while still preserving coherence with the data bring rendered. Also, as a bonus, we will show you how to embed these works into your own personal UiO page.
+
+For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html). The workshop is in collaboration with the Digital Scholarship Days at the University of Oslo.
 
 <div align="left">
  <img src="/img/dsc-days.png" width=600>
 </div>
 </br>
-
-We will explore the use of visuals and sound in a creative way while still preserving coherence with the data bring rendered. Sonification refers to the use of non-speech audio to convey information or perceptualize data. Using the browser as a display tool drastically simplifies dissemination with peers and communication with the general public. As a bonus, we will show you how to embed this in your UiO personal page.
-
-For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html).
 
 ## Learning outcomes
 
@@ -44,7 +42,7 @@ You should work directly from the browser via p5's own web editor. Here is how y
 
 4. In the web editor of your new sketch, open the sidebar (black arrow on gray backgroun) to access your files.
 
-5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv" in the data folder.
+5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv" from the data folder.
 
 <!-- <div align="left">
  <img src="/fig/local-3-vsc.png" width=600>
