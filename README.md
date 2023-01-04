@@ -1,5 +1,9 @@
 # Workshop in Creative Data Visualization and Sonification in a Web Browser
 
+Welcome! Here you will find files and necessary information to participate in a creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo, 2023. 
+
+## Table of Contents 
+
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
 3. [Requirements](#requirements)
@@ -7,13 +11,9 @@
 5. [p5 documentation](#p5-documentation)
 6. [Organizers](#organizers)
 
-## Intro
+## Introduction
 
-Welcome! Included here are files and info for a workshop in creative data visualization and sonification, held in collaboration with the Digital Scholarship Days at the University of Oslo. 
-
-The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, we will learn how to use sonification and dynamic images to display multidimensional data in a web browser. We will explore these concepts in a creative way while still preserving coherence with the data bring rendered.
-
-As a bonus, we will show you how to embed this into your personal UiO page.
+The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, we will learn how to use sonification and dynamic images to display multidimensional data in a web browser. We will explore these concepts in a creative way while still preserving coherence with the data bring rendered. As a bonus, we will show you how to embed this into your personal UiO page.
 
 For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html).
 
