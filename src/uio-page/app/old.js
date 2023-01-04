@@ -1,17 +1,21 @@
+let canvas;
 let wrapper;
+let parent;
 let wrapperID = "vrtx-person-main-content-wrapper";
 //let wrapperID = "synth-holder"; // for development
 let parentID = "synth-holder";
+let parentOffsets;
+let wrapperOffsets;
 
 let data; // table with the raw data, sorted after time (year)
-let data_size = 50; // the number of rows in our data table we want to use
+let data_size = 40; // the number of rows in our data table we want to use
 let data_cleaned; // array of a table column to use for the dots
 let data_cleaned_1; // array of a table column we use for the frequency of our sine
 let data_cleaned_2; // array of a table column we use for the frequency of our LFO
 
 let y_factor; // scale Y to fit canvas
 let x_factor; // scale X to fit canvas
-let point_size = 10; // the size of the point
+let point_size = 15; // the size of the point
 
 let data_coords = {}; // an object table used to store the x and y of every data dot
 let match_coords = []; // store the current x and y of the user mouse click
@@ -23,10 +27,13 @@ let LFO; // our LFO that we use to control the amplitude of the sine
 function setup() {
   // setup canvas
   wrapper = document.getElementById(wrapperID);
+  parent = document.getElementById(parentID);
   canvasWidth = wrapper.offsetWidth;
   canvas = createCanvas(canvasWidth, 400);
-  // canvas.mouseClicked(mouseClicked);
+  canvas.mouseClicked(handleClick);
   canvas.parent(parentID);
+  parentOffsets = parent.getBoundingClientRect();
+  wrapperOffsets = wrapper.getBoundingClientRect();
 
   loadData();
   setXandYfactor();
@@ -42,22 +49,17 @@ function draw() {
   drawDots();
 }
 
-/////////////// utils ////////////////
-
-//// new in "example_plot_ampmod.js" ////
+// utils
+// new in "example_plot_ampmod.js"
 function drawText() {
   noStroke();
   textSize(20);
-  text("Click the dots!", width / 2, height - 80);
+  text("Click the dots!", width / 2, height - 50);
+
+  text("Height of dots = `Acidity` levels over time.", width / 2, height - 80);
 
   text(
-    "Height of dot equals coffee `Acidity` levels over time.",
-    width / 2,
-    height - 50
-  );
-
-  text(
-    "Freq of note equals = `Altitude` and freq of LFO = `Number og bags`.",
+    "Freq of note = `Altitude` and freq of LFO = `Number og bags`.",
     width / 2,
     height - 20
   );
@@ -129,13 +131,11 @@ function loadData() {
   // add another column to use for the freq of our sine.
   data_cleaned_1 = data.getColumn("altitude_mean_meters");
   data_cleaned_1 = data_cleaned_1.slice(0, data_size);
-  // clean the data a little. If altitude is 0, the freq should be 100.
   data_cleaned_1 = data_cleaned_1.map((number) => int(number) + 100);
 
   // add another column to use for the freq of our lfo.
   data_cleaned_2 = data.getColumn("Number.of.Bags");
   data_cleaned_2 = data_cleaned_2.slice(0, 50);
-  // clean the data a little. Convert to numbers from string
   data_cleaned_2 = data_cleaned_2.map((string) => int(string));
 }
 
@@ -147,7 +147,7 @@ function resumeAudioContext() {
   getAudioContext().state === "suspended" ? getAudioContext().resume() : null;
 }
 
-/// new in "example_plot_sonifyclick.js" ////
+// new in "example_plot_sonifyclick.js"
 
 function drawDots() {
   // if the user has clicked a dot, we color the dot a different color
@@ -197,11 +197,19 @@ function isMatch(mouseX, mouseY, object_table) {
   return { match, coords };
 }
 
-function mouseClicked(mouse) {
+function handleClick(mouse) {
   resumeAudioContext();
 
+  let x_scaled = Math.round(mouse.x - parentOffsets.left);
+  let y_scaled = Math.round(mouse.y); //- parentOffsets.top
+
+  console.log(mouse.x, mouse.y);
+  console.log(parentOffsets);
+  console.log(wrapperOffsets);
+
   // if the user clicks a dot, we update the match_coords variable.
-  const { match, coords } = isMatch(mouse.x, mouse.y, data_coords);
+  const { match, coords } = isMatch(x_scaled, y_scaled, data_coords);
+
   if (match) {
     console.log("You hit a dot!");
     console.log("x:", coords[0], "y:", coords[1]);
@@ -212,8 +220,7 @@ function mouseClicked(mouse) {
   }
 }
 
-//// new in "template_1.js" ////
-
+// new in "template_1.js"
 function getXandYFromIndex(i) {
   let x = Math.floor(x_factor * i);
   // we do "height - y" so that the high values appear higher up in the canvas
