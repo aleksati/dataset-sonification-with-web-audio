@@ -17,12 +17,11 @@ function setup() {
 function draw() {
   background("white");
   strokeWeight(point_size);
-  drawText();
   drawDots();
+  drawText();
 }
 
 // utils
-
 // new in "template_1.js"
 function drawText() {
   noStroke();
@@ -36,7 +35,7 @@ function drawText() {
 }
 
 function drawDots() {
-  // for every column entry, create a point.
+  // for every row entry, create a point.
   // all points should together strech the length of the graph.
   for (i = 1; i < data_cleaned.length; i++) {
     let { x, y } = getXandYFromIndex(i);
