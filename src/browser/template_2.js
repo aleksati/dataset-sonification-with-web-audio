@@ -60,11 +60,7 @@ function drawDots() {
 
 function incrementAccumulator() {
   // Makes sure we dont exceed the length(index range) of our data.
-  if (accumulator >= data_cleaned.length) {
-    accumulator = 0;
-  } else {
-    accumulator += 1;
-  }
+  accumulator = accumulator >= data_cleaned.length ? 0 : (accumulator += 1);
 }
 
 function loadData() {
