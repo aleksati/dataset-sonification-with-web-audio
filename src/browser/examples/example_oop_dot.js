@@ -37,7 +37,6 @@ function setup() {
   data_y = scaleAxis(data_y, canvas_height);
   loadSlider();
   loadDots();
-  suspendAudioContext();
 }
 
 function draw() {
