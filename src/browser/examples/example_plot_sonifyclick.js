@@ -30,7 +30,7 @@ function draw() {
 
 /////////////// utils ////////////////
 
-/// new in "3_graph_data_sonify_click.js" ////
+/// new in "example_plot_sonifyclick.js" ////
 
 function drawText() {
   noStroke();
