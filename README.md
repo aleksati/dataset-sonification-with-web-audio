@@ -1,4 +1,4 @@
-# Creative Dataset Visualization and Sonification in a Web Browser
+# Workshop in Creative Dataset Visualization and Sonification with Web Audio
 
 Welcome! Here you will find all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo. 
 
