@@ -1,6 +1,4 @@
-# Creative Dataset Visualization and Sonification with Web Audio
-
-> > > > > > > ef760b90edc2925c6cfc48769458cdab3a6c5d17
+# Data Visualization and Sonification with Web Audio
 
 Here you will find all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
 
