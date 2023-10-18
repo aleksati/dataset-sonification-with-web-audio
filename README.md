@@ -1,8 +1,8 @@
-# Creative Data Visualization and Sonification in a Web Browser
+# Data Visualization and Sonification in a Web Browser
 
-Welcome! Here you will find all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo. 
+Here you will find all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
 
-## Table of Contents 
+## Contents
 
 1. [Introduction](#intro)
 2. [Learning outcomes](#learning-outcomes)
@@ -52,8 +52,6 @@ You should work directly from the browser via p5's own web editor. Here is how y
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
 </br> -->
-
-## p5 Documentation
 
 In-depth examples, full code documentation and tutorials are avaliable on the [p5 official website](https://p5js.org/).
 

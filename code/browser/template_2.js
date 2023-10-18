@@ -52,6 +52,7 @@ function drawDots() {
     point(x, y);
   }
 
+  // text
   noStroke();
   textSize(12);
   let { x } = getXandYFromIndex(accumulator);
