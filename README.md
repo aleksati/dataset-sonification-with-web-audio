@@ -1,15 +1,7 @@
 # Data Visualization and Sonification with Web Audio
 
-Here you will find all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
+Here are all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
 
-## Contents
-
-1. [Introduction](#intro)
-2. [Learning outcomes](#learning-outcomes)
-3. [Requirements](#requirements)
-4. [Setup](#setup)
-5. [p5 documentation](#p5-documentation)
-6. [Organizers](#organizers)
 
 ## Introduction
 
