@@ -2,10 +2,11 @@
 
 Here are all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
 
+Read more a more in-depth account on this blog post - https://aleksati.net/posts/exploring-dataset-sonification-with-web-audio
 
 ## Introduction
 
-The term `Sonification` refers to the use of non-speech audio to convey information or perceptualize data. In this workshop, you will learn how to use sonification and dynamic images to display valuable and coherent multi-dimensional data in a web browser. We will explore these concepts in a creative way using the [p5.js library](https://p5js.org/) library. As a bonus, you will also learn how to embed web apps onto your personal UiO pages.
+`Sonification` refers to non-speech audio to convey information or perceptualize data. In this workshop, you will learn how to use sonification and dynamic images to display valuable and coherent multi-dimensional data in a web browser. We will creatively explore these concepts using the [p5.js library](https://p5js.org/). As a bonus, you will also learn how to embed web apps onto your personal UiO pages.
 
 For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html).
 
@@ -16,13 +17,13 @@ For location and additional information, visit the [official event page](https:/
 
 ## Learning outcomes
 
-- Learn easy-to-use Javascript libraries for dynamic visualization and sonification.
+- Learn easy-to-use JavaScript libraries for dynamic visualization and sonification.
 - Learn to creatively map pre-recorded or real-time data and to sound and visuals.
 - Learn to integrate data visualization and sonification in a web page.
 
 ## Requirements
 
-- Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, wheter it be PhDs, postdocs, other technical personnel and/or students.
+- Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, whether it be PhDs, postdocs, other technical personnel and/or students.
 
 - Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>) (e.g Chrome, Firefox, Brave etc.) and programming-oriented text-editor (e.g [Visual Studio Code](https://code.visualstudio.com/download)).
 
