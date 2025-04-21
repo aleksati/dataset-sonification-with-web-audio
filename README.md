@@ -8,8 +8,6 @@ Read more a more in-depth account on this blog post - https://aleksati.net/posts
 
 `Sonification` refers to non-speech audio to convey information or perceptualize data. In this workshop, you will learn how to use sonification and dynamic images to display valuable and coherent multi-dimensional data in a web browser. We will creatively explore these concepts using the [p5.js library](https://p5js.org/). As a bonus, you will also learn how to embed web apps onto your personal UiO pages.
 
-For location and additional information, visit the [official event page](https://www.ub.uio.no/english/courses-events/events/all-libraries/2023/digital-scholarship-days/data-visualization.html).
-
 <div align="left">
  <img src="/img/dsc-days.png" width=600>
 </div>
