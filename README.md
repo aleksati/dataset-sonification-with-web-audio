@@ -1,8 +1,8 @@
 # Data Visualization and Sonification with Web Audio
 
-Here are all the necessary files and information to join our creative data visualization and sonification workshop, held in collaboration with the Digital Scholarship Days at the University of Oslo.
+This repo contains all the necessary files and information for a workshop on creative data visualization and sonification, held in collaboration with the Digital Scholarship Days at the University of Oslo. 
 
-Read more a more in-depth account on this blog post - https://aleksati.net/posts/exploring-dataset-sonification-with-web-audio
+For a more in-depth account of dataset sonification with web audio, visit this accompanying blog post - https://aleksati.net/posts/exploring-dataset-sonification-with-web-audio
 
 ## Introduction
 
@@ -21,7 +21,7 @@ Read more a more in-depth account on this blog post - https://aleksati.net/posts
 
 ## Requirements
 
-- Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write Javascript code. The workshop is for people interested in data sonification and/or creating computing, whether it be PhDs, postdocs, other technical personnel and/or students.
+- Familiarity with any text-based programming language (e.g., if/else statements, loops, arrays, functions, etc.). In the workshop, we will write JavaScript code. The workshop is for people interested in data sonification and/or creating computing, whether it be PhDs, postdocs, other technical personnel and/or students.
 
 - Laptop with a [chromium browser](<https://en.wikipedia.org/wiki/Chromium_(web_browser)>) (e.g Chrome, Firefox, Brave etc.) and programming-oriented text-editor (e.g [Visual Studio Code](https://code.visualstudio.com/download)).
 
@@ -35,7 +35,7 @@ You should work directly from the browser via p5's own web editor. Here is how y
 
 3. Go to "My Sketches" (click on "Hello, username!" on the top right) and create a new sketch.
 
-4. In the web editor of your new sketch, open the sidebar (black arrow on gray backgroun) to access your files.
+4. In the web editor of your new sketch, open the sidebar (black arrow on gray background) to access your files.
 
 5. Via the small dropdown menu "Sketch Files" in the left column of the web editor, choose to "upload file" and upload the "arabica_data_cleaned_year.csv" from the data folder.
 
@@ -43,8 +43,6 @@ You should work directly from the browser via p5's own web editor. Here is how y
  <img src="/fig/local-3-vsc.png" width=600>
 </div>
 </br> -->
-
-In-depth examples, full code documentation and tutorials are avaliable on the [p5 official website](https://p5js.org/).
 
 ## Organizers
 
